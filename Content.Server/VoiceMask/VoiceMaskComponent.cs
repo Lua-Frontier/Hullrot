@@ -26,6 +26,14 @@ public sealed partial class VoiceMaskComponent : Component
     [DataField]
     public ProtoId<SpeechVerbPrototype>? VoiceMaskSpeechVerb;
 
+    // Corvax-TTS-Start
+    /// <summary>
+    ///     The TTS voice ID that overrides the wearer's voice. Null means no override.
+    /// </summary>
+    [DataField]
+    public string? VoiceId = null;
+    // Corvax-TTS-End
+
     /// <summary>
     ///     The action that gets displayed when the voice mask is equipped.
     /// </summary>

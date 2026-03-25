@@ -1,0 +1,14 @@
+ent-ClothingOuterVestWebMercenary = mercenary web vest
+    .desc = A high-quality armored vest made from a hard synthetic material. It's surprisingly flexible and light, despite formidable armor plating.
+ent-ClothingOuterArmorPunkGreen = панковская броня
+    .desc = { ent-ClothingOuterVestWebMercenary.desc }
+ent-ClothingOuterArmorPunkOrange = панковская броня
+    .desc = { ent-ClothingOuterArmorPunkGreen.desc }
+ent-ClothingOuterArmorPunkRed = панковская броня
+    .desc = { ent-ClothingOuterArmorPunkGreen.desc }
+ent-ClothingOuterArmorPunkRandomized = панковская броня
+    .suffix = Случайная
+    .desc = { ent-ClothingOuterArmorPunkGreen.desc }
+ent-ClothingOuterArmorElitePunkRandomized = тяжёлая панковская броня
+    .suffix = Случайная
+    .desc = { ent-ClothingOuterArmorBulletproof.desc }

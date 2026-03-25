@@ -1,0 +1,14 @@
+guide-entry-nf14 = Руководство Фронтира
+guide-entry-bank = NT Галактический банк
+guide-entry-shipyard = Верфи
+guide-entry-shipyard-ambition = Ambition
+guide-entry-shipyard-brigand = Brigand
+guide-entry-shipyard-ceres = Ceres
+guide-entry-shipyard-gasbender = Gasbender
+guide-entry-shipyard-harbormaster = Harbormaster
+guide-entry-shipyard-kilderkin = Kilderkin
+guide-entry-shipyard-lantern = Lantern
+guide-entry-shipyard-legman = Legman
+guide-entry-shipyard-liquidator = Liquidator
+guide-entry-shipyard-pioneer = Pioneer
+guide-entry-shipyard-searchlight = Searchlight

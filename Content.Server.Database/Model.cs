@@ -401,6 +401,7 @@ namespace Content.Server.Database
         public string? StationAiName { get; set; }
         public string? CyborgName { get; set; }
         public string Species { get; set; } = null!;
+        public string Voice { get; set; } = ""; // Corvax-TTS
         public float Height { get; set; } = 1f;
         public float Width { get; set; } = 1f;
         public string Faction { get; set; } = "";

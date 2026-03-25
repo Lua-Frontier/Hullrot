@@ -1,6 +1,7 @@
 using System.Globalization;
 using System.Linq;
 using System.Text.RegularExpressions;
+using Robust.Shared.Log;
 using Robust.Shared.Utility;
 
 namespace Content.Shared.Localizations
@@ -8,9 +9,11 @@ namespace Content.Shared.Localizations
     public sealed class ContentLocalizationManager
     {
         [Dependency] private readonly ILocalizationManager _loc = default!;
+        [Dependency] private readonly ILogManager _logManager = default!;
 
         // If you want to change your codebase's language, do it here.
-        private const string Culture = "en-US";
+        private const string Culture = "ru-RU"; // Lua-Localization
+        private const string FallbackCulture = "en-US"; // Lua-Localization
 
         /// <summary>
         /// Custom format strings used for parsing and displaying minutes:seconds timespans.
@@ -25,9 +28,14 @@ namespace Content.Shared.Localizations
 
         public void Initialize()
         {
+            _logManager.GetSawmill("loc").Level = LogLevel.Error;
             var culture = new CultureInfo(Culture);
+            var fallbackCulture = new CultureInfo(FallbackCulture); // Lua-Localization
 
             _loc.LoadCulture(culture);
+            _loc.LoadCulture(fallbackCulture); // Lua-Localization
+            _loc.SetFallbackCluture(fallbackCulture); // Lua-Localization
+            _loc.AddFunction(culture, "MANY", FormatMany); // Lua-Localization: To prevent problems in auto-generated locale files
             _loc.AddFunction(culture, "PRESSURE", FormatPressure);
             _loc.AddFunction(culture, "POWERWATTS", FormatPowerWatts);
             _loc.AddFunction(culture, "POWERJOULES", FormatPowerJoules);
@@ -36,6 +44,7 @@ namespace Content.Shared.Localizations
             _loc.AddFunction(culture, "LOC", FormatLoc);
             _loc.AddFunction(culture, "NATURALFIXED", FormatNaturalFixed);
             _loc.AddFunction(culture, "NATURALPERCENT", FormatNaturalPercent);
+            _loc.AddFunction(culture, "PLAYTIME", FormatPlaytime); // Lua-Localization
             //HULLROT EDIT: needed for formatting sign language to only 1 word and 10 characters
             _loc.AddFunction(culture, "FORMATSIGNLANGUAGE", FormatSignLanguage);
 
@@ -49,6 +58,14 @@ namespace Content.Shared.Localizations
 
             _loc.AddFunction(cultureEn, "MAKEPLURAL", FormatMakePlural);
             _loc.AddFunction(cultureEn, "MANY", FormatMany);
+            _loc.AddFunction(cultureEn, "TOSTRING", args => FormatToString(cultureEn, args));
+            _loc.AddFunction(cultureEn, "PRESSURE", FormatPressure);
+            _loc.AddFunction(cultureEn, "POWERWATTS", FormatPowerWatts);
+            _loc.AddFunction(cultureEn, "POWERJOULES", FormatPowerJoules);
+            _loc.AddFunction(cultureEn, "UNITS", FormatUnits);
+            _loc.AddFunction(cultureEn, "LOC", FormatLoc);
+            _loc.AddFunction(cultureEn, "NATURALFIXED", FormatNaturalFixed);
+            _loc.AddFunction(cultureEn, "NATURALPERCENT", FormatNaturalPercent);
         }
 
         private ILocValue FormatMany(LocArgs args)
@@ -116,9 +133,30 @@ namespace Content.Shared.Localizations
             {
                 <= 0 => string.Empty,
                 1 => list[0],
-                2 => $"{list[0]} and {list[1]}",
-                _ => $"{string.Join(", ", list.GetRange(0, list.Count - 1))}, and {list[^1]}"
+                2 => $"{list[0]} {Loc.GetString("comp-hands-examine-and")} {list[1]}",
+                _ => $"{string.Join(", ", list.GetRange(0, list.Count - 1))}, {Loc.GetString("comp-hands-examine-and")} {list[^1]}"
             };
+        }
+
+        /// <summary>
+        /// Formats playtime as hours and minutes.
+        /// </summary>
+        public static string FormatPlaytime(TimeSpan time)
+        {
+            time = TimeSpan.FromMinutes(Math.Ceiling(time.TotalMinutes));
+            var hours = (int)time.TotalHours;
+            var minutes = time.Minutes;
+            return Loc.GetString($"zzzz-fmt-playtime", ("hours", hours), ("minutes", minutes));
+        }
+
+        private static ILocValue FormatPlaytime(LocArgs args)
+        {
+            var time = TimeSpan.Zero;
+            if (args.Args is { Count: > 0 } && args.Args[0].Value is TimeSpan timeArg)
+            {
+                time = timeArg;
+            }
+            return new LocValueString(FormatPlaytime(time));
         }
 
         /// <summary>

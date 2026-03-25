@@ -298,6 +298,10 @@ ui-options-net-pvs-leave-tooltip = This limits the rate at which the client will
 cmd-options-desc = Opens options menu, optionally with a specific tab selected.
 cmd-options-help = Usage: options [tab]
 
+ui-options-tts-volume = TTS Volume:
+ui-options-tts-radio-volume = TTS Radio Volume:
+tts-rate-limited = You are sending TTS requests too fast!
+
 ## Combat Options
 ui-options-function-look-up = Look up/Take aim
 ui-options-function-auto-get-up = Automatically get up after falling

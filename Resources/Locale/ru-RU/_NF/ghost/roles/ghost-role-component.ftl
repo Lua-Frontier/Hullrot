@@ -1,0 +1,15 @@
+ghost-role-information-emotional-support-name = Пушистый терапевт
+ghost-role-information-emotional-support-description = Ты - пушистый психотерапевт! Преданный хозяину, твоя миссия - дарить радость и поднимать настроение!
+ghost-role-information-emotional-support-rules = Ты - пушистый психотерапевт! Преданный хозяину, твоя миссия - дарить радость и поднимать настроение!
+ghost-role-information-clippy-name = Скрепыш
+ghost-role-information-clippy-description = Верный труженик Представительства Станции, пахнущий картоном и бумагой.
+ghost-role-information-clarpy-name = Кларпи
+ghost-role-information-clarpy-description = Эй, на абордаж почты! Разыскивается Нанотрейзен за преступления против мышей.
+ghost-role-information-cappy-name = Каппи
+ghost-role-information-cappy-description = Прекратите сопротивление! Сертифицирован в применении смертоносной силы и тактиках обороны.
+ghost-role-information-crispy-name = Подгорелыш
+ghost-role-information-crispy-description = Ошибочка вышла.
+ghost-role-information-mistake-name = ?????
+ghost-role-information-mistake-description = Фхтагн мглв'нафх Ктулху Р'льех вгах'нагл фхтагн.
+ghost-role-information-ert-mailcarrier-name = Почтальон ОБР
+ghost-role-information-ert-mailcarrier-description = Помогай разрешать проблемы станции с помощью бумажной волокиты.

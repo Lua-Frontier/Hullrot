@@ -23,6 +23,7 @@ public sealed partial class VoiceMaskSystem : EntitySystem
     public override void Initialize()
     {
         base.Initialize();
+        InitializeTTS(); // Corvax-TTS
         SubscribeLocalEvent<VoiceMaskComponent, InventoryRelayedEvent<TransformSpeakerNameEvent>>(OnTransformSpeakerName);
         SubscribeLocalEvent<VoiceMaskComponent, VoiceMaskChangeNameMessage>(OnChangeName);
         SubscribeLocalEvent<VoiceMaskComponent, VoiceMaskChangeVerbMessage>(OnChangeVerb);
@@ -90,7 +91,7 @@ public sealed partial class VoiceMaskSystem : EntitySystem
     private void UpdateUI(Entity<VoiceMaskComponent> entity)
     {
         if (_uiSystem.HasUi(entity, VoiceMaskUIKey.Key))
-            _uiSystem.SetUiState(entity.Owner, VoiceMaskUIKey.Key, new VoiceMaskBuiState(GetCurrentVoiceName(entity), entity.Comp.VoiceMaskSpeechVerb));
+            _uiSystem.SetUiState(entity.Owner, VoiceMaskUIKey.Key, new VoiceMaskBuiState(GetCurrentVoiceName(entity), entity.Comp.VoiceId ?? string.Empty, entity.Comp.VoiceMaskSpeechVerb)); // Corvax-TTS
     }
     #endregion
 

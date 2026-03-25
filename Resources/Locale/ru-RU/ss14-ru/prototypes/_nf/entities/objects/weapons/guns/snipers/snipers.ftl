@@ -1,0 +1,5 @@
+ent-Kardashev-MosinNonlethal = { ent-WeaponSniperMosin }
+    .suffix = Травматический
+    .desc = { ent-WeaponSniperMosin.desc }
+ent-WeaponSniperRepeater = N2524 Повторитель
+    .desc = Гражданское рычажное оружие, популярное среди космических ковбоев за надежность и мощность. Использует патроны .45 магнум.

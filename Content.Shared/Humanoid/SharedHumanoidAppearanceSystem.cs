@@ -1,6 +1,7 @@
 using System.IO;
 using System.Linq;
 using System.Numerics;
+using Content.Shared._Lua.TTS;
 using Content.Shared._EE.Contractors.Prototypes;
 using Content.Shared.Decals;
 using Content.Shared.Examine;
@@ -46,6 +47,10 @@ public abstract class SharedHumanoidAppearanceSystem : EntitySystem
 
     [ValidatePrototypeId<SpeciesPrototype>]
     public const string DefaultSpecies = "Human";
+
+    // Corvax-TTS-Start
+    public const string DefaultVoice = "Garithos";
+    // Corvax-TTS-End
 
     [ValidatePrototypeId<EmployerPrototype>]
     public const string DefaultEmployer = "NanoTrasen";
@@ -460,9 +465,23 @@ public abstract class SharedHumanoidAppearanceSystem : EntitySystem
 
         humanoid.LastProfileLoaded = profile; // DeltaV - let paradox anomaly be cloned
 
+        SetTTSVoice(uid, profile.Voice, humanoid); // Corvax-TTS
+
         Dirty(uid, humanoid);
         RaiseLocalEvent(uid, new ProfileLoadFinishedEvent());
     }
+
+    // Corvax-TTS-Start
+    // ReSharper disable once InconsistentNaming
+    public void SetTTSVoice(EntityUid uid, string voiceId, HumanoidAppearanceComponent humanoid)
+    {
+        if (!TryComp<TTSComponent>(uid, out var comp))
+            return;
+
+        humanoid.Voice = voiceId;
+        comp.VoicePrototypeId = voiceId;
+    }
+    // Corvax-TTS-End
 
     /// <summary>
     ///     Adds a marking to this humanoid.

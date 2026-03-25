@@ -1,0 +1,13 @@
+ent-SpaceCashExpedition = кредиты
+    .desc = Трудом заработанные кредиты. Прямо с цифрового монетного двора. Пахнут успехом и неуплаченными налогами.
+    .suffix = Деньги
+ent-SpaceCash5000Expedition = spesos (5000)
+    .desc = { ent-SpaceCashExpedition.desc }
+ent-SpaceCash10000Expedition = spesos (10000)
+    .desc = { ent-SpaceCashExpedition.desc }
+ent-SpaceCash15000Expedition = spesos (15000)
+    .desc = { ent-SpaceCashExpedition.desc }
+ent-SpaceCash20000Expedition = spesos (20000)
+    .desc = { ent-SpaceCashExpedition.desc }
+ent-SpaceCash25000Expedition = spesos (25000)
+    .desc = { ent-SpaceCashExpedition.desc }

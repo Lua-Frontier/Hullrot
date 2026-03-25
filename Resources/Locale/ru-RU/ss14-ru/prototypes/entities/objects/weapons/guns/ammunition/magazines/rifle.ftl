@@ -1,0 +1,15 @@
+ent-BaseMagazineRifle = магазин (.20 винтовочные)
+    .desc = { ent-BaseItem.desc }
+ent-MagazineRifle = магазин (.20 винтовочные)
+    .desc = { ent-BaseMagazineRifle.desc }
+ent-MagazineRifleEmpty = 25-round magazine (7.62x51mm USM any)
+    .suffix = empty
+    .desc = { ent-MagazineRifle.desc }
+ent-MagazineRifleIncendiary = 25-round magazine (.7.62x51mm USM incendiary)
+    .desc = { ent-MagazineRifle.desc }
+ent-MagazineRiflePractice = магазин (.20 винтовочные учебные)
+    .desc = { ent-BaseMagazineRifle.desc }
+ent-MagazineRifleUranium = магазин (.20 винтовочные урановые)
+    .desc = { ent-BaseMagazineRifle.desc }
+ent-MagazineRifleShrapnel = 25-round magazine (7.62x51mm USM shrapnel)
+    .desc = { ent-BaseMagazineRifle.desc }

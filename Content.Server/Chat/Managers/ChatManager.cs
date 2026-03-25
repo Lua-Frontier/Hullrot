@@ -4,6 +4,7 @@ using System.Runtime.InteropServices;
 using Content.Server.Administration.Logs;
 using Content.Server.Administration.Managers;
 using Content.Server.Administration.Systems;
+using Content.Server._Lua.ChatFilter; // Lua
 using Content.Server.MoMMI;
 using Content.Server.Players.RateLimiting;
 using Content.Server.Preferences.Managers;
@@ -44,6 +45,7 @@ namespace Content.Server.Chat.Managers
         [Dependency] private readonly INetConfigurationManager _netConfigManager = default!;
         [Dependency] private readonly IEntityManager _entityManager = default!;
         [Dependency] private readonly PlayerRateLimitManager _rateLimitManager = default!;
+        [Dependency] private readonly ChatFilterManager _chatFilter = default!; // Lua
 
         private ISawmill _sawmill = default!;
 
@@ -210,6 +212,8 @@ namespace Content.Server.Chat.Managers
         {
             if (HandleRateLimit(player) != RateLimitStatus.Allowed)
                 return;
+
+            if (_chatFilter.IsProhibitedContent(player, message)) return; // Lua
 
             // Check if message exceeds the character limit
             if (message.Length > MaxMessageLength)

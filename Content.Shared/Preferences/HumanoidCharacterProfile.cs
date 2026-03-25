@@ -1,6 +1,7 @@
 using System.Linq;
 using System.Text.RegularExpressions;
 using Content.Shared.CCVar;
+using Content.Shared._Lua.TTS;
 using Content.Shared.Clothing.Loadouts.Prototypes;
 using Content.Shared.Clothing.Loadouts.Systems;
 using Content.Shared.GameTicking;
@@ -64,6 +65,12 @@ public sealed partial class HumanoidCharacterProfile : ICharacterProfile
     /// Associated <see cref="SpeciesPrototype"/> for this profile
     [DataField]
     public string Species { get; set; } = SharedHumanoidAppearanceSystem.DefaultSpecies;
+
+    // Corvax-TTS-Start
+    /// Associated <see cref="TTSVoicePrototype"/> for this profile
+    [DataField]
+    public string Voice { get; set; } = SharedHumanoidAppearanceSystem.DefaultVoice;
+    // Corvax-TTS-End
 
     // EE -- Contractors Change Start
     [DataField]
@@ -354,6 +361,15 @@ public sealed partial class HumanoidCharacterProfile : ICharacterProfile
     public HumanoidCharacterProfile WithCyborgName(string? cyborgName) => new(this) { CyborgName = cyborgName };
     public HumanoidCharacterProfile WithSpecies(string species) => new(this) { Species = species };
 
+    // Corvax-TTS-Start
+    public HumanoidCharacterProfile WithVoice(string voice) => new(this) { Voice = voice };
+
+    public static bool CanHaveVoice(TTSVoicePrototype voice, Sex sex)
+    {
+        return voice.Sex == Sex.Unsexed || voice.Sex == sex;
+    }
+    // Corvax-TTS-End
+
     public HumanoidCharacterProfile WithCustomSpeciesName(string customspeciename) =>
         new(this) { Customspeciename = customspeciename };
 
@@ -460,6 +476,7 @@ public string Summary =>
             && LoadoutPreferences.SequenceEqual(other.LoadoutPreferences)
             && Appearance.MemberwiseEquals(other.Appearance)
             && FlavorText == other.FlavorText
+            && Voice == other.Voice // Corvax-TTS
             && Faction == other.Faction
             && BankBalance == other.BankBalance
             && CharacterFlags.SequenceEqual(other.CharacterFlags);
@@ -564,6 +581,14 @@ public string Summary =>
         }
 
         var appearance = HumanoidCharacterAppearance.EnsureValid(Appearance, Species, Sex);
+
+        // Corvax-TTS-Start
+        if (!prototypeManager.TryIndex<TTSVoicePrototype>(Voice, out var voicePrototype) ||
+            !CanHaveVoice(voicePrototype, sex))
+        {
+            Voice = SharedHumanoidAppearanceSystem.DefaultVoice;
+        }
+        // Corvax-TTS-End
 
         var prefsUnavailableMode = PreferenceUnavailable switch
         {

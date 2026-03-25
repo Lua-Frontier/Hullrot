@@ -222,6 +222,7 @@
   - type: Puller
   - type: Speech
     speechSounds: Alto
+  - type: TTS # Corvax-TTS
   - type: DamageForceSay
   - type: Vocal
     sounds:

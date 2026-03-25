@@ -80,6 +80,24 @@
                     <Control MinSize="4 0"/>
                 </BoxContainer>
                 <Control MinSize="0 8" />
+                <!-- TTS Volume (Corvax-TTS) -->
+                <BoxContainer Orientation="Horizontal" Margin="5 0 0 0">
+                    <Label Text="{Loc 'ui-options-tts-volume'}" HorizontalExpand="True" />
+                    <Control MinSize="8 0" />
+                    <Slider Name="TTSVolumeSlider" MinValue="0" MaxValue="100" HorizontalExpand="True" MinSize="80 0" Rounded="True" />
+                    <Control MinSize="8 0" />
+                    <Label Name="TTSVolumeLabel" MinSize="48 0" Align="Right" />
+                    <Control MinSize="4 0"/>
+                </BoxContainer>
+                <BoxContainer Orientation="Horizontal" Margin="5 0 0 0">
+                    <Label Text="{Loc 'ui-options-tts-radio-volume'}" HorizontalExpand="True" />
+                    <Control MinSize="8 0" />
+                    <Slider Name="TTSVolumeRadioSlider" MinValue="0" MaxValue="100" HorizontalExpand="True" MinSize="80 0" Rounded="True" />
+                    <Control MinSize="8 0" />
+                    <Label Name="TTSVolumeRadioLabel" MinSize="48 0" Align="Right" />
+                    <Control MinSize="4 0"/>
+                </BoxContainer>
+                <!-- End TTS Volume -->
                 <CheckBox Name="CombatMusicCheckBox" Text="{Loc 'ui-options-combat-music'}" />
                 <CheckBox Name="LobbyMusicCheckBox" Text="{Loc 'ui-options-lobby-music'}" />
                 <CheckBox Name="RestartSoundsCheckBox" Text="{Loc 'ui-options-restart-sounds'}" />

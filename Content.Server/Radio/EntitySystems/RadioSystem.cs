@@ -1,5 +1,5 @@
 using Content.Server.Administration.Logs;
-using Content.Server.Chat.Systems;
+using Content.Server.Chat.Systems; // also imports RadioSpokeEvent (Corvax-TTS)
 using Content.Server.Language;
 using Content.Server.Power.Components;
 using Content.Server.Radio.Components;
@@ -158,6 +158,8 @@ public sealed class RadioSystem : EntitySystem
         if (frequency == null) // Nuclear-14
             frequency = GetFrequency(messageSource, channel); // Nuclear-14
 
+        var receivers = new List<EntityUid>(); // Corvax-TTS
+
         while (canSend && radioQuery.MoveNext(out var receiver, out var radio, out var transform))
         {
             if (!radio.ReceiveAllChannels)
@@ -187,7 +189,10 @@ public sealed class RadioSystem : EntitySystem
 
             // send the message
             RaiseLocalEvent(receiver, ref ev);
+            receivers.Add(receiver); // Corvax-TTS
         }
+
+        RaiseLocalEvent(new RadioSpokeEvent(messageSource, message, receivers.ToArray())); // Corvax-TTS
 
         if (name != Name(messageSource))
             _adminLogger.Add(LogType.Chat, LogImpact.Low, $"Radio message from {ToPrettyString(messageSource):user} as {name} on {channel.LocalizedName}: {message}");

@@ -1,0 +1,16 @@
+ent-ClothingNeckCrucifix = распятие
+    .desc = Черт возьми, как же приятно быть таким благочестивым.
+ent-ClothingNeckIFFNeutral = сигнальный белая стробоскоп
+    .desc = Видимый светодиодный комплект, состоящий из нашлемных и наплечных стробоскопов.
+ent-ClothingNeckIFFGreen = сигнальный зелёный стробоскоп
+    .desc = { ent-ClothingNeckIFFNeutral.desc }
+ent-ClothingNeckIFFRed = сигнальный красный стробоскоп
+    .desc = { ent-ClothingNeckIFFNeutral.desc }
+ent-ClothingNeckIFFBlue = сигнальный синий стробоскоп
+    .desc = { ent-ClothingNeckIFFNeutral.desc }
+ent-ClothingNeckIFFCyan = сигнальный голубой стробоскоп
+    .desc = { ent-ClothingNeckIFFNeutral.desc }
+ent-ClothingNeckIFFOrange = сигнальный оранжевый стробоскоп
+    .desc = { ent-ClothingNeckIFFNeutral.desc }
+ent-ClothingNeckIFFPurple = сигнальный фиолетовый стробоскоп
+    .desc = { ent-ClothingNeckIFFNeutral.desc }

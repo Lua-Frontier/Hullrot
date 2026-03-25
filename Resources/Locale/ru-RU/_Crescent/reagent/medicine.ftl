@@ -1,0 +1,12 @@
+reagent-name-crash = Крэш
+reagent-desc-crash = Дешёвый, легко производимый боевой стимулятор, чаще всего используемый боевыми пилотами. Известен тем, что вызывает дрожь.
+reagent-name-exile = Изгнание
+reagent-desc-exile = Распространённый боевой стимулятор, используемый для лечения ран, полученных в бою, и поддержания оперативника на ногах на протяжении всего боя.
+reagent-name-kaiser = Кайзер
+reagent-desc-kaiser = Утончённый боевой препарат — обладающий улучшенными эффектами Изгнания без каких-либо недостатков. Достижение химической инженерии Синдиката.
+reagent-name-mechanites = боевые механиты
+reagent-desc-mechanites = Химический коктейль из лечебных механитов, предназначенный для локализации вокруг повреждений в организме и их восстановления на субмолекулярном уровне.
+reagent-name-bloodeye = кровавый глаз
+reagent-desc-bloodeye = Химический коктейль боевых препаратов, известный тем, что вызывает у пользователя насильственные тенденции. Кровавый глаз изначально производился Shinohara Heavy Industries, но позже был снят с продажи после введения наркотических правил.
+reagent-name-jv201 = JV-201
+reagent-desc-jv201 = A versatile lubricant gel. It will increase the efficiency of living tissue, even if against organic will. Sourced from Carthage Industries.

@@ -1,12 +1,12 @@
-using System.Globalization;
-using System.Linq;
-using System.Text;
 using Content.Server.Administration.Logs;
 using Content.Server.Administration.Managers;
 using Content.Server.Chat.Managers;
+using Content.Server._Lua.TTS; // Lua-TTS
+using Content.Server._Lua.ChatFilter; // Lua
 using Content.Server.GameTicking;
-using Content.Server.Players.RateLimiting;
 using Content.Server.Language;
+using Content.Server.Players.RateLimiting;
+using Content.Server.Shuttles.Components;
 using Content.Server.Speech.Components;
 using Content.Server.Speech.EntitySystems;
 using Content.Server.Station.Components;
@@ -14,11 +14,12 @@ using Content.Server.Station.Systems;
 using Content.Shared.ActionBlocker;
 using Content.Shared.CCVar;
 using Content.Shared.Chat;
+using Content.Shared._Lua.TTS;
 using Content.Shared.Database;
 using Content.Shared.Ghost;
-using Content.Shared.Language;
 using Content.Shared.IdentityManagement;
 using Content.Shared.Interaction;
+using Content.Shared.Language;
 using Content.Shared.Language.Systems;
 using Content.Shared.Mobs.Systems;
 using Content.Shared.Players;
@@ -32,14 +33,16 @@ using Robust.Shared.Configuration;
 using Robust.Shared.Console;
 using Robust.Shared.Network;
 using Robust.Shared.Physics;
+using Robust.Shared.Physics.Components;
+using Robust.Shared.Physics.Dynamics.Joints;
 using Robust.Shared.Player;
 using Robust.Shared.Prototypes;
 using Robust.Shared.Random;
 using Robust.Shared.Replays;
 using Robust.Shared.Utility;
-using Content.Server.Shuttles.Components;
-using Robust.Shared.Physics.Components;
-using Robust.Shared.Physics.Dynamics.Joints;
+using System.Globalization;
+using System.Linq;
+using System.Text;
 
 namespace Content.Server.Chat.Systems;
 
@@ -72,6 +75,7 @@ public sealed partial class ChatSystem : SharedChatSystem
     [Dependency] private readonly LanguageSystem _language = default!;
     [Dependency] private readonly TelepathicChatSystem _telepath = default!;
     [Dependency] private readonly EntityWhitelistSystem _whitelistSystem = default!;
+    [Dependency] private readonly ChatFilterManager _chatFilter = default!; // Lua
 
     public const int VoiceRange = 10; // how far voice goes in world units
     public const int WhisperClearRange = 2; // how far whisper goes while still being understandable, in world units
@@ -207,6 +211,8 @@ public sealed partial class ChatSystem : SharedChatSystem
         if (!CanSendInGame(message, shell, player))
             return;
 
+        if (_chatFilter.IsProhibitedContent(source, message)) return; // Lua
+
         ignoreActionBlocker = CheckIgnoreSpeechBlocker(source, ignoreActionBlocker);
 
         // this method is a disaster
@@ -304,6 +310,8 @@ public sealed partial class ChatSystem : SharedChatSystem
         if (player?.AttachedEntity is not { Valid: true } entity || source != entity)
             return;
 
+        if (_chatFilter.IsProhibitedContent(source, message)) return; // Lua
+
         message = SanitizeInGameOOCMessage(message);
 
         var sendType = type;
@@ -341,7 +349,8 @@ public sealed partial class ChatSystem : SharedChatSystem
         string sender = "Central Command",
         bool playSound = true,
         SoundSpecifier? announcementSound = null,
-        Color? colorOverride = null
+        Color? colorOverride = null,
+        EntityUid? author = null // Corvax-TTS
         )
     {
         var wrappedMessage = Loc.GetString("chat-manager-sender-announcement-wrap-message", ("sender", sender), ("message", FormattedMessage.EscapeText(message)));
@@ -350,6 +359,11 @@ public sealed partial class ChatSystem : SharedChatSystem
         {
             var sound = announcementSound ?? new SoundPathSpecifier(DefaultAnnouncementSound);
             _audio.PlayGlobal(sound, Filter.Broadcast(), true, AudioParams.Default.WithVolume(-2f));
+
+            // Corvax-TTS-Start
+            if (author != null && TryComp<TTSComponent>(author.Value, out var tts) && tts.VoicePrototypeId != null)
+                RaiseLocalEvent(new AnnounceSpokeEvent(tts.VoicePrototypeId, message, author.Value));
+            // Corvax-TTS-End
         }
         _adminLogger.Add(LogType.Chat, LogImpact.Low, $"Global station announcement from {sender}: {message}");
     }
@@ -849,6 +863,7 @@ public sealed partial class ChatSystem : SharedChatSystem
         var msg = message;
 
         msg = _wordreplacement.ApplyReplacements(msg, ChatSanitize_Accent);
+        msg = _chatFilter.FilterMessage(msg); // Lua
 
         return msg;
     }

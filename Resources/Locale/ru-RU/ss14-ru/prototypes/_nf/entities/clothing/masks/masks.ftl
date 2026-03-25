@@ -1,0 +1,12 @@
+ent-ClothingMaskArcadia = аркадианская боевая маска
+    .desc = Плотно прилегающая высокотехнологичная маска, разработанная компанией Arcadia Industries для космических бойцов.
+ent-FaceHuggerPlushie = плюшевый лицехват
+    .desc = Отличный подарок для расистов!
+ent-ClothingMaskPilot = дыхательная маска пилота
+    .desc = Можно спокойно носить в режиме 24/7.
+ent-ClothingMaskGasNfsd = противогаз ДСБФ
+    .desc = Стандартный протифогаз ДСБФ.
+ent-ClothingMaskGasSheriff = противогаз шерифа ДСБФ
+    .desc = Противогаз, достойный шерифа.
+ent-ClothingMaskCultJanitor = cult leader mask
+    .desc = A close-fitting imposing breathing mask designed for cult leaders who value style.

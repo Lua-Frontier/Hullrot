@@ -1,3 +1,4 @@
-﻿defaultWindowTitle: HULLROT
+﻿defaultWindowTitle: Пандора
 windowIconSet: /Textures/Logo/icon
 splashLogo: /Textures/Logo/splashlogo.png
+show_loading_bar: true

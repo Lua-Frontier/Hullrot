@@ -235,6 +235,38 @@ public sealed partial class ContentAudioSystem
         )?.Entity;
     }
 
+    public bool IsMusicPlaying() => _lobbySoundtrackInfo != null;
+
+    public void ToggleMusicPlayback()
+    {
+        if (_lobbySoundtrackInfo != null)
+            EndLobbyMusic();
+        else
+            StartLobbyMusic();
+    }
+
+    public void PlayNextTrack()
+    {
+        if (_lobbyPlaylist == null || _lobbyPlaylist.Length == 0)
+            return;
+
+        var current = _lobbySoundtrackInfo?.Filename ?? _lobbyPlaylist[0];
+        EndLobbyMusic();
+        PlaySoundtrack(GetNextSoundtrackFromPlaylist(current, _lobbyPlaylist));
+    }
+
+    public void PlayPreviousTrack()
+    {
+        if (_lobbyPlaylist == null || _lobbyPlaylist.Length == 0)
+            return;
+
+        var current = _lobbySoundtrackInfo?.Filename ?? _lobbyPlaylist[0];
+        EndLobbyMusic();
+        var indexOfCurrent = Array.IndexOf(_lobbyPlaylist, current);
+        var prevIndex = indexOfCurrent - 1 < 0 ? _lobbyPlaylist.Length - 1 : indexOfCurrent - 1;
+        PlaySoundtrack(_lobbyPlaylist[prevIndex]);
+    }
+
     private void ShutdownLobbyMusic()
     {
         _state.OnStateChanged -= StateManagerOnStateChanged;

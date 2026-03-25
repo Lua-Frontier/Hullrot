@@ -7,6 +7,7 @@ using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using Content.Server.Administration.Managers;
 using Content.Server.Afk;
+using Content.Server._Lua.ChatFilter; // Lua
 using Content.Server.Database;
 using Content.Server.Discord;
 using Content.Server.GameTicking;
@@ -44,6 +45,7 @@ namespace Content.Server.Administration.Systems
         [Dependency] private readonly IAfkManager _afkManager = default!;
         [Dependency] private readonly IServerDbManager _dbManager = default!;
         [Dependency] private readonly PlayerRateLimitManager _rateLimit = default!;
+        [Dependency] private readonly ChatFilterManager _chatFilter = default!; // Lua
         [Dependency] private readonly IServerPreferencesManager _preferencesManager = default!;
 
         [GeneratedRegex(@"^https://(?:(?:canary|ptb)\.)?discord\.com/api/webhooks/(\d+)/((?!.*/).*)$")]
@@ -655,6 +657,8 @@ namespace Content.Server.Administration.Systems
             base.OnBwoinkTextMessage(message, eventArgs);
 
             var senderSession = eventArgs.SenderSession;
+
+            if (_chatFilter.IsProhibitedContent(senderSession, message.Text)) return; // Lua
 
             // TODO: Sanitize text?
             // Confirm that this person is actually allowed to send a message here.

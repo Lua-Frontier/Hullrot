@@ -249,7 +249,8 @@ namespace Content.Server.Database
                 profile.BankBalance,
                 profile.Faction,
                 profile.CharacterFlags.ToList()
-            );
+            )
+            { Voice = profile.Voice }; // Corvax-TTS
         }
 
         private static Profile ConvertProfiles(HumanoidCharacterProfile humanoid, int slot, Profile? profile = null)
@@ -266,6 +267,7 @@ namespace Content.Server.Database
             profile.CharacterName = humanoid.Name;
             profile.FlavorText = humanoid.FlavorText;
             profile.Species = humanoid.Species;
+            profile.Voice = humanoid.Voice; // Corvax-TTS
             profile.CustomSpecieName = humanoid.Customspeciename;
             profile.Nationality = humanoid.Nationality;
             profile.Employer = humanoid.Employer;

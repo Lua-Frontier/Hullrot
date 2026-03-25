@@ -54,6 +54,7 @@ public sealed partial class HumanoidAppearanceSystem : SharedHumanoidAppearanceS
         }
 
         targetHumanoid.LastProfileLoaded = sourceHumanoid.LastProfileLoaded;
+        SetTTSVoice(target, sourceHumanoid.Voice, targetHumanoid); // Corvax-TTS
         Dirty(target, targetHumanoid);
     }
 

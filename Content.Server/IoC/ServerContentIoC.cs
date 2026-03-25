@@ -1,5 +1,7 @@
 using Content.Server.Administration;
 using Content.Server.Administration.Logs;
+using Content.Server._Lua.TTS;
+using Content.Server._Lua.ChatFilter;
 using Content.Server.Administration.Managers;
 using Content.Server.Administration.Notes;
 using Content.Server.Afk;
@@ -75,6 +77,8 @@ namespace Content.Server.IoC
             IoCManager.Register<PlayerRateLimitManager>();
             IoCManager.Register<SharedPlayerRateLimitManager, PlayerRateLimitManager>();
             IoCManager.Register<MappingManager>();
+            IoCManager.Register<TTSManager>(); // Corvax-TTS
+            IoCManager.Register<ChatFilterManager>(); // Lua
         }
     }
 }

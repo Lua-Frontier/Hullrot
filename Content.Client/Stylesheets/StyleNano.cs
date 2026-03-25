@@ -77,6 +77,7 @@ namespace Content.Client.Stylesheets
         public const string StyleClassSliderWhite = "White";
 
         public const string StyleClassLabelHeadingBigger = "LabelHeadingBigger";
+        public const string StyleClassLabelHeadingXL = "LabelHeadingXL";
         public const string StyleClassLabelKeyText = "LabelKeyText";
         public const string StyleClassLabelSecondaryColor = "LabelSecondaryColor";
         public const string StyleClassLabelBig = "LabelBig";
@@ -216,6 +217,7 @@ namespace Content.Client.Stylesheets
             var notoSansBold16 = resCache.NotoStack(variation: "Bold", size: 16);
             var notoSansBold18 = resCache.NotoStack(variation: "Bold", size: 18);
             var notoSansBold20 = resCache.NotoStack(variation: "Bold", size: 20);
+            var notoSansBold28 = resCache.NotoStack(variation: "Bold", size: 28);
             var notoSansMono = resCache.GetFont("/EngineFonts/NotoSans/NotoSansMono-Regular.ttf", size: 12);
             var robotoMonoBold11 = resCache.GetFont("/Fonts/RobotoMono/RobotoMono-Bold.ttf", size: 11);
             var robotoMonoBold12 = resCache.GetFont("/Fonts/RobotoMono/RobotoMono-Bold.ttf", size: 12);
@@ -1176,6 +1178,14 @@ namespace Content.Client.Stylesheets
                         new StyleProperty(Label.StylePropertyFontColor, NanoGold),
                     }),
 
+                // XL Label (for lobby title etc.)
+                new StyleRule(new SelectorElement(typeof(Label), new[] {StyleClassLabelHeadingXL}, null, null),
+                    new[]
+                    {
+                        new StyleProperty(Label.StylePropertyFont, notoSansBold28),
+                        new StyleProperty(Label.StylePropertyFontColor, NanoGold),
+                    }),
+
                 // Small Label
                 new StyleRule(new SelectorElement(typeof(Label), new[] {StyleClassLabelSubText}, null, null), new[]
                 {
@@ -1212,6 +1222,12 @@ namespace Content.Client.Stylesheets
                 {
                     new StyleProperty(Label.StylePropertyFont, robotoMonoBold14)
                 }),
+
+                new StyleRule(new SelectorElement(typeof(Label), new[] {StyleClassLabelSmall}, null, null),
+                    new[]
+                    {
+                        new StyleProperty(Label.StylePropertyFont, notoSans12),
+                    }),
 
                 // Big Button
                 new StyleRule(new SelectorChild(

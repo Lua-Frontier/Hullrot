@@ -1,3 +1,4 @@
+using Content.Shared._Lua.TTS;
 using Content.Shared.Humanoid.Markings;
 using Content.Shared.Humanoid.Prototypes;
 using Content.Shared.Preferences; //DeltaV, used for Metempsychosis, Fugitive, and Paradox Anomaly
@@ -58,6 +59,14 @@ public sealed partial class HumanoidAppearanceComponent : Component
     /// </summary>
     [DataField(required: true), AutoNetworkedField]
     public ProtoId<SpeciesPrototype> Species { get; set; }
+
+    // Corvax-TTS-Start
+    /// <summary>
+    ///     Current voice. Used for TTS and correct cloning.
+    /// </summary>
+    [DataField("voice")]
+    public string Voice { get; set; } = SharedHumanoidAppearanceSystem.DefaultVoice;
+    // Corvax-TTS-End
 
     /// <summary>
     ///     The initial profile and base layers to apply to this humanoid.

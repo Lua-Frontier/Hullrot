@@ -176,6 +176,8 @@ namespace Content.Client.Lobby.UI
 
             #endregion Sex
 
+            InitializeVoice();
+
             #region Age
 
             AgeEdit.OnTextChanged += args =>
@@ -880,6 +882,7 @@ namespace Content.Client.Lobby.UI
             UpdateNameEdit();
             UpdateSexControls();
             UpdateGenderControls();
+            UpdateTTSVoicesControls();
             UpdateDisplayPronounsControls();
             UpdateStationAiControls();
             UpdateCyborgControls();
@@ -1246,6 +1249,7 @@ namespace Content.Client.Lobby.UI
                     break;
             }
             UpdateGenderControls();
+            UpdateTTSVoicesControls();
             Markings.SetSex(newSex);
             ReloadProfilePreview();
             SetDirty();
@@ -1256,6 +1260,12 @@ namespace Content.Client.Lobby.UI
             Profile = Profile?.WithGender(newGender);
             ReloadPreview();
             IsDirty = true;
+        }
+
+        private void SetVoice(string voiceId)
+        {
+            Profile = Profile?.WithVoice(voiceId);
+            SetDirty();
         }
 
         private void SetDisplayPronouns(string? displayPronouns)

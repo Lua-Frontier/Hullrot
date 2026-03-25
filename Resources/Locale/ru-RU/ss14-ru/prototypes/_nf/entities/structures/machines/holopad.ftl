@@ -1,0 +1,12 @@
+ent-NFHolopadShip = блюспейс голопад
+    .desc = Напольное устройство для проецирования голографических изображений, обеспечивающее связь между кораблями.
+ent-NFHolopadShipAntag = { ent-NFHolopadShip }
+    .desc = { ent-NFHolopadShip.desc }
+ent-NFHolopadShipAntagAnon = { ent-NFHolopadShip }
+    .suffix = Ship, Starts Off, Anonymous
+    .desc = { ent-NFHolopadShip.desc }
+ent-NFHolopadPoiBase = { ent-NFHolopadShip }
+    .desc = { ent-NFHolopadShip.desc }
+ent-NFHolopadPoiBaseAnon = { ent-NFHolopadPoiBase }
+    .suffix = Indestructible, Anonymous
+    .desc = { ent-NFHolopadPoiBase.desc }

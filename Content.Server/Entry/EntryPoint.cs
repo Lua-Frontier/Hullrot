@@ -1,5 +1,7 @@
 using Content.Server.Acz;
 using Content.Server.Administration;
+using Content.Server._Lua.TTS;
+using Content.Server._Lua.ChatFilter;
 using Content.Server.Administration.Logs;
 using Content.Server.Administration.Managers;
 using Content.Server.Afk;
@@ -47,6 +49,7 @@ namespace Content.Server.Entry
         private PlayTimeTrackingManager? _playTimeTracking;
         private IEntitySystemManager? _sysMan;
         private IServerDbManager? _dbManager;
+
 
         /// <inheritdoc />
         public override void Init()
@@ -107,6 +110,8 @@ namespace Content.Server.Entry
                 IoCManager.Resolve<ServerInfoManager>().Initialize();
                 IoCManager.Resolve<JoinQueueManager>().Initialize();
                 IoCManager.Resolve<DiscordAuthManager>().Initialize();
+                IoCManager.Resolve<TTSManager>().Initialize(); // Corvax-TTS
+                IoCManager.Resolve<ChatFilterManager>().Initialize(); // Lua
                 IoCManager.Resolve<ServerApi>().Initialize();
 
                 _voteManager.Initialize();
