@@ -15,7 +15,7 @@
     price:
       ScrapSAW: 0.2
   - type: Sprite
-    sprite: _Crescent/Objects/Materials/ore.rsi
+    sprite: _Lua/Objects/Materials/ore.rsi
     state: icon-scrap
   - type: Material
   - type: PhysicalComposition
@@ -97,7 +97,7 @@
     price:
       ScrapSAW: 0.4
   - type: Sprite
-    sprite: _Crescent/Objects/Materials/ore.rsi
+    sprite: _Lua/Objects/Materials/ore.rsi
     state: icon-titaniumscrap
   - type: Material
   - type: PhysicalComposition
@@ -406,7 +406,7 @@
   - type: Stack
     stackType: RefinedSteelScrapOre
   - type: Sprite
-    sprite: _Crescent/Objects/Materials/ore.rsi
+    sprite: _Lua/Objects/Materials/ore.rsi
     state: icon-refinedscrap
   - type: Currency
     price:
@@ -437,7 +437,7 @@
   - type: Stack
     stackType: RefinedTitaniumScrapOre
   - type: Sprite
-    sprite: _Crescent/Objects/Materials/ore.rsi
+    sprite: _Lua/Objects/Materials/ore.rsi
     state: icon-titta
   - type: Currency
     price:
@@ -475,7 +475,7 @@
   - type: Stack
     stackType: GarbageOre
   - type: Sprite
-    sprite: _Crescent/Objects/Materials/ore.rsi
+    sprite: _Lua/Objects/Materials/ore.rsi
     state: garbage
   - type: Currency
     price:
@@ -532,7 +532,7 @@
   - type: Stack
     stackType: RefinedGarbageOre
   - type: Sprite
-    sprite: _Crescent/Objects/Materials/ore.rsi
+    sprite: _Lua/Objects/Materials/ore.rsi
     state: refinedgarbage
   - type: Currency
     price:
@@ -563,7 +563,7 @@
   - type: Stack
     stackType: PlasmaIsotope
   - type: Sprite
-    sprite: _Crescent/Objects/Materials/ore.rsi
+    sprite: _Lua/Objects/Materials/ore.rsi
     state: plasmaisotope
   - type: Material
   - type: PhysicalComposition
@@ -599,7 +599,7 @@
   - type: Stack
     stackType: MechaniteCanister
   - type: Sprite
-    sprite: _Crescent/Objects/Materials/ore.rsi
+    sprite: _Lua/Objects/Materials/ore.rsi
     state: mechanites
   - type: Material
   - type: PhysicalComposition
@@ -635,7 +635,7 @@
   - type: Stack
     stackType: GalineCanister
   - type: Sprite
-    sprite: _Crescent/Objects/Materials/ore.rsi
+    sprite: _Lua/Objects/Materials/ore.rsi
     state: galine5
   - type: Material
   - type: PhysicalComposition
@@ -671,7 +671,7 @@
   - type: Stack
     stackType: PhoronBottle
   - type: Sprite
-    sprite: _Crescent/Objects/Materials/ore.rsi
+    sprite: _Lua/Objects/Materials/ore.rsi
     state: deactivatedphoron
   - type: Material
   - type: PhysicalComposition

@@ -16,9 +16,9 @@
   description: An officer's cap in high-ranking NCWL colors. Has the golden communard insignia on the front.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/NCWL/Head/ncwlofficerberet.rsi
+    sprite: _Lua/Clothing/NCWL/Head/ncwlofficerberet.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/NCWL/Head/ncwlofficerberet.rsi
+    sprite: _Lua/Clothing/NCWL/Head/ncwlofficerberet.rsi
 
 - type: entity
   parent: ClothingHeadBase
@@ -71,9 +71,9 @@
   description: An officer's beret in NCWL colors. Has the golden communard insignia on the front.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/NCWL/Head/vrachevberet.rsi
+    sprite: _Lua/Clothing/NCWL/Head/vrachevberet.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/NCWL/Head/vrachevberet.rsi
+    sprite: _Lua/Clothing/NCWL/Head/vrachevberet.rsi
 
 - type: entity
   parent: ClothingHeadBase

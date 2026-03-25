@@ -8,14 +8,14 @@
     shape:
     - 0,0,4,1
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/underdog.rsi
+    sprite: _Lua/Objects/Weapons/Guns/underdog.rsi
     layers:
       - state: base
         map: ["enum.GunVisualLayers.Base"]
       - state: mag-0
         map: ["enum.GunVisualLayers.Mag"]
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/underdog.rsi
+    sprite: _Lua/Objects/Weapons/Guns/underdog.rsi
   - type: Gun
     fireRate: 6.5 #doesnt get a GL so kinda sloppy
     soundGunshot:
@@ -64,7 +64,7 @@
   description: A simple and cheap semi-auto rifle with a internal magazine, issued to rearline and reserve units. Chambered in 5.56x45mm Imperial.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/muster.rsi
+    sprite: _Lua/Objects/Weapons/Guns/muster.rsi
   - type: Item
     shape:
     - 0,0,4,1
@@ -91,7 +91,7 @@
   description: A simple, rugged 7.62x51mm battle rifle issued to Homeguard Protection units. Troops prefer it to the bulky Batanya when they need better handling without sacrificing stopping power.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/rezerv.rsi
+    sprite: _Lua/Objects/Weapons/Guns/rezerv.rsi
   - type: Item
     shape:
     - 0,0,5,1
@@ -126,9 +126,9 @@
   - type: StaticPrice
     price: 2000
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/nimrod.rsi
+    sprite: _Lua/Objects/Weapons/Guns/nimrod.rsi
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/nimrod.rsi
+    sprite: _Lua/Objects/Weapons/Guns/nimrod.rsi
   - type: Gun
     fireRate: 3
     projectileSpeed: 45
@@ -164,9 +164,9 @@
   - type: StaticPrice
     price: 2000
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/nimrod.rsi
+    sprite: _Lua/Objects/Weapons/Guns/nimrod.rsi
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/nimrod.rsi
+    sprite: _Lua/Objects/Weapons/Guns/nimrod.rsi
   - type: Gun
     damageModifier: 1.5
     fireRate: 3
@@ -196,14 +196,14 @@
     shape:
     - 0,0,5,1
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/legionnaire.rsi
+    sprite: _Lua/Objects/Weapons/Guns/legionnaire.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
     - state: mag-0
       map: ["enum.GunVisualLayers.Mag"]
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/legionnaire.rsi
+    sprite: _Lua/Objects/Weapons/Guns/legionnaire.rsi
   - type: ItemSlots
     slots:
       gun_magazine:
@@ -254,14 +254,14 @@
     shape:
     - 0,0,5,1
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/vintorez.rsi
+    sprite: _Lua/Objects/Weapons/Guns/vintorez.rsi
     layers:
       - state: base
         map: ["enum.GunVisualLayers.Base"]
       - state: mag-0
         map: ["enum.GunVisualLayers.Mag"]
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/vintorez.rsi
+    sprite: _Lua/Objects/Weapons/Guns/vintorez.rsi
   - type: ItemSlots
     slots:
       gun_magazine:
@@ -316,14 +316,14 @@
     shape:
     - 0,0,4,1
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/asval.rsi
+    sprite: _Lua/Objects/Weapons/Guns/asval.rsi
     layers:
       - state: base
         map: ["enum.GunVisualLayers.Base"]
       - state: mag-0
         map: ["enum.GunVisualLayers.Mag"]
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/asval.rsi
+    sprite: _Lua/Objects/Weapons/Guns/asval.rsi
   - type: ItemSlots
     slots:
       gun_magazine:
@@ -369,14 +369,14 @@
     shape:
     - 0,0,5,1
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/batanya.rsi
+    sprite: _Lua/Objects/Weapons/Guns/batanya.rsi
     layers:
       - state: base
         map: ["enum.GunVisualLayers.Base"]
       - state: mag-0
         map: ["enum.GunVisualLayers.Mag"]
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/batanya.rsi
+    sprite: _Lua/Objects/Weapons/Guns/batanya.rsi
   - type: Gun
     fireRate: 5
     minAngle: 16
@@ -433,14 +433,14 @@
     shape:
     - 0,0,5,1
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/goro.rsi
+    sprite: _Lua/Objects/Weapons/Guns/goro.rsi
     layers:
       - state: base
         map: ["enum.GunVisualLayers.Base"]
       - state: mag-0
         map: ["enum.GunVisualLayers.Mag"]
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/goro.rsi
+    sprite: _Lua/Objects/Weapons/Guns/goro.rsi
   - type: Gun
     fireRate: 5
     selectedMode: Burst
@@ -501,14 +501,14 @@
     shape:
     - 0,0,5,1
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/takemura.rsi
+    sprite: _Lua/Objects/Weapons/Guns/takemura.rsi
     layers:
       - state: base
         map: ["enum.GunVisualLayers.Base"]
       - state: mag-0
         map: ["enum.GunVisualLayers.Mag"]
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/takemura.rsi
+    sprite: _Lua/Objects/Weapons/Guns/takemura.rsi
   - type: Gun
     fireRate: 7
     soundGunshot:
@@ -558,14 +558,14 @@
     shape:
     - 0,0,4,1
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/miller.rsi
+    sprite: _Lua/Objects/Weapons/Guns/miller.rsi
     layers:
       - state: base
         map: ["enum.GunVisualLayers.Base"]
       - state: mag-0
         map: ["enum.GunVisualLayers.Mag"]
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/miller.rsi
+    sprite: _Lua/Objects/Weapons/Guns/miller.rsi
   - type: Gun
     fireRate: 6
     soundGunshot:
@@ -614,14 +614,14 @@
     shape:
     - 0,0,4,1
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/fal.rsi
+    sprite: _Lua/Objects/Weapons/Guns/fal.rsi
     layers:
       - state: base
         map: ["enum.GunVisualLayers.Base"]
       - state: mag-0
         map: ["enum.GunVisualLayers.Mag"]
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/fal.rsi
+    sprite: _Lua/Objects/Weapons/Guns/fal.rsi
   - type: Gun
     fireRate: 6
     soundGunshot:
@@ -672,14 +672,14 @@
     shape:
     - 0,0,3,1
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/krinkov.rsi
+    sprite: _Lua/Objects/Weapons/Guns/krinkov.rsi
     layers:
       - state: base
         map: ["enum.GunVisualLayers.Base"]
       - state: mag-0
         map: ["enum.GunVisualLayers.Mag"]
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/krinkov.rsi
+    sprite: _Lua/Objects/Weapons/Guns/krinkov.rsi
   - type: Gun
     minAngle: 20
     maxAngle: 50
@@ -736,14 +736,14 @@
     shape:
     - 0,0,5,2
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/halyad.rsi
+    sprite: _Lua/Objects/Weapons/Guns/halyad.rsi
     layers:
       - state: base
         map: ["enum.GunVisualLayers.Base"]
       - state: mag-0
         map: ["enum.GunVisualLayers.Mag"]
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/halyad.rsi
+    sprite: _Lua/Objects/Weapons/Guns/halyad.rsi
   - type: Gun
     fireRate: 2.5 #Same as the barghest. Except Full auto instead of burst. A lot easier to fire.
     projectileSpeed: 45
@@ -793,14 +793,14 @@
     shape:
     - 0,0,4,1
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/hound.rsi
+    sprite: _Lua/Objects/Weapons/Guns/hound.rsi
     layers:
       - state: base
         map: ["enum.GunVisualLayers.Base"]
       - state: mag-0
         map: ["enum.GunVisualLayers.Mag"]
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/hound.rsi
+    sprite: _Lua/Objects/Weapons/Guns/hound.rsi
   - type: Gun
     fireRate: 4
     damageModifier: 1.5 #Comparable to 7.62 DMRs.
@@ -855,14 +855,14 @@
     shape:
     - 0,0,4,1
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/hunter.rsi
+    sprite: _Lua/Objects/Weapons/Guns/hunter.rsi
     layers:
       - state: base
         map: ["enum.GunVisualLayers.Base"]
       - state: mag-0
         map: ["enum.GunVisualLayers.Mag"]
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/hunter.rsi
+    sprite: _Lua/Objects/Weapons/Guns/hunter.rsi
   - type: Gun
     fireRate: 4
     soundGunshot:
@@ -913,14 +913,14 @@
     shape:
     - 0,0,4,1
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/mayflower.rsi
+    sprite: _Lua/Objects/Weapons/Guns/mayflower.rsi
     layers:
       - state: base
         map: ["enum.GunVisualLayers.Base"]
       - state: mag-0
         map: ["enum.GunVisualLayers.Mag"]
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/mayflower.rsi
+    sprite: _Lua/Objects/Weapons/Guns/mayflower.rsi
   - type: Gun
     soundGunshot:
       path: /Audio/_Crescent/Weapons/Guns/rifle_1/rifle_gunshot_2.ogg
@@ -973,14 +973,14 @@
     shape:
     - 0,0,5,2
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/barghest.rsi
+    sprite: _Lua/Objects/Weapons/Guns/barghest.rsi
     layers:
       - state: base
         map: ["enum.GunVisualLayers.Base"]
       - state: mag-0
         map: ["enum.GunVisualLayers.Mag"]
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/barghest.rsi
+    sprite: _Lua/Objects/Weapons/Guns/barghest.rsi
   - type: Gun
     fireRate: 4
     soundGunshot:
@@ -1041,14 +1041,14 @@
     shape:
     - 0,0,5,1
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/svds.rsi
+    sprite: _Lua/Objects/Weapons/Guns/svds.rsi
     layers:
       - state: base
         map: ["enum.GunVisualLayers.Base"]
       - state: mag-0
         map: ["enum.GunVisualLayers.Mag"]
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/svds.rsi
+    sprite: _Lua/Objects/Weapons/Guns/svds.rsi
   - type: Gun
     fireRate: 3.0 #slightly faster - but less consistent with semi.
     projectileSpeed: 45
@@ -1102,14 +1102,14 @@
     shape:
     - 0,0,4,1
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/stg44.rsi
+    sprite: _Lua/Objects/Weapons/Guns/stg44.rsi
     layers:
       - state: base
         map: ["enum.GunVisualLayers.Base"]
       - state: mag-0
         map: ["enum.GunVisualLayers.Mag"]
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/stg44.rsi
+    sprite: _Lua/Objects/Weapons/Guns/stg44.rsi
   - type: Gun
     soundGunshot:
       path: /Audio/_Crescent/Weapons/Guns/M16/rifle_gunshot_2.ogg
@@ -1155,9 +1155,9 @@
   description: The Boltgewehr 98 kurz. An ancient design that has no place in any current military doctrine. Roughly manufactured for specialized use. Chambered in 7.62x51mm.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/kar98k.rsi
+    sprite: _Lua/Objects/Weapons/Guns/kar98k.rsi
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/kar98k.rsi
+    sprite: _Lua/Objects/Weapons/Guns/kar98k.rsi
 
 - type: entity
   name: HGS VAP-9B Ruusu  7.62x51mm
@@ -1169,14 +1169,14 @@
     shape:
     - 0,0,4,1
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/ruusu.rsi
+    sprite: _Lua/Objects/Weapons/Guns/ruusu.rsi
     layers:
       - state: base
         map: ["enum.GunVisualLayers.Base"]
       - state: mag-0
         map: ["enum.GunVisualLayers.Mag"]
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/ruusu.rsi
+    sprite: _Lua/Objects/Weapons/Guns/ruusu.rsi
   - type: Gun
     fireRate: 4
     damageModifier: 1.4
@@ -1222,14 +1222,14 @@
     shape:
     - 0,0,3,1
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/karbiini.rsi
+    sprite: _Lua/Objects/Weapons/Guns/karbiini.rsi
     layers:
       - state: base
         map: ["enum.GunVisualLayers.Base"]
       - state: mag-0
         map: ["enum.GunVisualLayers.Mag"]
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/karbiini.rsi
+    sprite: _Lua/Objects/Weapons/Guns/karbiini.rsi
   - type: Gun
     fireRate: 6
     soundGunshot:
@@ -1274,14 +1274,14 @@
     shape:
     - 0,0,4,1
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/xm7.rsi
+    sprite: _Lua/Objects/Weapons/Guns/xm7.rsi
     layers:
       - state: base
         map: ["enum.GunVisualLayers.Base"]
       - state: mag-0
         map: ["enum.GunVisualLayers.Mag"]
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/xm7.rsi
+    sprite: _Lua/Objects/Weapons/Guns/xm7.rsi
   - type: Gun
     soundGunshot:
       path: /Audio/_Crescent/Weapons/Guns/supressed_1/supressed_gunshot_4.ogg
@@ -1330,14 +1330,14 @@
     shape:
     - 0,0,4,1
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/m4a1.rsi
+    sprite: _Lua/Objects/Weapons/Guns/m4a1.rsi
     layers:
       - state: base
         map: ["enum.GunVisualLayers.Base"]
       - state: mag-0
         map: ["enum.GunVisualLayers.Mag"]
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/m4a1.rsi
+    sprite: _Lua/Objects/Weapons/Guns/m4a1.rsi
   - type: Gun
     soundGunshot:
       path: /Audio/_Crescent/Weapons/Guns/rifle_1/rifle_gunshot_2.ogg
@@ -1386,14 +1386,14 @@
     shape:
     - 0,0,5,1
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/m16.rsi
+    sprite: _Lua/Objects/Weapons/Guns/m16.rsi
     layers:
       - state: base
         map: ["enum.GunVisualLayers.Base"]
       - state: mag-0
         map: ["enum.GunVisualLayers.Mag"]
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/m16.rsi
+    sprite: _Lua/Objects/Weapons/Guns/m16.rsi
   - type: Gun
     soundGunshot:
       path: /Audio/_Crescent/Weapons/Guns/rifle_1/rifle_gunshot_2.ogg

@@ -10,7 +10,7 @@
   id: Gunpowder
   name: materials-Gunpowder
   unit: materials-unit-piece
-  icon: { sprite: _Crescent/Objects/Industry.rsi, state: blackpowder }
+  icon: { sprite: _Lua/Objects/Industry.rsi, state: blackpowder }
   color: "#030000"
   price: 0
 
@@ -18,7 +18,7 @@
   id: OrdnanceCompound
   name: materials-ordnanceCompound
   unit: materials-unit-piece
-  icon: { sprite: _Crescent/Objects/Industry.rsi, state: highexplosive }
+  icon: { sprite: _Lua/Objects/Industry.rsi, state: highexplosive }
   color: "#ff0080"
   price: 0
 
@@ -50,7 +50,7 @@
   id: LightGaugeCasing
   name: materials-lightgaugecasing
   unit: materials-unit-piece
-  icon: { sprite: _Crescent/Objects/Industry.rsi, state: infantrybox }
+  icon: { sprite: _Lua/Objects/Industry.rsi, state: infantrybox }
   color: "#ffffff"
   price: 0
 
@@ -58,7 +58,7 @@
   id: MediumGaugeCasing
   name: materials-mediumgaugecasing
   unit: materials-unit-piece
-  icon: { sprite: _Crescent/Objects/Industry.rsi, state: autocannonbox }
+  icon: { sprite: _Lua/Objects/Industry.rsi, state: autocannonbox }
   color: "#ffffff"
   price: 0
 
@@ -66,7 +66,7 @@
   id: LargeGaugeCasing
   name: materials-largegaugecasing
   unit: materials-unit-piece
-  icon: { sprite: _Crescent/Objects/Industry.rsi, state: artillerybox }
+  icon: { sprite: _Lua/Objects/Industry.rsi, state: artillerybox }
   color: "#ffffff"
   price: 0
 
@@ -74,6 +74,6 @@
   id: CompositeCasing
   name: materials-compositecasing
   unit: materials-unit-piece
-  icon: { sprite: _Crescent/Objects/Industry.rsi, state: missilebox }
+  icon: { sprite: _Lua/Objects/Industry.rsi, state: missilebox }
   color: "#ffffff"
   price: 0

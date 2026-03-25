@@ -5,9 +5,9 @@
   description: A basic softsuit made by independents for spacers. Easily torn.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/Independents/OuterClothing/spacionaut.rsi
+    sprite: _Lua/Clothing/Independents/OuterClothing/spacionaut.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/Independents/OuterClothing/spacionaut.rsi
+    sprite: _Lua/Clothing/Independents/OuterClothing/spacionaut.rsi
   - type: PressureProtection
     highPressureMultiplier: 0.5
     lowPressureMultiplier: 1000
@@ -39,9 +39,9 @@
   description: Designed by Northrop-Martin for mercenary use and heavily modified by Taypani owners.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/Independents/OuterClothing/fishbed.rsi
+    sprite: _Lua/Clothing/Independents/OuterClothing/fishbed.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/Independents/OuterClothing/fishbed.rsi
+    sprite: _Lua/Clothing/Independents/OuterClothing/fishbed.rsi
   - type: PressureProtection
     highPressureMultiplier: 0.5
     lowPressureMultiplier: 1000
@@ -73,9 +73,9 @@
   description: The high-end predecessor of the NMS-21, this hardsuit features a more advanced servo system allowing it to support a greater amount of armor plating. Exceedingly rare in modern Taypan due to its age and the lack of Northrop-Martin imports  into the sector.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/Independents/OuterClothing/cenobite.rsi
+    sprite: _Lua/Clothing/Independents/OuterClothing/cenobite.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/Independents/OuterClothing/cenobite.rsi
+    sprite: _Lua/Clothing/Independents/OuterClothing/cenobite.rsi
   - type: PressureProtection
     highPressureMultiplier: 0.5
     lowPressureMultiplier: 1000
@@ -107,9 +107,9 @@
   description: Designed by Northrop-Martin for mercenary use and heavily modified by Taypani owners.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/Independents/OuterClothing/fishbed_silver.rsi
+    sprite: _Lua/Clothing/Independents/OuterClothing/fishbed_silver.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/Independents/OuterClothing/fishbed_silver.rsi
+    sprite: _Lua/Clothing/Independents/OuterClothing/fishbed_silver.rsi
   - type: ToggleableClothing
     clothingPrototype: ClothingHeadHelmetHardsuitFishbedSilver
   - type: StaticPrice
@@ -122,9 +122,9 @@
   description: Designed by Northrop-Martin for mercenary use and heavily modified by Taypani owners. Pompous.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/Independents/OuterClothing/fishbed_gold.rsi
+    sprite: _Lua/Clothing/Independents/OuterClothing/fishbed_gold.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/Independents/OuterClothing/fishbed_gold.rsi
+    sprite: _Lua/Clothing/Independents/OuterClothing/fishbed_gold.rsi
   - type: ToggleableClothing
     clothingPrototype: ClothingHeadHelmetHardsuitFishbedGold
   - type: StaticPrice
@@ -137,9 +137,9 @@
   description: Designed by Northrop-Martin for mercenary use and heavily modified by Taypani owners. Painted in the colors of the Minutemen.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/Independents/OuterClothing/fishbed_colonial.rsi
+    sprite: _Lua/Clothing/Independents/OuterClothing/fishbed_colonial.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/Independents/OuterClothing/fishbed_colonial.rsi
+    sprite: _Lua/Clothing/Independents/OuterClothing/fishbed_colonial.rsi
   - type: ToggleableClothing
     clothingPrototype: ClothingHeadHelmetHardsuitFishbedColonial
   - type: StaticPrice
@@ -152,9 +152,9 @@
   description: Designed by Northrop-Martin for mercenary use and heavily modified by Taypani owners. Painted in the colors of the New Liberation Front.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/Independents/OuterClothing/fishbed_nlf.rsi
+    sprite: _Lua/Clothing/Independents/OuterClothing/fishbed_nlf.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/Independents/OuterClothing/fishbed_nlf.rsi
+    sprite: _Lua/Clothing/Independents/OuterClothing/fishbed_nlf.rsi
   - type: ToggleableClothing
     clothingPrototype: ClothingHeadHelmetHardsuitFishbedNLF
   - type: StaticPrice
@@ -167,9 +167,9 @@
   description: The high-end predecessor of the NMS-21, this hardsuit features a more advanced servo system allowing it to support a greater amount of armor plating. Exceedingly rare in modern Taypan due to its age and the lack of Northrop-Martin imports  into the sector.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/Independents/OuterClothing/cenobite_verdant.rsi
+    sprite: _Lua/Clothing/Independents/OuterClothing/cenobite_verdant.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/Independents/OuterClothing/cenobite_verdant.rsi
+    sprite: _Lua/Clothing/Independents/OuterClothing/cenobite_verdant.rsi
   - type: ToggleableClothing
     clothingPrototype: ClothingHeadHelmetHardsuitCenobiteVerdant
   - type: StaticPrice
@@ -182,9 +182,9 @@
   description: The high-end predecessor of the NMS-21, this hardsuit features a more advanced servo system allowing it to support a greater amount of armor plating. Exceedingly rare in modern Taypan due to its age and the lack of Northrop-Martin imports  into the sector.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/Independents/OuterClothing/cenobite_red.rsi
+    sprite: _Lua/Clothing/Independents/OuterClothing/cenobite_red.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/Independents/OuterClothing/cenobite_red.rsi
+    sprite: _Lua/Clothing/Independents/OuterClothing/cenobite_red.rsi
   - type: ToggleableClothing
     clothingPrototype: ClothingHeadHelmetHardsuitCenobiteRed
   - type: StaticPrice

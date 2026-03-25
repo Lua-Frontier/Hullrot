@@ -7,9 +7,9 @@
   description: a beaten and well worn combat hardsuit design, the Multiple Environment Personal Armour has been built up from its introduction at the founding of the New American Ranger corps and served its soldiers from foul smelling reservist suits in boot camp to the modern plated harness. The iterative design process has left it particularly weak to blunt impact however.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/NAP/OuterClothing/mepahardsuit.rsi
+    sprite: _Lua/Clothing/NAP/OuterClothing/mepahardsuit.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/NAP/OuterClothing/mepahardsuit.rsi
+    sprite: _Lua/Clothing/NAP/OuterClothing/mepahardsuit.rsi
   - type: PressureProtection
     highPressureMultiplier: 0.5
     lowPressureMultiplier: 1000
@@ -43,9 +43,9 @@
   description: The Ballistic Insert Plated Vest is typically issued to New American Ranger and Marine reservists for in-atmosphere theatres. Concentrating ballistic protection to center mass allows the wearer to retain mobility and lowers weight.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/NAP/OuterClothing/bipvest.rsi
+    sprite: _Lua/Clothing/NAP/OuterClothing/bipvest.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/NAP/OuterClothing/bipvest.rsi
+    sprite: _Lua/Clothing/NAP/OuterClothing/bipvest.rsi
   - type: DegradeableArmor
     armorMaxHealth: 750
     armorType: Ceramic

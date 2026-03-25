@@ -7,9 +7,9 @@
   description: A heavy shocktrooper's combat hardsuit belonging to the 43rd Battlegroup of the Authoritat.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/ATH/OuterClothing/panzer.rsi
+    sprite: _Lua/Clothing/ATH/OuterClothing/panzer.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/ATH/OuterClothing/panzer.rsi
+    sprite: _Lua/Clothing/ATH/OuterClothing/panzer.rsi
   - type: PressureProtection
     highPressureMultiplier: 0.5
     lowPressureMultiplier: 1000
@@ -43,9 +43,9 @@
   description: An ornate, durathread-reinforced officer's coat.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/ATH/OuterClothing/kommandant.rsi
+    sprite: _Lua/Clothing/ATH/OuterClothing/kommandant.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/ATH/OuterClothing/kommandant.rsi
+    sprite: _Lua/Clothing/ATH/OuterClothing/kommandant.rsi
   - type: DegradeableArmor
     armorMaxHealth: 750
     armorType: Metallic
@@ -70,9 +70,9 @@
   description: An ornate, durathread-reinforced officer's coat.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/ATH/OuterClothing/leutnant.rsi
+    sprite: _Lua/Clothing/ATH/OuterClothing/leutnant.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/ATH/OuterClothing/leutnant.rsi
+    sprite: _Lua/Clothing/ATH/OuterClothing/leutnant.rsi
   - type: DegradeableArmor
     armorMaxHealth: 750
     armorType: Metallic
@@ -97,9 +97,9 @@
   description: Heavy, flowing silken robes belonging to the Oberartz.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/ATH/OuterClothing/oberartz.rsi
+    sprite: _Lua/Clothing/ATH/OuterClothing/oberartz.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/ATH/OuterClothing/oberartz.rsi
+    sprite: _Lua/Clothing/ATH/OuterClothing/oberartz.rsi
   - type: Armor
     modifiers:
       coefficients:
@@ -119,9 +119,9 @@
   description: The standard-issued protective vest worn by the Authoritat.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/ATH/OuterClothing/soldat.rsi
+    sprite: _Lua/Clothing/ATH/OuterClothing/soldat.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/ATH/OuterClothing/soldat.rsi
+    sprite: _Lua/Clothing/ATH/OuterClothing/soldat.rsi
   - type: DegradeableArmor
     armorMaxHealth: 1250
     armorType: Metallic
@@ -149,9 +149,9 @@
   description: The improved specialized protective vest worn by shock units and kommandos.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/ATH/OuterClothing/shocktrooper.rsi
+    sprite: _Lua/Clothing/ATH/OuterClothing/shocktrooper.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/ATH/OuterClothing/shocktrooper.rsi
+    sprite: _Lua/Clothing/ATH/OuterClothing/shocktrooper.rsi
   - type: DegradeableArmor
     armorMaxHealth: 1250
     armorType: Metallic
@@ -181,9 +181,9 @@
   description: An ornate set of flowing silken robes belonging to the common peddler.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/ATH/OuterClothing/handels.rsi
+    sprite: _Lua/Clothing/ATH/OuterClothing/handels.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/ATH/OuterClothing/handels.rsi
+    sprite: _Lua/Clothing/ATH/OuterClothing/handels.rsi
   - type: StaticPrice
     price: 1000
 
@@ -194,9 +194,9 @@
   description: A heavy durathread work coat belonging to the foreman of a worker gang.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/ATH/OuterClothing/vorarbeiter.rsi
+    sprite: _Lua/Clothing/ATH/OuterClothing/vorarbeiter.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/ATH/OuterClothing/vorarbeiter.rsi
+    sprite: _Lua/Clothing/ATH/OuterClothing/vorarbeiter.rsi
   - type: StaticPrice
     price: 250
 
@@ -207,9 +207,9 @@
   description: A sterilized labcoat ready for operating.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/ATH/OuterClothing/chirurgeon.rsi
+    sprite: _Lua/Clothing/ATH/OuterClothing/chirurgeon.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/ATH/OuterClothing/chirurgeon.rsi
+    sprite: _Lua/Clothing/ATH/OuterClothing/chirurgeon.rsi
   - type: StaticPrice
     price: 250
 
@@ -220,9 +220,9 @@
   description: A sterilized labcoat ready for science.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/ATH/OuterClothing/forscher.rsi
+    sprite: _Lua/Clothing/ATH/OuterClothing/forscher.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/ATH/OuterClothing/forscher.rsi
+    sprite: _Lua/Clothing/ATH/OuterClothing/forscher.rsi
   - type: StaticPrice
     price: 250
 

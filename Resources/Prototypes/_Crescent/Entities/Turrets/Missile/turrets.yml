@@ -8,7 +8,7 @@
   description: A burst fire dedicated anti-fighter missile system. Has quite limited range.
   components:
     - type: Sprite
-      sprite: _Crescent/Objects/Turrets/Missile/shortbow.rsi
+      sprite: _Lua/Objects/Turrets/Missile/shortbow.rsi
       drawdepth: Mobs
       layers:
         - state: shortbow
@@ -62,7 +62,7 @@
   description: A vicious short range swarm missile system. Fires faster and generally comes with higher yield missiles.
   components:
     - type: Sprite
-      sprite: _Crescent/Objects/Turrets/Missile/shortbow.rsi
+      sprite: _Lua/Objects/Turrets/Missile/shortbow.rsi
       drawdepth: Mobs
       layers:
         - state: shortbow-tfsc
@@ -107,7 +107,7 @@
   description: A rapid-fire rocket pod capable of bypassing shields.
   components:
     - type: Sprite
-      sprite: _Crescent/Objects/Turrets/Missile/azimuth.rsi
+      sprite: _Lua/Objects/Turrets/Missile/azimuth.rsi
       drawdepth: Mobs
       layers:
         - state: azimuth
@@ -159,7 +159,7 @@
   description: A rapid-fire rocket pod capable of bypassing shields. This one has been reinforced heavily.
   components:
     - type: Sprite
-      sprite: _Crescent/Objects/Turrets/Missile/azimuth.rsi
+      sprite: _Lua/Objects/Turrets/Missile/azimuth.rsi
       drawdepth: Mobs
       layers:
         - state: ncwl-azimuth
@@ -203,7 +203,7 @@
   description: A rapid-fire rocket pod capable of bypassing shields. This one has been upgraded by Gorlex.
   components:
     - type: Sprite
-      sprite: _Crescent/Objects/Turrets/Missile/azimuth.rsi
+      sprite: _Lua/Objects/Turrets/Missile/azimuth.rsi
       drawdepth: Mobs
       layers:
         - state: tfsc-azimuth
@@ -249,7 +249,7 @@
   description: A medium missile system thats regarded as a Jack of all trades.
   components:
     - type: Sprite
-      sprite: _Crescent/Objects/Turrets/Missile/arbalest.rsi
+      sprite: _Lua/Objects/Turrets/Missile/arbalest.rsi
       drawdepth: Mobs
       layers:
         - state: arbalest
@@ -301,7 +301,7 @@
   description: A medium missile system thats regarded as a Jack of all trades. Modified with extended missile racks.
   components:
     - type: Sprite
-      sprite: _Crescent/Objects/Turrets/Missile/arbalest.rsi
+      sprite: _Lua/Objects/Turrets/Missile/arbalest.rsi
       drawdepth: Mobs
       layers:
         - state: arbalest-tfsc
@@ -353,7 +353,7 @@
   description: A medium missile system thats regarded as a Jack of all trades. Modified with greatly increased armor at the cost of some missile space.
   components:
     - type: Sprite
-      sprite: _Crescent/Objects/Turrets/Missile/arbalest.rsi
+      sprite: _Lua/Objects/Turrets/Missile/arbalest.rsi
       drawdepth: Mobs
       layers:
         - state: arbalest-ncwl
@@ -407,7 +407,7 @@
   description: A heavy torpedo launcher. Has limited range compared to other systems.
   components:
     - type: Sprite
-      sprite: _Crescent/Objects/Turrets/Missile/gargoyle.rsi
+      sprite: _Lua/Objects/Turrets/Missile/gargoyle.rsi
       drawdepth: Mobs
       layers:
         - state: gargoyle
@@ -465,7 +465,7 @@
   description: A heavy torpedo launcher. Has limited range compared to other systems. This one has been reinforced heavily.
   components:
     - type: Sprite
-      sprite: _Crescent/Objects/Turrets/Missile/gargoyle.rsi
+      sprite: _Lua/Objects/Turrets/Missile/gargoyle.rsi
       drawdepth: Mobs
       layers:
         - state: gargoyle
@@ -525,7 +525,7 @@
   description: The largest missile launcher used in Taypan. Fires hypersonic cruise missiles with great range.
   components:
     - type: Sprite
-      sprite: _Crescent/Objects/Turrets/Missile/catapult.rsi
+      sprite: _Lua/Objects/Turrets/Missile/catapult.rsi
       drawdepth: Mobs
       layers:
         - state: catapult
@@ -583,7 +583,7 @@
   description: Capable of launching a rapid swarm of small missiles this is nothing to shake a stick at.
   components:
     - type: Sprite
-      sprite: _Crescent/Objects/Turrets/Missile/pila.rsi
+      sprite: _Lua/Objects/Turrets/Missile/pila.rsi
       drawdepth: Mobs
       layers:
         - state: pila

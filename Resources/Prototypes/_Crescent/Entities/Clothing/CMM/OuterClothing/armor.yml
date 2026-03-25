@@ -5,9 +5,9 @@
   description: A decorated officer's coat, belonging to the Marshal of the Minutemen.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/CMM/OuterClothing/marshal.rsi
+    sprite: _Lua/Clothing/CMM/OuterClothing/marshal.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/CMM/OuterClothing/marshal.rsi
+    sprite: _Lua/Clothing/CMM/OuterClothing/marshal.rsi
   - type: DegradeableArmor
     armorMaxHealth: 750
     armorType: Metallic
@@ -33,9 +33,9 @@
   description: A simple, blue, double breasted overcoat with a red belt and cuffs. The inside is lined with light armor plating, which will stop a bullet, but not the cold.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/CMM/OuterClothing/deputymarshal.rsi
+    sprite: _Lua/Clothing/CMM/OuterClothing/deputymarshal.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/CMM/OuterClothing/deputymarshal.rsi
+    sprite: _Lua/Clothing/CMM/OuterClothing/deputymarshal.rsi
   - type: DegradeableArmor
     armorMaxHealth: 750
     armorType: Metallic
@@ -61,9 +61,9 @@
   description: A beaten titanium cuirass, layered with ballistic durathread for reinforcement and to prevent chafing.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/CMM/OuterClothing/steelplate.rsi
+    sprite: _Lua/Clothing/CMM/OuterClothing/steelplate.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/CMM/OuterClothing/steelplate.rsi
+    sprite: _Lua/Clothing/CMM/OuterClothing/steelplate.rsi
   - type: DegradeableArmor
     armorMaxHealth: 1000
     armorType: Metallic
@@ -91,9 +91,9 @@
   description: A modular hardsuit belonging to the past century. Used en masse by the defunct Minutemen, this relic is still found in the hands of security forces, militias, and nostalgics.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/CMM/OuterClothing/midshipman.rsi
+    sprite: _Lua/Clothing/CMM/OuterClothing/midshipman.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/CMM/OuterClothing/midshipman.rsi
+    sprite: _Lua/Clothing/CMM/OuterClothing/midshipman.rsi
   - type: PressureProtection
     highPressureMultiplier: 0.5
     lowPressureMultiplier: 1000
@@ -125,9 +125,9 @@
   description: A bulky hardsuit belonging to the past century. An iconic and rare piece worn by high-ranking Minutemen, prized by collectors and lawmen alike.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/CMM/OuterClothing/patrol.rsi
+    sprite: _Lua/Clothing/CMM/OuterClothing/patrol.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/CMM/OuterClothing/patrol.rsi
+    sprite: _Lua/Clothing/CMM/OuterClothing/patrol.rsi
   - type: PressureProtection
     highPressureMultiplier: 0.5
     lowPressureMultiplier: 1000
@@ -159,9 +159,9 @@
   description: A gliessian attempt to modernize the design of the reinforced-patrol hardsuit and cut down its weigh. Due to lack of needed technology and resources some armor had to be sacrficed in order to achive that goal.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/CMM/OuterClothing/ensign.rsi
+    sprite: _Lua/Clothing/CMM/OuterClothing/ensign.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/CMM/OuterClothing/ensign.rsi
+    sprite: _Lua/Clothing/CMM/OuterClothing/ensign.rsi
   - type: PressureProtection
     highPressureMultiplier: 0.5
     lowPressureMultiplier: 1000

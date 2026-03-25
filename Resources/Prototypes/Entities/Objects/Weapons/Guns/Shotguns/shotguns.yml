@@ -77,14 +77,14 @@
   description: A tube-fed, fully automatic, combat shotgun designed for close quarters combat. Loads shells one by one. Uses 12 gauge shotgun shells.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/pozhar.rsi
+    sprite: _Lua/Objects/Weapons/Guns/pozhar.rsi
   - type: Item
     size: Large
     shape:
     - 0,0,4,2
-    sprite: _Crescent/Objects/Weapons/Guns/pozhar.rsi
+    sprite: _Lua/Objects/Weapons/Guns/pozhar.rsi
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/pozhar.rsi
+    sprite: _Lua/Objects/Weapons/Guns/pozhar.rsi
     quickEquip: false
     slots:
     - Back
@@ -216,11 +216,11 @@
   description: A premium, carbon-finish combat shotgun based on the NanoTrasen Kammerer design, featuring an upgraded clip capacity. Takes 12g shotgun shells.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/enforcer.rsi
+    sprite: _Lua/Objects/Weapons/Guns/enforcer.rsi
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/enforcer.rsi
+    sprite: _Lua/Objects/Weapons/Guns/enforcer.rsi
   - type: Item
-    sprite: _Crescent/Objects/Weapons/Guns/enforcer.rsi
+    sprite: _Lua/Objects/Weapons/Guns/enforcer.rsi
   - type: BallisticAmmoProvider
     capacity: 7
   - type: Wieldable
@@ -255,11 +255,11 @@
     size: Normal
     shape:
     - 0,0,3,1
-    sprite: _Crescent/Objects/Weapons/Guns/kammerer.rsi
+    sprite: _Lua/Objects/Weapons/Guns/kammerer.rsi
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/kammerer.rsi
+    sprite: _Lua/Objects/Weapons/Guns/kammerer.rsi
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/kammerer.rsi
+    sprite: _Lua/Objects/Weapons/Guns/kammerer.rsi
   - type: GunRequiresWield #remove when inaccuracy on spreads is fixed
   - type: BallisticAmmoProvider
     capacity: 6

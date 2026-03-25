@@ -42,9 +42,9 @@
   description: A kevlar-intervowen durathread trenchcoat with a synthfleece-trim collar. Looks badass.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/NCWL/OuterClothing/opremecoat.rsi
+    sprite: _Lua/Clothing/NCWL/OuterClothing/opremecoat.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/NCWL/OuterClothing/opremecoat.rsi
+    sprite: _Lua/Clothing/NCWL/OuterClothing/opremecoat.rsi
   - type: DegradeableArmor
     armorMaxHealth: 1000
     armorType: Metallic
@@ -79,9 +79,9 @@
   description: A steel-beaten juggernaut's carapace in communard orange.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/NCWL/OuterClothing/heavy.rsi
+    sprite: _Lua/Clothing/NCWL/OuterClothing/heavy.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/NCWL/OuterClothing/heavy.rsi
+    sprite: _Lua/Clothing/NCWL/OuterClothing/heavy.rsi
   - type: DegradeableArmor
     armorMaxHealth: 1000
     armorType: Metallic
@@ -193,9 +193,9 @@
   description: A simple kevlar durathread carapace with no additional shoulder or arm protection.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/NCWL/OuterClothing/light.rsi
+    sprite: _Lua/Clothing/NCWL/OuterClothing/light.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/NCWL/OuterClothing/light.rsi
+    sprite: _Lua/Clothing/NCWL/OuterClothing/light.rsi
   - type: DegradeableArmor
     armorMaxHealth: 800
     armorType: Metallic
@@ -232,9 +232,9 @@
   description: A communard jacket. Layered with kevlar nanoweave.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/NCWL/OuterClothing/engijacket.rsi
+    sprite: _Lua/Clothing/NCWL/OuterClothing/engijacket.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/NCWL/OuterClothing/engijacket.rsi
+    sprite: _Lua/Clothing/NCWL/OuterClothing/engijacket.rsi
   - type: DegradeableArmor
     armorMaxHealth: 750
     armorType: Metallic
@@ -269,9 +269,9 @@
   description: A communard jacket. Layered with kevlar nanoweave. Boss around your fellow proletariat in style and comfort!
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/NCWL/OuterClothing/engijacket.rsi
+    sprite: _Lua/Clothing/NCWL/OuterClothing/engijacket.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/NCWL/OuterClothing/engijacket.rsi
+    sprite: _Lua/Clothing/NCWL/OuterClothing/engijacket.rsi
   - type: DegradeableArmor
     armorMaxHealth: 750
     armorType: Metallic
@@ -344,9 +344,9 @@
   description: A communard labcoat. Layered with kevlar nanoweave.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/NCWL/OuterClothing/mediclabcoat.rsi
+    sprite: _Lua/Clothing/NCWL/OuterClothing/mediclabcoat.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/NCWL/OuterClothing/mediclabcoat.rsi
+    sprite: _Lua/Clothing/NCWL/OuterClothing/mediclabcoat.rsi
   - type: DegradeableArmor
     armorMaxHealth: 750
     armorType: Metallic
@@ -395,9 +395,9 @@
   description: A kevlar-interwoven durathread jacket with a synthfleece-trim lining. Its The Jacket.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/NCWL/OuterClothing/mvdjacket.rsi
+    sprite: _Lua/Clothing/NCWL/OuterClothing/mvdjacket.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/NCWL/OuterClothing/mvdjacket.rsi
+    sprite: _Lua/Clothing/NCWL/OuterClothing/mvdjacket.rsi
 
 ## hardsuits ncwl revamp
 
@@ -408,9 +408,9 @@
   description: An armored hardsuit of communard design. Comes with ballistic gel and kevlar padding. Spaceworthy.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/NCWL/OuterClothing/infanteermedsuit.rsi
+    sprite: _Lua/Clothing/NCWL/OuterClothing/infanteermedsuit.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/NCWL/OuterClothing/infanteermedsuit.rsi
+    sprite: _Lua/Clothing/NCWL/OuterClothing/infanteermedsuit.rsi
   - type: PressureProtection
     highPressureMultiplier: 0.02
     lowPressureMultiplier: 1000
@@ -450,9 +450,9 @@
   description: An armored hardsuit of communard design. Comes with ballistic gel and kevlar padding. Spaceworthy.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/NCWL/OuterClothing/salvagehardsuit.rsi
+    sprite: _Lua/Clothing/NCWL/OuterClothing/salvagehardsuit.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/NCWL/OuterClothing/salvagehardsuit.rsi
+    sprite: _Lua/Clothing/NCWL/OuterClothing/salvagehardsuit.rsi
   - type: PressureProtection
     highPressureMultiplier: 0.02
     lowPressureMultiplier: 1000

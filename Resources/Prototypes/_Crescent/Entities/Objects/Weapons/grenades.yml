@@ -21,7 +21,7 @@
   id: TrollNade
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Fun/Plushies/troll.rsi
+    sprite: _Lua/Objects/Fun/Plushies/troll.rsi
     layers:
     - state: icon
       map: ["enum.TriggerVisualLayers.Base"]
@@ -60,7 +60,7 @@
   components:
   - type: TriggerOnSpawn
   - type: Sprite
-    sprite: _Crescent/Objects/Fun/Plushies/troll.rsi
+    sprite: _Lua/Objects/Fun/Plushies/troll.rsi
     scale: 0.5, 0.5
     layers:
     - state: icon
@@ -100,7 +100,7 @@
   id: ChudjakNade
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Fun/Plushies/chudjak.rsi
+    sprite: _Lua/Objects/Fun/Plushies/chudjak.rsi
     layers:
     - state: icon
       map: ["enum.TriggerVisualLayers.Base"]
@@ -136,7 +136,7 @@
   - type: OnUseTimerTrigger
     delay: 2.5
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Grenades/incendiary.rsi
+    sprite: _Lua/Objects/Weapons/Grenades/incendiary.rsi
   - type: SmokeOnTrigger
     duration: 13
     spreadAmount: 9
@@ -167,7 +167,7 @@
   - type: OnUseTimerTrigger
     delay: 2.5
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Grenades/smoke.rsi
+    sprite: _Lua/Objects/Weapons/Grenades/smoke.rsi
   - type: SmokeOnTrigger
     duration: 13
     spreadAmount: 18
@@ -194,7 +194,7 @@
   - type: OnUseTimerTrigger
     delay: 4
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Grenades/f1.rsi
+    sprite: _Lua/Objects/Weapons/Grenades/f1.rsi
   - type: ExplodeOnTrigger
   - type: Explosive
     explosionType: Fragmentation
@@ -222,7 +222,7 @@
   - type: OnUseTimerTrigger
     delay: 3.5
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Grenades/ncsp_rgd5.rsi
+    sprite: _Lua/Objects/Weapons/Grenades/ncsp_rgd5.rsi
   - type: ExplodeOnTrigger
   - type: Explosive
     explosionType: Fragmentation
@@ -250,7 +250,7 @@
   - type: OnUseTimerTrigger
     delay: 2.5
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Grenades/ncsp_smoke.rsi
+    sprite: _Lua/Objects/Weapons/Grenades/ncsp_smoke.rsi
   - type: SmokeOnTrigger
     duration: 20
     spreadAmount: 9
@@ -277,7 +277,7 @@
   - type: OnUseTimerTrigger
     delay: 4
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Grenades/ncwl_rgd55.rsi
+    sprite: _Lua/Objects/Weapons/Grenades/ncwl_rgd55.rsi
   - type: ExplodeOnTrigger
   - type: Explosive
     explosionType: Fragmentation
@@ -307,7 +307,7 @@
   - type: Item
     size: Tiny
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Grenades/ncwl_zaryia.rsi
+    sprite: _Lua/Objects/Weapons/Grenades/ncwl_zaryia.rsi
   - type: FlashOnTrigger
     range: 5
   - type: SoundOnTrigger
@@ -336,7 +336,7 @@
   - type: OnUseTimerTrigger
     delay: 3
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Grenades/dsm_smoke.rsi
+    sprite: _Lua/Objects/Weapons/Grenades/dsm_smoke.rsi
   - type: SmokeOnTrigger
     duration: 13
     spreadAmount: 8
@@ -379,7 +379,7 @@
   - type: OnUseTimerTrigger
     delay: 5
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Grenades/dsm_twist.rsi
+    sprite: _Lua/Objects/Weapons/Grenades/dsm_twist.rsi
   - type: ExplodeOnTrigger
   - type: Explosive
     explosionType: Fragmentation
@@ -407,7 +407,7 @@
   - type: OnUseTimerTrigger
     delay: 3.5
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Grenades/dsm_stick.rsi
+    sprite: _Lua/Objects/Weapons/Grenades/dsm_stick.rsi
   - type: ExplodeOnTrigger
   - type: Explosive
     explosionType: Fragmentation
@@ -452,7 +452,7 @@
   - type: Item
     size: Tiny
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Grenades/pta_impact.rsi
+    sprite: _Lua/Objects/Weapons/Grenades/pta_impact.rsi
     layers:
     - state: icon
     - state: primed
@@ -514,7 +514,7 @@
   - type: OnUseTimerTrigger
     delay: 4
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Grenades/pta_wp.rsi
+    sprite: _Lua/Objects/Weapons/Grenades/pta_wp.rsi
   - type: SmokeOnTrigger
     duration: 13
     spreadAmount: 9
@@ -551,7 +551,7 @@
   - type: Item
     size: Tiny
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Grenades/shi_mini.rsi
+    sprite: _Lua/Objects/Weapons/Grenades/shi_mini.rsi
   - type: ExplodeOnTrigger
   - type: Explosive
     explosionType: Fragmentation
@@ -589,7 +589,7 @@
   - type: OnUseTimerTrigger
     delay: 3.5
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Grenades/shi_emp.rsi
+    sprite: _Lua/Objects/Weapons/Grenades/shi_emp.rsi
   - type: ExplodeOnTrigger
   - type: Explosive
     explosionType: Electric
@@ -622,7 +622,7 @@
     delay: 1.5
     delayOptions: [1, 1.5, 2.5, 3.5, 5]
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Grenades/shi_smart.rsi
+    sprite: _Lua/Objects/Weapons/Grenades/shi_smart.rsi
     color: "#bcbdcf"
   - type: ExplodeOnTrigger
   - type: Explosive
@@ -663,7 +663,7 @@
     delay: 1.5
     delayOptions: [1, 1.5, 2.5, 3.5, 5]
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Grenades/shi_smart.rsi
+    sprite: _Lua/Objects/Weapons/Grenades/shi_smart.rsi
   - type: ExplodeOnTrigger
   - type: Explosive
     explosionType: Fragmentation
@@ -699,7 +699,7 @@
   - type: OnUseTimerTrigger
     delay: 3.5
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Grenades/shi_tear.rsi
+    sprite: _Lua/Objects/Weapons/Grenades/shi_tear.rsi
   - type: SmokeOnTrigger
     duration: 13
     spreadAmount: 30
@@ -738,7 +738,7 @@
   - type: OnUseTimerTrigger
     delay: 2.5
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Grenades/shi_flash.rsi
+    sprite: _Lua/Objects/Weapons/Grenades/shi_flash.rsi
   - type: FlashOnTrigger
     range: 7
   - type: SoundOnTrigger

@@ -23,9 +23,9 @@
   description: A kevlar-plated nanoweave infantry helmet. Standard issue for interdyne's traumasec.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/Syndicate/Head/ipm_helmet.rsi
+    sprite: _Lua/Clothing/Syndicate/Head/ipm_helmet.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/Syndicate/Head/ipm_helmet.rsi
+    sprite: _Lua/Clothing/Syndicate/Head/ipm_helmet.rsi
   - type: StaticPrice
     price: 75
   - type: ReverseEngineering # Sector Crescent
@@ -211,9 +211,9 @@
   description: Spaceworthy protection for your fragile skull. A modified Syndicate design.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/Syndicate/Head/syndicatesellsword.rsi
+    sprite: _Lua/Clothing/Syndicate/Head/syndicatesellsword.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/Syndicate/Head/syndicatesellsword.rsi
+    sprite: _Lua/Clothing/Syndicate/Head/syndicatesellsword.rsi
   - type: PointLight
     radius: 6
     color: "#ffffed"
@@ -226,9 +226,9 @@
   description: Spaceworthy protection for your fragile (probably felinid) skull. A custom Syndicate design.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/Syndicate/Head/syndicatefreiritter.rsi
+    sprite: _Lua/Clothing/Syndicate/Head/syndicatefreiritter.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/Syndicate/Head/syndicatefreiritter.rsi
+    sprite: _Lua/Clothing/Syndicate/Head/syndicatefreiritter.rsi
   - type: PointLight
     radius: 6
     color: "#90ee90"

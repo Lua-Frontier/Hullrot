@@ -6,9 +6,9 @@
   suffix: Wood
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/anaconda.rsi
+    sprite: _Lua/Objects/Weapons/Guns/anaconda.rsi
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/anaconda.rsi
+    sprite: _Lua/Objects/Weapons/Guns/anaconda.rsi
   - type: ItemSlots
     slots:
       gun_magazine:

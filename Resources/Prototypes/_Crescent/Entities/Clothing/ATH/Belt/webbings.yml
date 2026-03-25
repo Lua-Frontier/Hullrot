@@ -31,9 +31,9 @@
   description: A heavy utility belt lined with tactical droppouches.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/ATH/Belt/droppouches.rsi
+    sprite: _Lua/Clothing/ATH/Belt/droppouches.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/ATH/Belt/droppouches.rsi
+    sprite: _Lua/Clothing/ATH/Belt/droppouches.rsi
   - type: ExplosionResistance
     damageCoefficient: 0.1
 
@@ -44,8 +44,8 @@
   description: A light battle belt for rapid-deployment panzer units.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/ATH/Belt/battlebelt.rsi
+    sprite: _Lua/Clothing/ATH/Belt/battlebelt.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/ATH/Belt/battlebelt.rsi
+    sprite: _Lua/Clothing/ATH/Belt/battlebelt.rsi
   - type: ExplosionResistance
     damageCoefficient: 0.1

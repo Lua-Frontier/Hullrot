@@ -5,7 +5,7 @@
   description: Uses advanced metallurgy patterns to smelt plasma and steel alloy into durable plasteel and plastitanium. PLAAACEHOLDER
   components:
   - type: Sprite
-    sprite: _Crescent/Structures/Industry/blastfurnace.rsi
+    sprite: _Lua/Structures/Industry/blastfurnace.rsi
     snapCardinals: true
     layers:
     - state: blastfurnaceactive

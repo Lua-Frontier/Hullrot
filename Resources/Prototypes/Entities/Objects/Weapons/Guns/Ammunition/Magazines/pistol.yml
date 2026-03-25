@@ -19,7 +19,7 @@
     containers:
       ballistic-ammo: !type:Container
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Ammunition/Magazine/9x19mm_pistol.rsi
+    sprite: _Lua/Objects/Weapons/Ammunition/Magazine/9x19mm_pistol.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
@@ -56,7 +56,7 @@
     containers:
       ballistic-ammo: !type:Container
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Ammunition/Magazine/9x19mm_extend_pistol.rsi
+    sprite: _Lua/Objects/Weapons/Ammunition/Magazine/9x19mm_extend_pistol.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
@@ -93,7 +93,7 @@
     containers:
       ballistic-ammo: !type:Container
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Ammunition/Magazine/9x19mm_mag.rsi
+    sprite: _Lua/Objects/Weapons/Ammunition/Magazine/9x19mm_mag.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]

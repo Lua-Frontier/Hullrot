@@ -5,12 +5,12 @@
   description: An NCWL grenade launcher based on ancient schematics.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/gm94.rsi
+    sprite: _Lua/Objects/Weapons/Guns/gm94.rsi
     layers:
       - state: icon
         map: ["enum.GunVisualLayers.Base"]
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/gm94.rsi
+    sprite: _Lua/Objects/Weapons/Guns/gm94.rsi
     slots:
     - Back
     - suitStorage
@@ -46,9 +46,9 @@
   description: A large grenade launcher designed by Shinora. For when you need to make hell rain on the enemy.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/milkor.rsi
+    sprite: _Lua/Objects/Weapons/Guns/milkor.rsi
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/milkor.rsi
+    sprite: _Lua/Objects/Weapons/Guns/milkor.rsi
     quickEquip: false
     slots:
     - Back
@@ -111,12 +111,12 @@
   description: A single-shot, throwaway rocket launcher designed by Shinora for combating mechs in the field. Fits compactly in a backpack but takes time to ready when needed.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/disposablerpg.rsi
+    sprite: _Lua/Objects/Weapons/Guns/disposablerpg.rsi
     layers:
       - state: base
         map: ["enum.GunVisualLayers.Base"]
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/disposablerpg.rsi
+    sprite: _Lua/Objects/Weapons/Guns/disposablerpg.rsi
     slots:
     - Back
     - suitStorage
@@ -155,7 +155,7 @@
   description: A four-shot, throwaway rocket launcher designed by Pang Tai Arms for obliterating any infantry and damaging mechs
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/commando.rsi
+    sprite: _Lua/Objects/Weapons/Guns/commando.rsi
     layers:
       - state: base
         map: ["enum.GunVisualLayers.Base"]
@@ -163,7 +163,7 @@
         map: ["enum.GunVisualLayers.Mag"]
         shader: unshaded
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/commando.rsi
+    sprite: _Lua/Objects/Weapons/Guns/commando.rsi
   - type: GunRequiresWield
   - type: Item
     shape:
@@ -197,13 +197,13 @@
   description: A cheap and light single-shot grenade launcher, designed by Olywir Armaments.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/m320.rsi
+    sprite: _Lua/Objects/Weapons/Guns/m320.rsi
     layers:
       - state: base
         map: ["enum.GunVisualLayers.Base"]
   - type: Item
     size: Normal
-    sprite: _Crescent/Objects/Weapons/Guns/m320.rsi
+    sprite: _Lua/Objects/Weapons/Guns/m320.rsi
   - type: ItemSlots
     slots:
       gun_chamber:
@@ -224,7 +224,7 @@
     soundBoltOpened: /Audio/Weapons/Guns/Cock/revolver_cock.ogg
     soundRack: /Audio/Weapons/Guns/Cock/revolver_cock.ogg
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/m320.rsi
+    sprite: _Lua/Objects/Weapons/Guns/m320.rsi
     quickEquip: false
     slots:
     - Belt
@@ -253,7 +253,7 @@
   description: A ruggid, breach-loaded recoiless rifle. Suitable for a variety of large targets.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/gustav.rsi
+    sprite: _Lua/Objects/Weapons/Guns/gustav.rsi
     layers:
       - state: base
         map: ["enum.GunVisualLayers.Base"]
@@ -261,7 +261,7 @@
   - type: Item
     shape:
     - 0,0,5,2
-    sprite: _Crescent/Objects/Weapons/Guns/gustav.rsi
+    sprite: _Lua/Objects/Weapons/Guns/gustav.rsi
   - type: ItemSlots
     slots:
       gun_chamber:
@@ -282,7 +282,7 @@
     soundBoltOpened: /Audio/Weapons/Guns/Cock/revolver_cock.ogg
     soundRack: /Audio/Weapons/Guns/Cock/revolver_cock.ogg
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/gustav.rsi
+    sprite: _Lua/Objects/Weapons/Guns/gustav.rsi
     quickEquip: false
     slots:
     - Back
@@ -300,14 +300,14 @@
   description: The lesser known predecessor. A rocket launcher often seen in the hands of terrorists and informal militias.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/rpg2.rsi
+    sprite: _Lua/Objects/Weapons/Guns/rpg2.rsi
     layers:
       - state: base
         map: ["enum.GunVisualLayers.Base"]
       - state: mag-0
         map: ["enum.GunVisualLayers.Mag"]
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/rpg2.rsi
+    sprite: _Lua/Objects/Weapons/Guns/rpg2.rsi
   - type: GunRequiresWield
   - type: Item
     shape:
@@ -345,14 +345,14 @@
   description: An iconic weapon of war. A rocket launcher often seen in the hands of terrorists and informal militias.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/rpg7.rsi
+    sprite: _Lua/Objects/Weapons/Guns/rpg7.rsi
     layers:
       - state: base
         map: ["enum.GunVisualLayers.Base"]
       - state: mag-0
         map: ["enum.GunVisualLayers.Mag"]
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/rpg7.rsi
+    sprite: _Lua/Objects/Weapons/Guns/rpg7.rsi
   - type: GunRequiresWield
   - type: Item
     shape:
@@ -390,12 +390,12 @@
   description: A pump action grenade launcher manufactured by Pang Tai Arms.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/chinalake.rsi
+    sprite: _Lua/Objects/Weapons/Guns/chinalake.rsi
     layers:
       - state: icon
         map: ["enum.GunVisualLayers.Base"]
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/chinalake.rsi
+    sprite: _Lua/Objects/Weapons/Guns/chinalake.rsi
     slots:
     - Back
     - suitStorage

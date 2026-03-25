@@ -1,7 +1,7 @@
 - type: cargoProduct
   id: ShuttleGunSlugthrowerShinohara
   icon:
-    sprite: _Crescent/Objects/ShuttleWeapons/50cal.rsi
+    sprite: _Lua/Objects/ShuttleWeapons/50cal.rsi
     state: space_artillery
   product: CrateShuttlegunSlugthrower
   cost: 5000
@@ -11,7 +11,7 @@
 - type: cargoProduct
   id: ShuttleGunPlasmaRepeaterShinohara
   icon:
-    sprite: _Crescent/Objects/ShuttleWeapons/lasersmall.rsi
+    sprite: _Lua/Objects/ShuttleWeapons/lasersmall.rsi
     state: lse-400c
   product: CrateShuttlegunPlasmaRepeater
   cost: 7500

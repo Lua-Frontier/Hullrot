@@ -7,9 +7,9 @@
   components:
   - type: BreathMask
   - type: Sprite
-    sprite: _Crescent/Clothing/NAP/Head/mepahelmet.rsi
+    sprite: _Lua/Clothing/NAP/Head/mepahelmet.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/NAP/Head/mepahelmet.rsi
+    sprite: _Lua/Clothing/NAP/Head/mepahelmet.rsi
   - type: PointLight
     radius: 6
     color: "#638bb7"
@@ -33,9 +33,9 @@
   description: the General Cranial Protection helmet is shared between all service branches of the NAP for providing standard cranial protection against shrapnel and glancing blows. In concession to spaceborne deployments, the low cut allows a wearer to use a headset in tandem for ship communication.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/NAP/Head/naphelmet.rsi
+    sprite: _Lua/Clothing/NAP/Head/naphelmet.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/NAP/Head/naphelmet.rsi
+    sprite: _Lua/Clothing/NAP/Head/naphelmet.rsi
   - type: Armor
     modifiers:
       coefficients:
@@ -60,6 +60,6 @@
   description: A patrol cap in american colors.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/NAP/Head/napcap.rsi
+    sprite: _Lua/Clothing/NAP/Head/napcap.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/NAP/Head/napcap.rsi
+    sprite: _Lua/Clothing/NAP/Head/napcap.rsi

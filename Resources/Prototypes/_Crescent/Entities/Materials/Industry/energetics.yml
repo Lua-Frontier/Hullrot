@@ -39,7 +39,7 @@
     stackType: Gunpowder
     count: 30
   - type: Sprite
-    sprite: _Crescent/Objects/Industry.rsi
+    sprite: _Lua/Objects/Industry.rsi
     state: blackpowder
   - type: Material
   - type: PhysicalComposition
@@ -69,7 +69,7 @@
     stackType: OrdnanceCompound
     count: 30
   - type: Sprite
-    sprite: _Crescent/Objects/Industry.rsi
+    sprite: _Lua/Objects/Industry.rsi
     state: highexplosive
   - type: Material
   - type: PhysicalComposition

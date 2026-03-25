@@ -26,7 +26,7 @@
     containers:
       ballistic-ammo: !type:Container
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Ammunition/Magazine/shotgun_mag.rsi
+    sprite: _Lua/Objects/Weapons/Ammunition/Magazine/shotgun_mag.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
@@ -65,7 +65,7 @@
     containers:
       ballistic-ammo: !type:Container
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Ammunition/Magazine/shotgun_drum.rsi
+    sprite: _Lua/Objects/Weapons/Ammunition/Magazine/shotgun_drum.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]

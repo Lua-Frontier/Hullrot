@@ -39,9 +39,9 @@
   description: A ripperdoc’s scrubs, just ignore the dried blood stains.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/Syndicate/Uniform/ipm_scrubs.rsi
+    sprite: _Lua/Clothing/Syndicate/Uniform/ipm_scrubs.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/Syndicate/Uniform/ipm_scrubs.rsi
+    sprite: _Lua/Clothing/Syndicate/Uniform/ipm_scrubs.rsi
   - type: StaticPrice
     price: 100
   - type: ReverseEngineering # Sector Crescent
@@ -57,9 +57,9 @@
   description: An Interdyne uniform with a red shirt.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/Syndicate/Uniform/ipm_red.rsi
+    sprite: _Lua/Clothing/Syndicate/Uniform/ipm_red.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/Syndicate/Uniform/ipm_red.rsi
+    sprite: _Lua/Clothing/Syndicate/Uniform/ipm_red.rsi
   - type: StaticPrice
     price: 100
 
@@ -70,9 +70,9 @@
   description: An Interdyne uniform with a white shirt.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/Syndicate/Uniform/ipm_white.rsi
+    sprite: _Lua/Clothing/Syndicate/Uniform/ipm_white.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/Syndicate/Uniform/ipm_white.rsi
+    sprite: _Lua/Clothing/Syndicate/Uniform/ipm_white.rsi
   - type: StaticPrice
     price: 100
   - type: ReverseEngineering # Sector Crescent

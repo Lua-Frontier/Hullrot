@@ -5,9 +5,9 @@
   description: A licensed copy of the Mod-23 shotgun by Pang Tai Arms, shortened for ease of use in cramped spaces.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/maul.rsi
+    sprite: _Lua/Objects/Weapons/Guns/maul.rsi
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/maul.rsi
+    sprite: _Lua/Objects/Weapons/Guns/maul.rsi
   - type: GunRequiresWield
   - type: Item
     shape:
@@ -45,11 +45,11 @@
     size: Normal
     shape:
     - 0,0,4,1
-    sprite: _Crescent/Objects/Weapons/Guns/proletar.rsi
+    sprite: _Lua/Objects/Weapons/Guns/proletar.rsi
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/proletar.rsi
+    sprite: _Lua/Objects/Weapons/Guns/proletar.rsi
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/proletar.rsi
+    sprite: _Lua/Objects/Weapons/Guns/proletar.rsi
   - type: GunRequiresWield
   - type: Gun
     damageModifier: 1.25 #its a pumper so its reasonable
@@ -72,14 +72,14 @@
   description: Top of the line pump shotgun with 2 ammo tubes allowing for a massive 12 shell capacity and can even be slam fired, although this system makes the shotgun very bulky. Made by Cyberdawn for Cyberdawn.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/tuber.rsi
+    sprite: _Lua/Objects/Weapons/Guns/tuber.rsi
     layers:
       - state: base
         map: ["enum.GunVisualLayers.Base"]
       - state: mag-1
         map: ["enum.GunVisualLayers.Mag"]
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/tuber.rsi
+    sprite: _Lua/Objects/Weapons/Guns/tuber.rsi
   - type: Gun
     selectedMode: FullAuto
     availableModes:
@@ -88,7 +88,7 @@
     size: Huge
     shape:
     - 0,0,4,2
-    sprite: _Crescent/Objects/Weapons/Guns/tuber.rsi
+    sprite: _Lua/Objects/Weapons/Guns/tuber.rsi
   - type: BallisticAmmoProvider
     capacity: 12
     autoCycle: false
@@ -117,14 +117,14 @@
   description: A semi-automatic shotgun with a high-capacity magazine, capable of firing two shells at once. Chambered in 12g shells.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/twinshot.rsi
+    sprite: _Lua/Objects/Weapons/Guns/twinshot.rsi
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/twinshot.rsi
+    sprite: _Lua/Objects/Weapons/Guns/twinshot.rsi
   - type: Item
     size: Huge
     shape:
     - 0,0,4,1
-    sprite: _Crescent/Objects/Weapons/Guns/twinshot.rsi
+    sprite: _Lua/Objects/Weapons/Guns/twinshot.rsi
   - type: GunRequiresWield
   - type: Gun
     selectedMode: Burst
@@ -147,9 +147,9 @@
   description: An oversized shotgun. Packs devastating 4 Gauge punches. Developed as part of Pang Tai's elite mercenary package.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/karabin.rsi
+    sprite: _Lua/Objects/Weapons/Guns/karabin.rsi
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/karabin.rsi
+    sprite: _Lua/Objects/Weapons/Guns/karabin.rsi
   - type: GunRequiresWield
   - type: Item
     shape:
@@ -177,7 +177,7 @@
   description: A large and very oddly designed lever-action shotgun fed by 18.5 gauge clips. Designed and manfucatured by United Arsenal for Shinoharas BudgetArms line.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/blaster.rsi
+    sprite: _Lua/Objects/Weapons/Guns/blaster.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
@@ -186,7 +186,7 @@
     shape:
     - 0,0,3,2
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/blaster.rsi
+    sprite: _Lua/Objects/Weapons/Guns/blaster.rsi
     quickEquip: false
     slots:
     - Back
@@ -269,12 +269,12 @@
   description: A cheap, oversized shotgun. Manufactured by Shinora for their BudgetArms line. Chambered in 12g shells.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/dbshotgun.rsi
+    sprite: _Lua/Objects/Weapons/Guns/dbshotgun.rsi
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/dbshotgun.rsi
+    sprite: _Lua/Objects/Weapons/Guns/dbshotgun.rsi
   - type: Item
     size: Huge
-    sprite: _Crescent/Objects/Weapons/Guns/dbshotgun.rsi
+    sprite: _Lua/Objects/Weapons/Guns/dbshotgun.rsi
   - type: GunRequiresWield
   - type: Gun
     fireRate: 3
@@ -306,12 +306,12 @@
   description: An Imperial semi-automatic shotgun designed by Olywir Armaments. Unlike other Olywirian designs, this weapon is not prohibitively expensive to produce.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/reno.rsi
+    sprite: _Lua/Objects/Weapons/Guns/reno.rsi
   - type: Item
     shape:
     - 0,0,3,1
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/reno.rsi
+    sprite: _Lua/Objects/Weapons/Guns/reno.rsi
   - type: BallisticAmmoProvider
   - type: StaticPrice
     price: 1500
@@ -329,12 +329,12 @@
   description: A premium combat shotgun with a folding stock. Originates from the now-defunct NanoTrasen.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/spas13.rsi
+    sprite: _Lua/Objects/Weapons/Guns/spas13.rsi
   - type: Item
     shape:
     - 0,0,3,1
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/spas13.rsi
+    sprite: _Lua/Objects/Weapons/Guns/spas13.rsi
   - type: BallisticAmmoProvider
   - type: StaticPrice
     price: 2500
@@ -353,9 +353,9 @@
   - type: Item
     size: Ginormous
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/surplus_dsm_shotgun.rsi
+    sprite: _Lua/Objects/Weapons/Guns/surplus_dsm_shotgun.rsi
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/surplus_dsm_shotgun.rsi
+    sprite: _Lua/Objects/Weapons/Guns/surplus_dsm_shotgun.rsi
     slots:
     - Back
     - suitStorage
@@ -390,9 +390,9 @@
     shape:
     - 0,0,2,0
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/surplus_ncwl_shotgun.rsi
+    sprite: _Lua/Objects/Weapons/Guns/surplus_ncwl_shotgun.rsi
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/surplus_ncwl_shotgun.rsi
+    sprite: _Lua/Objects/Weapons/Guns/surplus_ncwl_shotgun.rsi
     slots:
     - Back
     - suitStorage
@@ -429,7 +429,7 @@
   description: A magazine-fed shotgun in use by terrorist forces. Uses 12 gauge shotgun shells.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/saiga12.rsi
+    sprite: _Lua/Objects/Weapons/Guns/saiga12.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
@@ -440,7 +440,7 @@
     shape:
     - 0,0,4,2
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/saiga12.rsi
+    sprite: _Lua/Objects/Weapons/Guns/saiga12.rsi
     quickEquip: false
     slots:
     - Back
@@ -534,7 +534,7 @@
   description: The Vihainen Aseperhe 16S. An automatic shotgun designed to excell in close-quarters subjugation. Uses 12 gauge shotgun shells.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/haulikko.rsi
+    sprite: _Lua/Objects/Weapons/Guns/haulikko.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
@@ -545,7 +545,7 @@
     shape:
     - 0,0,4,2
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/haulikko.rsi
+    sprite: _Lua/Objects/Weapons/Guns/haulikko.rsi
     quickEquip: false
     slots:
     - Back
@@ -629,11 +629,11 @@
     size: Normal
     shape:
     - 0,0,2,0
-    sprite: _Crescent/Objects/Weapons/Guns/r870.rsi
+    sprite: _Lua/Objects/Weapons/Guns/r870.rsi
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/r870.rsi
+    sprite: _Lua/Objects/Weapons/Guns/r870.rsi
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/r870.rsi
+    sprite: _Lua/Objects/Weapons/Guns/r870.rsi
   - type: GunRequiresWield #remove when inaccuracy on spreads is fixed
   - type: BallisticAmmoProvider
     capacity: 4

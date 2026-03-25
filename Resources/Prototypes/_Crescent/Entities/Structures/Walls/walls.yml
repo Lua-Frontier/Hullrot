@@ -223,10 +223,10 @@
       tags:
         - Wall
     - type: Sprite
-      sprite: _Crescent/Structures/reinforcedPlastitanium.rsi
+      sprite: _Lua/Structures/reinforcedPlastitanium.rsi
       state: rplastitaniumfull
     - type: Icon
-      sprite: _Crescent/Structures/reinforcedPlastitanium.rsi
+      sprite: _Lua/Structures/reinforcedPlastitanium.rsi
       state: rplastitaniumfull
     - type: IconSmooth
       key: walls
@@ -314,10 +314,10 @@
       tags:
         - Wall
     - type: Sprite
-      sprite: _Crescent/Structures/remnantWalls.rsi
+      sprite: _Lua/Structures/remnantWalls.rsi
       state: remnant_full
     - type: Icon
-      sprite: _Crescent/Structures/remnantWalls.rsi
+      sprite: _Lua/Structures/remnantWalls.rsi
       state: remnant_full
     - type: IconSmooth
       key: walls
@@ -382,12 +382,12 @@
   components:
   - type: Sprite
     drawdepth: Walls
-    sprite: _Crescent/Structures/remnantHollowCorners.rsi
+    sprite: _Lua/Structures/remnantHollowCorners.rsi
     state: state0
   - type: IconSmooth
     mode: Diagonal
     key: walls
     base: state
   - type: Icon
-    sprite: _Crescent/Structures/remnantHollowCorners.rsi
+    sprite: _Lua/Structures/remnantHollowCorners.rsi
     state: state0

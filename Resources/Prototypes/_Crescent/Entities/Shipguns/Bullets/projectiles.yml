@@ -274,7 +274,7 @@
   - type: TimedDespawn
     lifetime: 40
   - type: Sprite
-    sprite: _Crescent/Objects/ShuttleWeapons/torpedop.rsi
+    sprite: _Lua/Objects/ShuttleWeapons/torpedop.rsi
     layers:
       - state: base-projectile
   - type: ExplodeOnTrigger
@@ -345,7 +345,7 @@
   - type: TimedDespawn
     lifetime: 50
   - type: Sprite
-    sprite: _Crescent/Objects/ShuttleWeapons/torp.rsi
+    sprite: _Lua/Objects/ShuttleWeapons/torp.rsi
     layers:
       - state: base-projectile
   - type: ExplodeOnTrigger
@@ -417,7 +417,7 @@
   - type: TimedDespawn
     lifetime: 50
   - type: Sprite
-    sprite: _Crescent/Objects/ShuttleWeapons/torpemp.rsi
+    sprite: _Lua/Objects/ShuttleWeapons/torpemp.rsi
     layers:
       - state: base-projectile
   - type: ExplodeOnTrigger
@@ -566,7 +566,7 @@
   - type: TimedDespawn
     lifetime: 30
   - type: Sprite
-    sprite: _Crescent/Objects/ShuttleWeapons/battleshell.rsi
+    sprite: _Lua/Objects/ShuttleWeapons/battleshell.rsi
     layers:
       - state: base-projectile
   - type: ExplodeOnTrigger

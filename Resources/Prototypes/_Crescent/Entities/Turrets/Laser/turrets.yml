@@ -11,7 +11,7 @@
   - type: StaticPrice
     price: 1500
   - type: Sprite
-    sprite: _Crescent/Objects/ShuttleWeapons/mininglaser.rsi
+    sprite: _Lua/Objects/ShuttleWeapons/mininglaser.rsi
     layers:
     - state: states
     - state: mag-7
@@ -74,7 +74,7 @@
   description: A medium energy platform that shoots ionized hardlight that interferes with shuttle electronics.
   components:
     - type: Sprite
-      sprite: _Crescent/Objects/Turrets/Laser/curse.rsi
+      sprite: _Lua/Objects/Turrets/Laser/curse.rsi
       drawdepth: Mobs
       layers:
         - state: curse
@@ -133,7 +133,7 @@
   description: A medium energy platform that shoots ionized hardlight that interferes with shuttle electronics. Upgraded electronics give it more sustained fire.
   components:
     - type: Sprite
-      sprite: _Crescent/Objects/Turrets/Laser/curse.rsi
+      sprite: _Lua/Objects/Turrets/Laser/curse.rsi
       drawdepth: Mobs
       layers:
         - state: curse-dsm
@@ -194,7 +194,7 @@
   description: A light energy weapons platform that converts energy into hardlight and flings it at high speeds.
   components:
     - type: Sprite
-      sprite: _Crescent/Objects/Turrets/Laser/retribution.rsi
+      sprite: _Lua/Objects/Turrets/Laser/retribution.rsi
       drawdepth: Mobs
       layers:
         - state: retribution
@@ -253,7 +253,7 @@
   description: A light energy weapons platform that converts energy into hardlight and flings it at high speeds. It's upgraded hardlight generator lets it fire faster while its power reserves last.
   components:
     - type: Sprite
-      sprite: _Crescent/Objects/Turrets/Laser/retribution.rsi
+      sprite: _Lua/Objects/Turrets/Laser/retribution.rsi
       drawdepth: Mobs
       layers:
         - state: retribution-dsm
@@ -314,7 +314,7 @@
   description: A medium laser weapons platform that creates hardlight bolts and flings them at targets. Fires in compact bursts capable of ablating hull.
   components:
     - type: Sprite
-      sprite: _Crescent/Objects/Turrets/Laser/absolution.rsi
+      sprite: _Lua/Objects/Turrets/Laser/absolution.rsi
       drawdepth: Mobs
       layers:
         - state: absolution
@@ -375,7 +375,7 @@
   description: A medium laser weapons platform that creates hardlight bolts and flings them at targets. Has a faster pulse rate resulting in increased rate of fire.
   components:
     - type: Sprite
-      sprite: _Crescent/Objects/Turrets/Laser/absolution.rsi
+      sprite: _Lua/Objects/Turrets/Laser/absolution.rsi
       drawdepth: Mobs
       layers:
         - state: absolution-dsm
@@ -438,7 +438,7 @@
   description: A large energy weapons platform that fires hardlight bolts that explode on impact.
   components:
     - type: Sprite
-      sprite: _Crescent/Objects/Turrets/Laser/damnation.rsi
+      sprite: _Lua/Objects/Turrets/Laser/damnation.rsi
       drawdepth: Mobs
       layers:
         - state: damnation
@@ -496,7 +496,7 @@
   description: A large energy weapons platform that fires supercharged hardlight bolts that explode on impact. Slight upgrades make it better on all fronts compared to its common variant.
   components:
     - type: Sprite
-      sprite: _Crescent/Objects/Turrets/Laser/damnation.rsi
+      sprite: _Lua/Objects/Turrets/Laser/damnation.rsi
       drawdepth: Mobs
       layers:
         - state: damnation-dsm

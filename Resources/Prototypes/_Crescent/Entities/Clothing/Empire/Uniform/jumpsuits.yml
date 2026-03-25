@@ -20,9 +20,9 @@
   description: A sleek onepiece bodysuit with Royal livery.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/Empire/Uniform/clarizecombat.rsi
+    sprite: _Lua/Clothing/Empire/Uniform/clarizecombat.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/Empire/Uniform/clarizecombat.rsi
+    sprite: _Lua/Clothing/Empire/Uniform/clarizecombat.rsi
   - type: ReverseEngineering # Sector Crescent
     recipes:
       - ClothingUniformJumpsuitClarizeCombat
@@ -35,9 +35,9 @@
   description: An officer's silken suit.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/Empire/Uniform/clarizeofficer.rsi
+    sprite: _Lua/Clothing/Empire/Uniform/clarizeofficer.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/Empire/Uniform/clarizeofficer.rsi
+    sprite: _Lua/Clothing/Empire/Uniform/clarizeofficer.rsi
   - type: ReverseEngineering # Sector Crescent
     recipes:
       - ClothingUniformJumpsuitClarizeOfficer
@@ -91,9 +91,9 @@
   description: A doctor's jumpsuit with Royal livery.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/Empire/Uniform/clarizemedic.rsi
+    sprite: _Lua/Clothing/Empire/Uniform/clarizemedic.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/Empire/Uniform/clarizemedic.rsi
+    sprite: _Lua/Clothing/Empire/Uniform/clarizemedic.rsi
   - type: ReverseEngineering # Sector Crescent
     recipes:
       - ClothingUniformJumpsuitClarizeDoctor

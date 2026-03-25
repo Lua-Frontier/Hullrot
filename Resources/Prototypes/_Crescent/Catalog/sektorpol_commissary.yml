@@ -3,7 +3,7 @@
   name:  cmm_hardsuit_name
   description: cmm_hardsuit_description
   productEntity: ClothingOuterHardsuitMidshipman
-  icon: { sprite: _Crescent/Clothing/CMM/OuterClothing/midshipman.rsi, state: icon }
+  icon: { sprite: _Lua/Clothing/CMM/OuterClothing/midshipman.rsi, state: icon }
   cost:
     FrontierUplinkCoin: 5
   categories:
@@ -19,7 +19,7 @@
   name:  cmm_hardsuit_heavy_name
   description: cmm_hardsuit_heavy_description
   productEntity: ClothingOuterHardsuitCMMPatrol
-  icon: { sprite: _Crescent/Clothing/CMM/OuterClothing/patrol.rsi, state: icon }
+  icon: { sprite: _Lua/Clothing/CMM/OuterClothing/patrol.rsi, state: icon }
   cost:
     FrontierUplinkCoin: 8
   categories:
@@ -35,7 +35,7 @@
   name:  cmm_smg_name
   description: cmm_smg_desc
   productEntity: WeaponSubMachineGunMP49
-  icon: { sprite: _Crescent/Objects/Weapons/Guns/mp49.rsi, state: icon }
+  icon: { sprite: _Lua/Objects/Weapons/Guns/mp49.rsi, state: icon }
   cost:
     FrontierUplinkCoin: 3
   categories:
@@ -83,7 +83,7 @@
   name:  cmm_pistol_name
   description: cmm_pistol_desc
   productEntity: WeaponRevolverSnubnose
-  icon: { sprite: _Crescent/Objects/Weapons/Guns/bulldog.rsi, state: icon }
+  icon: { sprite: _Lua/Objects/Weapons/Guns/bulldog.rsi, state: icon }
   cost:
     FrontierUplinkCoin: 2
   categories:

@@ -75,7 +75,7 @@
   description: A rare, custom-built revolver. Use when there is no time for Voight-Kampff test. Uses .327 ammo.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/deckard.rsi
+    sprite: _Lua/Objects/Weapons/Guns/deckard.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
@@ -123,9 +123,9 @@
   description: A detective's best friend. Uses .327 Imperial ammo.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/inspector.rsi
+    sprite: _Lua/Objects/Weapons/Guns/inspector.rsi
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/inspector.rsi
+    sprite: _Lua/Objects/Weapons/Guns/inspector.rsi
   - type: RevolverAmmoProvider
     capacity: 6
     chambers: [ True, True, True, True, True, True ]
@@ -163,9 +163,9 @@
   description: The iconic sidearm of the dreaded corporate liquidation squads. Uses .327 magnum ammo. The biometric lock for the trigger seems to be not functioning.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/mateba.rsi
+    sprite: _Lua/Objects/Weapons/Guns/mateba.rsi
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/mateba.rsi
+    sprite: _Lua/Objects/Weapons/Guns/mateba.rsi
   - type: Gun
     fireRate: 3
     soundGunshot:
@@ -182,9 +182,9 @@
   description: A bulky service revolver developed by the Union Foundries. Given to officers and high-ranking officials as a 'compliance ensurance tool'.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/python.rsi
+    sprite: _Lua/Objects/Weapons/Guns/python.rsi
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/python.rsi
+    sprite: _Lua/Objects/Weapons/Guns/python.rsi
   - type: Gun
     selectedMode: SemiAuto
     fireRate: 2

@@ -6,9 +6,9 @@
   description: A kevlar-plated nanoweave infantry helmet. Standard issue for communards.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/NCWL/Head/ncwlhelmet.rsi
+    sprite: _Lua/Clothing/NCWL/Head/ncwlhelmet.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/NCWL/Head/ncwlhelmet.rsi
+    sprite: _Lua/Clothing/NCWL/Head/ncwlhelmet.rsi
   - type: ReverseEngineering # SectorCrescent
     recipes:
       - ClothingHeadHelmetNCWLBasic
@@ -21,9 +21,9 @@
   description: A kevlar-plated nanoweave juggernaut helmet. Standard issue for communards.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/NCWL/Head/ncwlheavyhelmet.rsi
+    sprite: _Lua/Clothing/NCWL/Head/ncwlheavyhelmet.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/NCWL/Head/ncwlheavyhelmet.rsi
+    sprite: _Lua/Clothing/NCWL/Head/ncwlheavyhelmet.rsi
   - type: Armor
     modifiers:
       coefficients:
@@ -47,9 +47,9 @@
   description: The tinted polyplast visor protects a League enforcer's eyes from thrown objects, harsh blows, and most shrapnel. The fit is very “one-size-fits-all,” however, and the helm is rather uncomfortable for non-baseline members of the League. Ventilation is poor by design; discomfort keeps the Enforcer alert. A faded slogan stamped inside the liner reads; “Pain is clarity.” Offers protection from bricks, clubs, and ideologically-weak thoughts.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/NCWL/Head/ncwlhelmetriot.rsi
+    sprite: _Lua/Clothing/NCWL/Head/ncwlhelmetriot.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/NCWL/Head/ncwlhelmetriot.rsi
+    sprite: _Lua/Clothing/NCWL/Head/ncwlhelmetriot.rsi
   - type: DegradeableArmor
     armorMaxHealth: 1000
     armorType: Metallic
@@ -80,9 +80,9 @@
   components:
   - type: BreathMask
   - type: Sprite
-    sprite: _Crescent/Clothing/NCWL/Head/infanteermedsuithelmet.rsi
+    sprite: _Lua/Clothing/NCWL/Head/infanteermedsuithelmet.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/NCWL/Head/infanteermedsuithelmet.rsi
+    sprite: _Lua/Clothing/NCWL/Head/infanteermedsuithelmet.rsi
   - type: PointLight
     radius: 6
     color: "#ffffff"
@@ -109,9 +109,9 @@
   - type: BreathMask
   - type: EyeProtection
   - type: Sprite
-    sprite: _Crescent/Clothing/NCWL/Head/salvagehardsuithelmet.rsi
+    sprite: _Lua/Clothing/NCWL/Head/salvagehardsuithelmet.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/NCWL/Head/salvagehardsuithelmet.rsi
+    sprite: _Lua/Clothing/NCWL/Head/salvagehardsuithelmet.rsi
   - type: PointLight
     radius: 6
     color: "#ffffff"

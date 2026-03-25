@@ -8,7 +8,7 @@
   description: A light hybrid weapons platform that superheats unstable units of plasma and flings them at high speeds at targets. The plasma projectiles are inaccurate, but pack a punch.
   components:
     - type: Sprite
-      sprite: _Crescent/Objects/Turrets/Hybrid/starburst.rsi
+      sprite: _Lua/Objects/Turrets/Hybrid/starburst.rsi
       drawdepth: Mobs
       layers:
         - state: starburst
@@ -70,7 +70,7 @@
   description: A medium hybrid weapons platform that superheats unstable units of plasma and flings them at high speeds at targets. The plasma projectiles are inaccurate, but cause a concentrated explosion on target.
   components:
     - type: Sprite
-      sprite: _Crescent/Objects/Turrets/Hybrid/bolter.rsi
+      sprite: _Lua/Objects/Turrets/Hybrid/bolter.rsi
       drawdepth: Mobs
       layers:
         - state: bolter
@@ -132,7 +132,7 @@
   description: Fires large and concentrated bolts of plasma capable of dealing with any armor. Quite inaccurate.
   components:
     - type: Sprite
-      sprite: _Crescent/Objects/Turrets/Hybrid/mauler.rsi
+      sprite: _Lua/Objects/Turrets/Hybrid/mauler.rsi
       drawdepth: Mobs
       layers:
         - state: mauler

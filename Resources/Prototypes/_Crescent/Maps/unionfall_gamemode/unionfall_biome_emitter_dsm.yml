@@ -11,7 +11,7 @@
         - type: PreventPilot
         - type: VesselIcon
           iffIcon:
-            sprite: _Crescent/ShipIcons/ifficons.rsi
+            sprite: _Lua/ShipIcons/ifficons.rsi
             state: outpost
       components:
         - type: StationNameSetup

@@ -9,14 +9,14 @@
     shape:
     - 0,0,5,1
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/militant.rsi
+    sprite: _Lua/Objects/Weapons/Guns/militant.rsi
     layers:
       - state: base
         map: ["enum.GunVisualLayers.Base"]
       - state: mag-0
         map: ["enum.GunVisualLayers.Mag"]
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/militant.rsi
+    sprite: _Lua/Objects/Weapons/Guns/militant.rsi
   - type: ItemSlots
     slots:
       gun_magazine:
@@ -63,14 +63,14 @@
   description: A light submachinegun of communard design. Union Foundries makes these for the common grunt, and the cheap materials probably reflect that.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/watchdog.rsi
+    sprite: _Lua/Objects/Weapons/Guns/watchdog.rsi
     layers:
       - state: base
         map: ["enum.GunVisualLayers.Base"]
       - state: mag-0
         map: ["enum.GunVisualLayers.Mag"]
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/watchdog.rsi
+    sprite: _Lua/Objects/Weapons/Guns/watchdog.rsi
   - type: Gun
     fireRate: 15
     soundGunshot:
@@ -93,14 +93,14 @@
   description: A rugged, deregulated SMG favoured by partisans and infiltrators simple, ruthless, and cheap to produce from scavenged parts.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/surplus_ncwl_smg.rsi
+    sprite: _Lua/Objects/Weapons/Guns/surplus_ncwl_smg.rsi
     layers:
       - state: base
         map: ["enum.GunVisualLayers.Base"]
       - state: mag-0
         map: ["enum.GunVisualLayers.Mag"]
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/surplus_ncwl_smg.rsi
+    sprite: _Lua/Objects/Weapons/Guns/surplus_ncwl_smg.rsi
     slots:
     - Back
     - suitStorage
@@ -148,14 +148,14 @@
   description: Manufactured for internal use by the Homeguard, the second entry of the Union Foundries focuses primarily on stopping power while sacrificing speed and agility.
   components:
     - type: Sprite
-      sprite: _Crescent/Objects/Weapons/Guns/liberator.rsi
+      sprite: _Lua/Objects/Weapons/Guns/liberator.rsi
       layers:
         - state: base
           map: ["enum.GunVisualLayers.Base"]
         - state: mag-0
           map: ["enum.GunVisualLayers.Mag"]
     - type: Clothing
-      sprite: _Crescent/Objects/Weapons/Guns/liberator.rsi
+      sprite: _Lua/Objects/Weapons/Guns/liberator.rsi
     - type: Gun
       fireRate: 9
       selectedMode: FullAuto
@@ -201,14 +201,14 @@
   description: A slick submachinegun produced by Olywir Armaments for the Imperial Navy. Mostly used by pointmen and naval personnel.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/talon.rsi
+    sprite: _Lua/Objects/Weapons/Guns/talon.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
     - state: mag-0
       map: ["enum.GunVisualLayers.Mag"]
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/talon.rsi
+    sprite: _Lua/Objects/Weapons/Guns/talon.rsi
   - type: Wieldable
   - type: GunWieldBonus
     minAngle: -19
@@ -259,14 +259,14 @@
   description: A stripped-down Imperial SMG made for mass production. Features and components requiring skilled machining have been removed to allow manufacture by lesser domains.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/surplus_dsm_smg.rsi
+    sprite: _Lua/Objects/Weapons/Guns/surplus_dsm_smg.rsi
     layers:
       - state: base
         map: ["enum.GunVisualLayers.Base"]
       - state: mag-0
         map: ["enum.GunVisualLayers.Mag"]
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/surplus_dsm_smg.rsi
+    sprite: _Lua/Objects/Weapons/Guns/surplus_dsm_smg.rsi
     slots:
     - Back
     - suitStorage
@@ -317,14 +317,14 @@
   - type: StaticPrice
     price: 600
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/mp49.rsi
+    sprite: _Lua/Objects/Weapons/Guns/mp49.rsi
     layers:
       - state: base
         map: ["enum.GunVisualLayers.Base"]
       - state: mag-0
         map: ["enum.GunVisualLayers.Mag"]
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/mp49.rsi
+    sprite: _Lua/Objects/Weapons/Guns/mp49.rsi
   - type: Gun
     fireRate: 15
     soundGunshot:
@@ -348,14 +348,14 @@
   - type: StaticPrice
     price: 1250
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/sabre.rsi
+    sprite: _Lua/Objects/Weapons/Guns/sabre.rsi
     layers:
       - state: base
         map: ["enum.GunVisualLayers.Base"]
       - state: mag-0
         map: ["enum.GunVisualLayers.Mag"]
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/sabre.rsi
+    sprite: _Lua/Objects/Weapons/Guns/sabre.rsi
   - type: Item
     shape:
     - 0,0,2,1
@@ -403,14 +403,14 @@
   description: A light Terran-originating submachine gun with a top-mounted magazine. Chamberd in 11mm PSTF.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/wt550.rsi
+    sprite: _Lua/Objects/Weapons/Guns/wt550.rsi
     layers:
       - state: base
         map: ["enum.GunVisualLayers.Base"]
       - state: mag-0
         map: ["enum.GunVisualLayers.Mag"]
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/wt550.rsi
+    sprite: _Lua/Objects/Weapons/Guns/wt550.rsi
   - type: ChamberMagazineAmmoProvider
     boltClosed: null
   - type: Gun
@@ -463,7 +463,7 @@
   description: A compact 11 mm submachine gun made by Cyberdawn. Commonly called the C-20R, though Cyberdawn recently tried to force the nickname Corsair on it.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/corsair.rsi
+    sprite: _Lua/Objects/Weapons/Guns/corsair.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
@@ -522,7 +522,7 @@
   description: A rapid-fire submachinegun developed by the Shipfitters Union. Eats through ammo like a starving elephant.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/atreides.rsi
+    sprite: _Lua/Objects/Weapons/Guns/atreides.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
@@ -560,7 +560,7 @@
     soundEmpty:
       path: /Audio/Weapons/Guns/Empty/lmg_empty.ogg
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/corsair.rsi
+    sprite: _Lua/Objects/Weapons/Guns/corsair.rsi
     layers:
     - state: base
       map: [ "enum.GunVisualLayers.Base" ]
@@ -590,14 +590,14 @@
   description: A cheap, open-bolt copy of the Vector. Unlike the real vector this one doesnt have the signature Super V recoil mitigation system. Chambered in small 6mm rounds.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/vektor.rsi
+    sprite: _Lua/Objects/Weapons/Guns/vektor.rsi
     layers:
       - state: base
         map: ["enum.GunVisualLayers.Base"]
       - state: mag-0
         map: ["enum.GunVisualLayers.Mag"]
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/vektor.rsi
+    sprite: _Lua/Objects/Weapons/Guns/vektor.rsi
   - type: ItemSlots
     slots:
       gun_magazine:
@@ -641,7 +641,7 @@
   components:
   - type: GunRequiresWield
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/ghost.rsi
+    sprite: _Lua/Objects/Weapons/Guns/ghost.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
@@ -688,7 +688,7 @@
   - type: StaticPrice
     price: 1250
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/cheshyre.rsi
+    sprite: _Lua/Objects/Weapons/Guns/cheshyre.rsi
     layers:
       - state: base
         map: ["enum.GunVisualLayers.Base"]
@@ -735,14 +735,14 @@
   description: A fast very firing bullpup submachine gun. Manufactured by Pang Tai Arms and outsourced to mercenary factors in the area. Suffers from immense recoil due to it's caliber.
   components:
     - type: Sprite
-      sprite: _Crescent/Objects/Weapons/Guns/drozd.rsi
+      sprite: _Lua/Objects/Weapons/Guns/drozd.rsi
       layers:
         - state: base
           map: ["enum.GunVisualLayers.Base"]
         - state: mag-0
           map: ["enum.GunVisualLayers.Mag"]
     - type: Clothing
-      sprite: _Crescent/Objects/Weapons/Guns/drozd.rsi
+      sprite: _Lua/Objects/Weapons/Guns/drozd.rsi
     - type: Wieldable
       unwieldOnUse: false
     - type: GunWieldBonus
@@ -793,14 +793,14 @@
   - type: StaticPrice
     price: 1000
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/beetle.rsi
+    sprite: _Lua/Objects/Weapons/Guns/beetle.rsi
     layers:
       - state: base
         map: ["enum.GunVisualLayers.Base"]
       - state: mag-0
         map: ["enum.GunVisualLayers.Mag"]
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/beetle.rsi
+    sprite: _Lua/Objects/Weapons/Guns/beetle.rsi
   - type: Item
     size: Small
     shape:
@@ -853,14 +853,14 @@
   - type: StaticPrice
     price: 800
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/mp40.rsi
+    sprite: _Lua/Objects/Weapons/Guns/mp40.rsi
     layers:
       - state: base
         map: ["enum.GunVisualLayers.Base"]
       - state: mag-0
         map: ["enum.GunVisualLayers.Mag"]
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/mp40.rsi
+    sprite: _Lua/Objects/Weapons/Guns/mp40.rsi
   - type: Gun
     fireRate: 15
     selectedMode: FullAuto
@@ -901,14 +901,14 @@
   - type: StaticPrice
     price: 800
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/kevyt.rsi
+    sprite: _Lua/Objects/Weapons/Guns/kevyt.rsi
     layers:
       - state: base
         map: ["enum.GunVisualLayers.Base"]
       - state: mag-0
         map: ["enum.GunVisualLayers.Mag"]
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/kevyt.rsi
+    sprite: _Lua/Objects/Weapons/Guns/kevyt.rsi
   - type: Gun
     fireRate: 15
     selectedMode: FullAuto
@@ -950,14 +950,14 @@
   - type: StaticPrice
     price: 800
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/mp5.rsi
+    sprite: _Lua/Objects/Weapons/Guns/mp5.rsi
     layers:
       - state: base
         map: ["enum.GunVisualLayers.Base"]
       - state: mag-0
         map: ["enum.GunVisualLayers.Mag"]
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/mp5.rsi
+    sprite: _Lua/Objects/Weapons/Guns/mp5.rsi
   - type: Gun
     fireRate: 15
     selectedMode: FullAuto

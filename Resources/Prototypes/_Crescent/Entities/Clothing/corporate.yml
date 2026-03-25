@@ -86,9 +86,9 @@
   components:
   - type: BreathMask
   - type: Sprite
-    sprite: _Crescent/Clothing/Corpo/Head/zhanshi.rsi
+    sprite: _Lua/Clothing/Corpo/Head/zhanshi.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/Corpo/Head/zhanshi.rsi
+    sprite: _Lua/Clothing/Corpo/Head/zhanshi.rsi
   - type: PointLight
     radius: 6
     color: "#c1293f"

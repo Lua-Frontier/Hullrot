@@ -49,9 +49,9 @@
   description: Built for the League's ranking officebodies. This military outfit bears many golden medals and insignias you don't recognize.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/NCWL/Uniform/ncwladmiral.rsi
+    sprite: _Lua/Clothing/NCWL/Uniform/ncwladmiral.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/NCWL/Uniform/ncwladmiral.rsi
+    sprite: _Lua/Clothing/NCWL/Uniform/ncwladmiral.rsi
 
 ## ncwl revamp
 
@@ -62,9 +62,9 @@
   description: A telnik. Write a better description later.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/NCWL/Uniform/ncwltelniksleeved.rsi
+    sprite: _Lua/Clothing/NCWL/Uniform/ncwltelniksleeved.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/NCWL/Uniform/ncwltelniksleeved.rsi
+    sprite: _Lua/Clothing/NCWL/Uniform/ncwltelniksleeved.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -73,9 +73,9 @@
   description: A telnik. Write a better description later.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/NCWL/Uniform/ncwltelniksleeveless.rsi
+    sprite: _Lua/Clothing/NCWL/Uniform/ncwltelniksleeveless.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/NCWL/Uniform/ncwltelniksleeveless.rsi
+    sprite: _Lua/Clothing/NCWL/Uniform/ncwltelniksleeveless.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -84,9 +84,9 @@
   description: A jumpsuit. Write a better description later.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/NCWL/Uniform/ncwltrainee.rsi
+    sprite: _Lua/Clothing/NCWL/Uniform/ncwltrainee.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/NCWL/Uniform/ncwltrainee.rsi
+    sprite: _Lua/Clothing/NCWL/Uniform/ncwltrainee.rsi
 
 - type: entity
   parent: ClothingUniformBase

@@ -51,7 +51,7 @@
   description: An instrument of war. Directly in your forearm!
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Melee/mantis_blade.rsi
+    sprite: _Lua/Objects/Weapons/Melee/mantis_blade.rsi
     state: icon
   - type: MeleeWeapon
     wideAnimationRotation: -45
@@ -73,7 +73,7 @@
     soundHit:
       path: /Audio/Weapons/bladeslice.ogg
   - type: Item
-    sprite: _Crescent/Objects/Weapons/Melee/mantis_blade.rsi
+    sprite: _Lua/Objects/Weapons/Melee/mantis_blade.rsi
   - type: MultiHandedItem
 
 - type: entity
@@ -83,10 +83,10 @@
   description: A vicious looking blade.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Melee/machete.rsi
+    sprite: _Lua/Objects/Weapons/Melee/machete.rsi
     state: icon
   - type: Item
-    sprite: _Crescent/Objects/Weapons/Melee/machete.rsi
+    sprite: _Lua/Objects/Weapons/Melee/machete.rsi
 
 - type: entity
   name: noble's rapier
@@ -96,7 +96,7 @@
   components:
   - type: Sharp
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Melee/noble_rapier.rsi
+    sprite: _Lua/Objects/Weapons/Melee/noble_rapier.rsi
     state: icon
   - type: MeleeWeapon
     wideAnimationRotation: -135
@@ -120,7 +120,7 @@
     size: Normal
     shape:
       - 0,0,1,3
-    sprite: _Crescent/Objects/Weapons/Melee/noble_rapier.rsi
+    sprite: _Lua/Objects/Weapons/Melee/noble_rapier.rsi
   - type: Tag
     tags:
     - Rapier
@@ -143,7 +143,7 @@
   components:
   - type: Sharp
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Melee/noble_sabre.rsi
+    sprite: _Lua/Objects/Weapons/Melee/noble_sabre.rsi
     state: icon
   - type: MeleeWeapon
     wideAnimationRotation: -135
@@ -168,7 +168,7 @@
     size: Normal
     shape:
       - 0,0,1,3
-    sprite: _Crescent/Objects/Weapons/Melee/noble_sabre.rsi
+    sprite: _Lua/Objects/Weapons/Melee/noble_sabre.rsi
   - type: Tag
     tags:
     - DSMSabre
@@ -214,7 +214,7 @@
   description: Disdaining the fragile electrotaser or shock batons of more "advanced" polities, the League opts for a hard wearing steel core rod with two lug nuts fixed at the head. More mace than baton, few lumpenproles risk being struck twice.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Melee/ncwllugbaton.rsi
+    sprite: _Lua/Objects/Weapons/Melee/ncwllugbaton.rsi
     state: icon
   - type: MeleeWeapon
     wideAnimationRotation: -135
@@ -242,7 +242,7 @@
     tags:
     - Truncheon
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Melee/ncwllugbaton.rsi
+    sprite: _Lua/Objects/Weapons/Melee/ncwllugbaton.rsi
     quickEquip: false
     slots:
     - Belt
@@ -366,7 +366,7 @@
   components:
   - type: Sharp
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Melee/duelingkhopesh.rsi
+    sprite: _Lua/Objects/Weapons/Melee/duelingkhopesh.rsi
     state: icon
   - type: MeleeWeapon
     wideAnimationRotation: 90
@@ -387,7 +387,7 @@
     size: Normal
     shape:
       - 0,0,1,3
-    sprite: _Crescent/Objects/Weapons/Melee/duelingkhopesh.rsi
+    sprite: _Lua/Objects/Weapons/Melee/duelingkhopesh.rsi
   - type: Tag
     tags:
     - Khopesh
@@ -410,7 +410,7 @@
   components:
   - type: Sharp
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Melee/ncwlkukri.rsi
+    sprite: _Lua/Objects/Weapons/Melee/ncwlkukri.rsi
     state: icon
   - type: MeleeWeapon
     wideAnimationRotation: -45
@@ -442,7 +442,7 @@
     size: Normal
     shape:
       - 0,0,1,3
-    sprite: _Crescent/Objects/Weapons/Melee/ncwlkukri.rsi
+    sprite: _Lua/Objects/Weapons/Melee/ncwlkukri.rsi
   - type: Tag
     tags:
     - Kukri
@@ -463,7 +463,7 @@
   - type: Execution
     doAfterDuration: 4.0
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Melee/zweihander.rsi
+    sprite: _Lua/Objects/Weapons/Melee/zweihander.rsi
     state: icon
   - type: MeleeWeapon
     wideAnimationRotation: 200
@@ -500,7 +500,7 @@
   - type: Item
     size: Ginormous
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Melee/zweihander.rsi
+    sprite: _Lua/Objects/Weapons/Melee/zweihander.rsi
     quickEquip: false
     slots:
     - back

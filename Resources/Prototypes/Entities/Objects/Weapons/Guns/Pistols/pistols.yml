@@ -92,7 +92,7 @@
   description: A small, easily concealable, but somewhat underpowered gun, produced by a bulk arms manufacturer now defunct for over a century. Uses 9x19mm PSTF ammo.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/viper.rsi
+    sprite: _Lua/Objects/Weapons/Guns/viper.rsi
   - type: ItemSlots
     slots:
       gun_magazine:
@@ -201,7 +201,7 @@
   description: A rugged, robust operator handgun with inbuilt silencer. Uses 9x39mm caseless ammo.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/cobra.rsi
+    sprite: _Lua/Objects/Weapons/Guns/cobra.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
@@ -279,7 +279,7 @@
   description: A cheap, oversized, and unreliable pistol. You’d be better off using it to beat someone to death, assuming it doesn’t shatter into 16 pieces after the first hit. Uses small 6mm ammo.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/tayamura.rsi
+    sprite: _Lua/Objects/Weapons/Guns/tayamura.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
@@ -387,7 +387,7 @@
   description: The sidearm of any self respecting officer. Comes in .327, the lord's caliber.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/liberty.rsi
+    sprite: _Lua/Objects/Weapons/Guns/liberty.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]

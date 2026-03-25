@@ -293,9 +293,9 @@
   - type: Item
     size: Ginormous
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/surplus_ncwl_rifle.rsi
+    sprite: _Lua/Objects/Weapons/Guns/surplus_ncwl_rifle.rsi
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/surplus_ncwl_rifle.rsi
+    sprite: _Lua/Objects/Weapons/Guns/surplus_ncwl_rifle.rsi
   - type: Gun
     fireRate: 0.75
     damageModifier: 2
@@ -330,9 +330,9 @@
   - type: Item
     size: Ginormous
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/surplus_dsm_rifle.rsi
+    sprite: _Lua/Objects/Weapons/Guns/surplus_dsm_rifle.rsi
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/surplus_dsm_rifle.rsi
+    sprite: _Lua/Objects/Weapons/Guns/surplus_dsm_rifle.rsi
   - type: Gun
     fireRate: 0.75
     damageModifier: 1.75
@@ -365,13 +365,13 @@
   description: A ramshackle anti-materiel rifle built from scavenged parts. Chambered in massive 15×169mm, it punches through light armor despite its crude construction.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/surplus_ncwl_amr.rsi
+    sprite: _Lua/Objects/Weapons/Guns/surplus_ncwl_amr.rsi
     layers:
       - state: base
         map: ["enum.GunVisualLayers.Base"]
   - type: Item
     size: Ginormous
-    sprite: _Crescent/Objects/Weapons/Guns/surplus_ncwl_amr.rsi
+    sprite: _Lua/Objects/Weapons/Guns/surplus_ncwl_amr.rsi
   - type: ItemSlots
     slots:
       gun_chamber:
@@ -393,7 +393,7 @@
     soundBoltOpened: /Audio/Weapons/Guns/UnionfallWeapons/amr_open_2.ogg
     soundRack: /Audio/Weapons/Guns/Cock/batrifle_cock.ogg #this should never play
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/surplus_ncwl_amr.rsi
+    sprite: _Lua/Objects/Weapons/Guns/surplus_ncwl_amr.rsi
     quickEquip: false
     slots:
     - Back
@@ -420,13 +420,13 @@
   description: An old but effective anti-materiel rifle. While controversial among Imperial nobility for its armor-piercing capabilities, it remains a standard issue weapon for planetary defense forces.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/surplus_dsm_amr.rsi
+    sprite: _Lua/Objects/Weapons/Guns/surplus_dsm_amr.rsi
     layers:
       - state: base
         map: ["enum.GunVisualLayers.Base"]
   - type: Item
     size: Ginormous
-    sprite: _Crescent/Objects/Weapons/Guns/surplus_dsm_amr.rsi
+    sprite: _Lua/Objects/Weapons/Guns/surplus_dsm_amr.rsi
   - type: ItemSlots
     slots:
       gun_chamber:
@@ -448,7 +448,7 @@
     soundBoltOpened: /Audio/Weapons/Guns/UnionfallWeapons/amr_open_1.ogg
     soundRack: /Audio/Weapons/Guns/Cock/batrifle_cock.ogg #this should never play
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/surplus_dsm_amr.rsi
+    sprite: _Lua/Objects/Weapons/Guns/surplus_dsm_amr.rsi
     quickEquip: false
     slots:
     - Back

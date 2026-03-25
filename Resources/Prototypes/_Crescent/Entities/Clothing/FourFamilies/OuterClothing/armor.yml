@@ -7,9 +7,9 @@
   description: A combat hardsuit of antiquated make. Tribal fetishes adorn the dented breastplate. Used by many Pacters belonging to the Al'Seik family.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/FourFamilies/OuterClothing/draugrexo.rsi
+    sprite: _Lua/Clothing/FourFamilies/OuterClothing/draugrexo.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/FourFamilies/OuterClothing/draugrexo.rsi
+    sprite: _Lua/Clothing/FourFamilies/OuterClothing/draugrexo.rsi
   - type: PressureProtection
     highPressureMultiplier: 0.5
     lowPressureMultiplier: 1000
@@ -47,9 +47,9 @@
   description: An unusual hardsuit constructed of sleek plasteel, gilded with tribal patterns. The shoulderplates bear the mark of the Arabet family of the Pact.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/FourFamilies/OuterClothing/prophetsuit.rsi
+    sprite: _Lua/Clothing/FourFamilies/OuterClothing/prophetsuit.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/FourFamilies/OuterClothing/prophetsuit.rsi
+    sprite: _Lua/Clothing/FourFamilies/OuterClothing/prophetsuit.rsi
   - type: PressureProtection
     highPressureMultiplier: 0.5
     lowPressureMultiplier: 1000
@@ -81,9 +81,9 @@
   description: A modified version of an antiquated atmospheric techinican's hardsuit. Around three generations out of date. Attributed commonly to the Izdari family.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/FourFamilies/OuterClothing/izdarianti.rsi
+    sprite: _Lua/Clothing/FourFamilies/OuterClothing/izdarianti.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/FourFamilies/OuterClothing/izdarianti.rsi
+    sprite: _Lua/Clothing/FourFamilies/OuterClothing/izdarianti.rsi
   - type: PressureProtection
     highPressureMultiplier: 0.5
     lowPressureMultiplier: 1000
@@ -121,9 +121,9 @@
   description: A modified mining hardsuit adorned with the livery of the Thukker family of the Pact. Features bulky lead shielding against radiation.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/FourFamilies/OuterClothing/thukkersuit.rsi
+    sprite: _Lua/Clothing/FourFamilies/OuterClothing/thukkersuit.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/FourFamilies/OuterClothing/thukkersuit.rsi
+    sprite: _Lua/Clothing/FourFamilies/OuterClothing/thukkersuit.rsi
   - type: PressureProtection
     highPressureMultiplier: 0.5
     lowPressureMultiplier: 1000
@@ -162,9 +162,9 @@
   description: A spaceworthy softsuit belonging to the Izdari family of the Atyrian Pact. Repaired many times over.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/FourFamilies/OuterClothing/beltrunner.rsi
+    sprite: _Lua/Clothing/FourFamilies/OuterClothing/beltrunner.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/FourFamilies/OuterClothing/beltrunner.rsi
+    sprite: _Lua/Clothing/FourFamilies/OuterClothing/beltrunner.rsi
   - type: Tag
     tags:
     - SuitEVA
@@ -178,9 +178,9 @@
   description: A durathread robe adorned with tribal fetishes. This one doesn't bear as many rank stripes or adornments.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/FourFamilies/OuterClothing/alseikservile.rsi
+    sprite: _Lua/Clothing/FourFamilies/OuterClothing/alseikservile.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/FourFamilies/OuterClothing/alseikservile.rsi
+    sprite: _Lua/Clothing/FourFamilies/OuterClothing/alseikservile.rsi
   - type: DegradeableArmor
     armorMaxHealth: 750
     armorType: Metallic
@@ -215,9 +215,9 @@
   description: A durathread robe adorned with tribal fetishes. This one bears the color stripes and adornments of a decorated tribal warrior.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/FourFamilies/OuterClothing/alseikdraugr.rsi
+    sprite: _Lua/Clothing/FourFamilies/OuterClothing/alseikdraugr.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/FourFamilies/OuterClothing/alseikdraugr.rsi
+    sprite: _Lua/Clothing/FourFamilies/OuterClothing/alseikdraugr.rsi
   - type: DegradeableArmor
     armorMaxHealth: 1000
     armorType: Metallic
@@ -251,9 +251,9 @@
   description: A set of hooded robes for the truly devoted.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/FourFamilies/OuterClothing/acolyterobes.rsi
+    sprite: _Lua/Clothing/FourFamilies/OuterClothing/acolyterobes.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/FourFamilies/OuterClothing/acolyterobes.rsi
+    sprite: _Lua/Clothing/FourFamilies/OuterClothing/acolyterobes.rsi
   - type: DegradeableArmor
     armorMaxHealth: 750
     armorType: Metallic

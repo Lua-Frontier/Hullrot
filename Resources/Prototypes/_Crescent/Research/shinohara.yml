@@ -22,7 +22,7 @@
   id: ShinoharaDisposableLauncher
   name: research-technology-shinohara-disposablelauncher
   icon:
-    sprite: _Crescent/Objects/Weapons/Guns/disposablerpg.rsi
+    sprite: _Lua/Objects/Weapons/Guns/disposablerpg.rsi
     state: icon
   discipline: Corporate
   tier: 1
@@ -104,7 +104,7 @@
   id: ShinoharaHighsec
   name: research-technology-shinohara-highsec
   icon:
-    sprite: _Crescent/Clothing/SHI/OuterClothing/highsec.rsi
+    sprite: _Lua/Clothing/SHI/OuterClothing/highsec.rsi
     state: icon
   discipline: Corporate
   tier: 1
@@ -123,7 +123,7 @@
   id: ShinoharaDisposableGuns
   name: research-technology-shinohara-disposableguns
   icon:
-    sprite: _Crescent/Objects/Weapons/Guns/blastpop_yellow.rsi
+    sprite: _Lua/Objects/Weapons/Guns/blastpop_yellow.rsi
     state: icon
   discipline: Corporate
   tier: 1
@@ -140,7 +140,7 @@
   id: ShinoharaBasicArms
   name: research-technology-shinohara-basicarms
   icon:
-    sprite: _Crescent/Objects/Weapons/Guns/hound.rsi
+    sprite: _Lua/Objects/Weapons/Guns/hound.rsi
     state: icon
   discipline: Corporate
   tier: 1
@@ -269,7 +269,7 @@
   id: ShinoharaAdvancedBallistics
   name: research-technology-shinohara-advancedballistics
   icon:
-    sprite: _Crescent/Objects/Weapons/Guns/lecter.rsi
+    sprite: _Lua/Objects/Weapons/Guns/lecter.rsi
     state: icon
   discipline: Corporate
   tier: 2
@@ -286,7 +286,7 @@
   id: ShinoharaGrenadeLauncher
   name: research-technology-shinohara-grenadelauncher
   icon:
-    sprite: _Crescent/Objects/Weapons/Guns/milkor.rsi
+    sprite: _Lua/Objects/Weapons/Guns/milkor.rsi
     state: icon
   discipline: Corporate
   tier: 2
@@ -298,7 +298,7 @@
   id: ShinoharaGrenades
   name: research-technology-shinohara-grenades
   icon:
-    sprite: _Crescent/Objects/Weapons/Grenades/shi_smart.rsi
+    sprite: _Lua/Objects/Weapons/Grenades/shi_smart.rsi
     state: icon
   discipline: Corporate
   tier: 1
@@ -381,7 +381,7 @@
   id: ShinoharaHammerheadLauncher
   name: research-technology-shinohara-hammerhead
   icon:
-    sprite: _Crescent/Objects/Weapons/Guns/hammerhead.rsi
+    sprite: _Lua/Objects/Weapons/Guns/hammerhead.rsi
     state: icon
   discipline: Corporate
   tier: 3
@@ -467,7 +467,7 @@
   id: ShinoharaNTBallistics
   name: research-technology-shinohara-oldntballistics
   icon:
-    sprite: _Crescent/Objects/Weapons/Guns/spas13.rsi
+    sprite: _Lua/Objects/Weapons/Guns/spas13.rsi
     state: icon
   discipline: Corporate
   tier: 3
@@ -481,7 +481,7 @@
   id: ShinoharaWeaponCase
   name: research-technology-shinohara-weaponcase
   icon:
-    sprite: _Crescent/Objects/Tools/riflecase.rsi
+    sprite: _Lua/Objects/Tools/riflecase.rsi
     state: icon
   discipline: Corporate
   tier: 1

@@ -59,7 +59,7 @@
   - type: Clickable
   - type: Sprite
     noRot: false
-    sprite: _Crescent/Objects/Weapons/Projectiles/ballistic.rsi
+    sprite: _Lua/Objects/Weapons/Projectiles/ballistic.rsi
     layers:
     - state: medium
       shader: unshaded

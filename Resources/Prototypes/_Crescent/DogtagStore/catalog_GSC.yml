@@ -218,7 +218,7 @@
   id: StoreListingGSCRPG2HeatAmmo
   name: PG-2 Rocket.
   description: Ammunition for the NCSP RPG-2 rocket launcher, this one has a HEAT warhead.
-  icon: { sprite: /Textures/_Crescent/Objects/Weapons/Ammunition/Casings/rpg2_rocket.rsi, state: heat }
+  icon: { sprite: /Textures/_Lua/Objects/Weapons/Ammunition/Casings/rpg2_rocket.rsi, state: heat }
   productEntity: CartridgeRPG2Heat
   cost:
     PlunderGSC: 1.5
@@ -229,7 +229,7 @@
   id: StoreListingGSCRPG2FragAmmo
   name: B40 M2 Rocket.
   description: Ammunition for the NCSP RPG-2 rocket launcher, this one has a HE-Frag warhead.
-  icon: { sprite: /Textures/_Crescent/Objects/Weapons/Ammunition/Casings/rpg2_rocket.rsi, state: frag }
+  icon: { sprite: /Textures/_Lua/Objects/Weapons/Ammunition/Casings/rpg2_rocket.rsi, state: frag }
   productEntity: CartridgeRPG2Frag
   cost:
     PlunderGSC: 1
@@ -240,7 +240,7 @@
   id: StoreListingGSCRPG2
   name: NCSP RPG-2.
   description: An ancient rocket launcher design continuously produced from old schematics by SAW.
-  icon: { sprite: /Textures/_Crescent/Objects/Weapons/Guns/rpg2.rsi, state: icon }
+  icon: { sprite: /Textures/_Lua/Objects/Weapons/Guns/rpg2.rsi, state: icon }
   productEntity: WeaponLauncherSmallRocket
   cost:
     PlunderGSC: 8
@@ -251,7 +251,7 @@
   id: StoreListingGSCRPG7HeatAmmo
   name: PG-7M Rocket.
   description: Ammunition for the NCSP RPG-7 rocket launcher, this one has a HEAT warhead.
-  icon: { sprite: /Textures/_Crescent/Objects/Weapons/Ammunition/Casings/rpg7_rocket.rsi, state: heat }
+  icon: { sprite: /Textures/_Lua/Objects/Weapons/Ammunition/Casings/rpg7_rocket.rsi, state: heat }
   productEntity: CartridgeRPG7Heat
   cost:
     PlunderGSC: 2
@@ -262,7 +262,7 @@
   id: StoreListingGSCRPG7TandemAmmo
   name: PG-7T Rocket.
   description: Ammunition for the NCSP RPG-7 rocket launcher, this one has a Tandem HEAT warhead.
-  icon: { sprite: /Textures/_Crescent/Objects/Weapons/Ammunition/Casings/rpg7_rocket.rsi, state: tandem }
+  icon: { sprite: /Textures/_Lua/Objects/Weapons/Ammunition/Casings/rpg7_rocket.rsi, state: tandem }
   productEntity: CartridgeRPG7Tandem
   cost:
     PlunderGSC: 4
@@ -273,7 +273,7 @@
   id: StoreListingGSCRPG7FragAmmo
   name: OGF-7 Rocket.
   description: Ammunition for the NCSP RPG-7 rocket launcher, this one has a HE-Frag warhead.
-  icon: { sprite: /Textures/_Crescent/Objects/Weapons/Ammunition/Casings/rpg7_rocket.rsi, state: frag }
+  icon: { sprite: /Textures/_Lua/Objects/Weapons/Ammunition/Casings/rpg7_rocket.rsi, state: frag }
   productEntity: CartridgeRPG7Frag
   cost:
     PlunderGSC: 1.5
@@ -284,7 +284,7 @@
   id: StoreListingGSCRPG7ThermoAmmo
   name: GTB-7S Rocket.
   description: Ammunition for the NCSP RPG-7 rocket launcher, this one has a HE-Frag warhead.
-  icon: { sprite: /Textures/_Crescent/Objects/Weapons/Ammunition/Casings/rpg7_rocket.rsi, state: thermo }
+  icon: { sprite: /Textures/_Lua/Objects/Weapons/Ammunition/Casings/rpg7_rocket.rsi, state: thermo }
   productEntity: CartridgeRPG7Thermobaric
   cost:
     PlunderGSC: 2
@@ -295,7 +295,7 @@
   id: StoreListingGSCRPG7
   name: NCSP RPG-7.
   description: A bit less ancient rocket launcher design continuously produced from old schematics by SAW.
-  icon: { sprite: /Textures/_Crescent/Objects/Weapons/Guns/rpg7.rsi, state: icon }
+  icon: { sprite: /Textures/_Lua/Objects/Weapons/Guns/rpg7.rsi, state: icon }
   productEntity: WeaponLauncherRocket
   cost:
     PlunderGSC: 12
@@ -317,7 +317,7 @@
   id: StoreListingGSCGrenade
   name: NCSP RGD-5 Grenade
   description: A rather competent grenade design pioneered by pre-collapse Gorlex Security Consulting.
-  icon: { sprite: /Textures/_Crescent/Objects/Weapons/Grenades/ncsp_rgd5.rsi, state: icon }
+  icon: { sprite: /Textures/_Lua/Objects/Weapons/Grenades/ncsp_rgd5.rsi, state: icon }
   productEntity: NCSPRGD5Handgrenade
   cost:
     PlunderGSC: 1
@@ -369,7 +369,7 @@
   id: StoreListingGSC127x99mm
   name: 15.2x169mm Magazine
   description: A 6-round 15.2x169mm magazine.
-  icon: { sprite: /Textures/_Crescent/Objects/Weapons/Ammunition/Magazine/15.2mm_mag.rsi, state: icon }
+  icon: { sprite: /Textures/_Lua/Objects/Weapons/Ammunition/Magazine/15.2mm_mag.rsi, state: icon }
   productEntity: MagazineAntiMateriel
   cost:
     PlunderGSC: 3
@@ -380,7 +380,7 @@
   id: StoreListingGSC152x169mm
   name: 12.7x99mm Magazine
   description: A 16-round 12.7x99mm magazine.
-  icon: { sprite: /Textures/_Crescent/Objects/Weapons/Ammunition/Magazine/12.7mm_mag.rsi, state: icon }
+  icon: { sprite: /Textures/_Lua/Objects/Weapons/Ammunition/Magazine/12.7mm_mag.rsi, state: icon }
   productEntity: MagazineHeavyRifle
   cost:
     PlunderGSC: 2
@@ -391,7 +391,7 @@
   id: StoreListingGSC12gauge
   name: 12 Gauge Magazine
   description: A 10-round 12 gauge magazine.
-  icon: { sprite: /Textures/_Crescent/Objects/Weapons/Ammunition/Magazine/shotgun_mag.rsi, state: icon }
+  icon: { sprite: /Textures/_Lua/Objects/Weapons/Ammunition/Magazine/shotgun_mag.rsi, state: icon }
   productEntity: MagazineShotgun
   cost:
     PlunderGSC: 1
@@ -402,7 +402,7 @@
   id: StoreListingGSC12gaugeDrum
   name: 12 Gauge Drum Magazine
   description: A 18-round 12 gauge magazine.
-  icon: { sprite: /Textures/_Crescent/Objects/Weapons/Ammunition/Magazine/shotgun_drum.rsi, state: icon }
+  icon: { sprite: /Textures/_Lua/Objects/Weapons/Ammunition/Magazine/shotgun_drum.rsi, state: icon }
   productEntity: DrumMagazineShotgunBuck
   cost:
     PlunderGSC: 3
@@ -413,7 +413,7 @@
   id: StoreListingGSC762mmDrum
   name: 7.62mm Drum Magazine
   description: A 80-round 7.62x51mm drum magazine.
-  icon: { sprite: /Textures/_Crescent/Objects/Weapons/Ammunition/Magazine/7.62mm_drum.rsi, state: icon }
+  icon: { sprite: /Textures/_Lua/Objects/Weapons/Ammunition/Magazine/7.62mm_drum.rsi, state: icon }
   productEntity: MagazineRifleDrum
   cost:
     PlunderGSC: 2
@@ -424,7 +424,7 @@
   id: StoreListingGSC762mm
   name: 7.62mm Rifle Magazine
   description: A 25-round 7.62x51mm magazine.
-  icon: { sprite: /Textures/_Crescent/Objects/Weapons/Ammunition/Magazine/7.62mm_mag.rsi, state: icon }
+  icon: { sprite: /Textures/_Lua/Objects/Weapons/Ammunition/Magazine/7.62mm_mag.rsi, state: icon }
   productEntity: MagazineRifle
   cost:
     PlunderGSC: 1
@@ -435,7 +435,7 @@
   id: StoreListingGSC556mm
   name: 5.56x45mm Rifle Magazine
   description: A 30-round 5.56x45mm magazine.
-  icon: { sprite: /Textures/_Crescent/Objects/Weapons/Ammunition/Magazine/5.56mm_mag.rsi, state: icon }
+  icon: { sprite: /Textures/_Lua/Objects/Weapons/Ammunition/Magazine/5.56mm_mag.rsi, state: icon }
   productEntity: MagazineLightRifle
   cost:
     PlunderGSC: 1
@@ -446,7 +446,7 @@
   id: StoreListingGSC9x19mm
   name: 9x19mm SMG Magazine
   description: A 30-round 9x19mm magazine.
-  icon: { sprite: /Textures/_Crescent/Objects/Weapons/Ammunition/Magazine/9x19mm_mag.rsi, state: icon }
+  icon: { sprite: /Textures/_Lua/Objects/Weapons/Ammunition/Magazine/9x19mm_mag.rsi, state: icon }
   productEntity: MagazinePistolSubMachineGun
   cost:
     PlunderGSC: 1
@@ -460,7 +460,7 @@
   id: StoreListingGSCKrinkov
   name: NCSP Krinkov 5.56x45mm
   description: A lightly remodeled frontline infantry rifle from one of the many Terran wars before the collapse.
-  icon: { sprite: /Textures/_Crescent/Objects/Weapons/Guns/krinkov.rsi, state: icon }
+  icon: { sprite: /Textures/_Lua/Objects/Weapons/Guns/krinkov.rsi, state: icon }
   productEntity: WeaponRifleKrinkov
   cost:
     PlunderGSC: 2
@@ -471,7 +471,7 @@
   id: StoreListingGSCAtreides
   name: NCSP Atreides 9x19mm
   description: An otherwise finely crafted submachine gun heavily limited by its caliber.
-  icon: { sprite: /Textures/_Crescent/Objects/Weapons/Guns/atreides.rsi, state: icon }
+  icon: { sprite: /Textures/_Lua/Objects/Weapons/Guns/atreides.rsi, state: icon }
   productEntity: WeaponSubMachineGunAtreidesHullrot
   cost:
     PlunderGSC: 2
@@ -482,7 +482,7 @@
   id: StoreListingGSCKalash
   name: NCSP AKMS Kalash 7.62x51mm
   description: A heavier variant of the NCSP Krinkov originating from the same time period.
-  icon: { sprite: /Textures/_Crescent/Objects/Weapons/Guns/akms.rsi, state: icon }
+  icon: { sprite: /Textures/_Lua/Objects/Weapons/Guns/akms.rsi, state: icon }
   productEntity: WeaponRifleAk
   cost:
     PlunderGSC: 5
@@ -493,7 +493,7 @@
   id: StoreListingGSCMayflower
   name: NCSP Mayflower 7.62X51mm Assault Rifle
   description: An advanced rifle design manufactured with pre-collapse GSC schematics by Cyberdawn and SAW.
-  icon: { sprite: /Textures/_Crescent/Objects/Weapons/Guns/mayflower.rsi, state: icon }
+  icon: { sprite: /Textures/_Lua/Objects/Weapons/Guns/mayflower.rsi, state: icon }
   productEntity: WeaponRifleMayflower
   cost:
     PlunderGSC: 10
@@ -504,7 +504,7 @@
   id: StoreListingGSCAK60
   name: NCSP AK-60 15.2x169mm Anti-Materiel Rifle
   description: An AK platform gun in .60, note that this weapon infringes on the AK naming rights of the Kalashnikov Group.
-  icon: { sprite: /Textures/_Crescent/Objects/Weapons/Guns/ak60.rsi, state: icon }
+  icon: { sprite: /Textures/_Lua/Objects/Weapons/Guns/ak60.rsi, state: icon }
   productEntity: WeaponSniperAK60
   cost:
     PlunderGSC: 20
@@ -515,7 +515,7 @@
   id: StoreListingGSCSaiga
   name: NCSP Saiga-12K Gauge Shotgun
   description: A competitor to the PTA Pozhar tactical shotgun, once mass-produced by GSC in Shinohara facilities, now only a few are commissioned from SAW's scrapyard.
-  icon: { sprite: /Textures/_Crescent/Objects/Weapons/Guns/saiga12.rsi, state: icon }
+  icon: { sprite: /Textures/_Lua/Objects/Weapons/Guns/saiga12.rsi, state: icon }
   productEntity: WeaponShotgunNCSPSaiga12
   cost:
     PlunderGSC: 10
@@ -526,7 +526,7 @@
   id: StoreListingGSCSVD
   name: NCSP SVD 12.7x99mm Sniper Rifle
   description: A natural consequence of Shinohara stirring up the field with the M335 Barghest launching into mass production.
-  icon: { sprite: /Textures/_Crescent/Objects/Weapons/Guns/svds.rsi, state: icon }
+  icon: { sprite: /Textures/_Lua/Objects/Weapons/Guns/svds.rsi, state: icon }
   productEntity: WeaponRifleSVDMarksman
   cost:
     PlunderGSC: 15
@@ -537,7 +537,7 @@
   id: StoreListingGSCRPD
   name: NCSP RPD 7.62x51mm Machine gun
   description: A blunt and unsophisticated design scavenged and repurposed from a Nanotrasen autonomous killdrone machinegun schematic.
-  icon: { sprite: /Textures/_Crescent/Objects/Weapons/Guns/rpd.rsi, state: icon }
+  icon: { sprite: /Textures/_Lua/Objects/Weapons/Guns/rpd.rsi, state: icon }
   productEntity: WeaponLightMachineGunNCSPRPD
   cost:
     PlunderGSC: 20

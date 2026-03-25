@@ -6,7 +6,7 @@
   components:
   - type: Sprite
     noRot: true
-    sprite: _Crescent/Structures/Decoration/burning_barrel.rsi
+    sprite: _Lua/Structures/Decoration/burning_barrel.rsi
     layers:
       - state: drum
       - state: burning

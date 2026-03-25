@@ -18,7 +18,7 @@
     size: Small
   - type: Sprite
     noRot: false
-    sprite: _Crescent/Objects/Weapons/Ammunition/Casings/railgun_slug.rsi
+    sprite: _Lua/Objects/Weapons/Ammunition/Casings/railgun_slug.rsi
     layers:
     - state: base
       map: ["enum.AmmoVisualLayers.Base"]

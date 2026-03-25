@@ -5,7 +5,7 @@
   abstract: true
   components:
   - type: Sprite
-    sprite: _Crescent/Structures/hardpoints.rsi
+    sprite: _Lua/Structures/hardpoints.rsi
     state: Small
   - type: Transform
     noRot: false
@@ -65,7 +65,7 @@
   - type: ApcPowerReceiver
     powerLoad: 500
   - type: Sprite
-    sprite: _Crescent/Structures/hardpoints.rsi
+    sprite: _Lua/Structures/hardpoints.rsi
     state: Small
 
 - type: entity
@@ -80,7 +80,7 @@
   - type: ApcPowerReceiver
     powerLoad: 1500
   - type: Sprite
-    sprite: _Crescent/Structures/hardpoints.rsi
+    sprite: _Lua/Structures/hardpoints.rsi
     state: Small
 
 - type: entity
@@ -95,7 +95,7 @@
   - type: ApcPowerReceiver
     powerLoad: 50
   - type: Sprite
-    sprite: _Crescent/Structures/hardpoints.rsi
+    sprite: _Lua/Structures/hardpoints.rsi
     state: Small
 
 - type: entity
@@ -110,7 +110,7 @@
   - type: ApcPowerReceiver
     powerLoad: 1000
   - type: Sprite
-    sprite: _Crescent/Structures/hardpoints.rsi
+    sprite: _Lua/Structures/hardpoints.rsi
     state: Medium
 
 - type: entity
@@ -125,7 +125,7 @@
   - type: ApcPowerReceiver
     powerLoad: 3500
   - type: Sprite
-    sprite: _Crescent/Structures/hardpoints.rsi
+    sprite: _Lua/Structures/hardpoints.rsi
     state: Medium
 
 - type: entity
@@ -140,7 +140,7 @@
   - type: ApcPowerReceiver
     powerLoad: 250
   - type: Sprite
-    sprite: _Crescent/Structures/hardpoints.rsi
+    sprite: _Lua/Structures/hardpoints.rsi
     state: Medium
 
 - type: entity
@@ -155,7 +155,7 @@
   - type: ApcPowerReceiver
     powerLoad: 5000
   - type: Sprite
-    sprite: _Crescent/Structures/hardpoints.rsi
+    sprite: _Lua/Structures/hardpoints.rsi
     state: Large
 
 - type: entity
@@ -170,7 +170,7 @@
   - type: ApcPowerReceiver
     powerLoad: 7500
   - type: Sprite
-    sprite: _Crescent/Structures/hardpoints.rsi
+    sprite: _Lua/Structures/hardpoints.rsi
     state: Large
 
 - type: entity
@@ -185,7 +185,7 @@
   - type: ApcPowerReceiver
     powerLoad: 1500
   - type: Sprite
-    sprite: _Crescent/Structures/hardpoints.rsi
+    sprite: _Lua/Structures/hardpoints.rsi
     state: Large
 
 - type: entity
@@ -200,7 +200,7 @@
   - type: ApcPowerReceiver
     powerLoad: 10000
   - type: Sprite
-    sprite: _Crescent/Structures/hardpoints.rsi
+    sprite: _Lua/Structures/hardpoints.rsi
     state: Large
 
 - type: entity
@@ -214,7 +214,7 @@
     size: Large
   - type: HardpointFixedMount
   - type: Sprite
-    sprite: _Crescent/Structures/fixedHardpoint.rsi
+    sprite: _Lua/Structures/fixedHardpoint.rsi
     state: large
   - type: DeviceNetwork
     deviceNetId: Wireless
@@ -240,7 +240,7 @@
   - type: ApcPowerReceiver
     powerLoad: 10000
   - type: Sprite
-    sprite: _Crescent/Structures/fixedHardpoint.rsi
+    sprite: _Lua/Structures/fixedHardpoint.rsi
     state: small
 
 - type: entity
@@ -255,7 +255,7 @@
   - type: ApcPowerReceiver
     powerLoad: 10000
   - type: Sprite
-    sprite: _Crescent/Structures/fixedHardpoint.rsi
+    sprite: _Lua/Structures/fixedHardpoint.rsi
     state: medium
 
 
@@ -271,5 +271,5 @@
   - type: ApcPowerReceiver
     powerLoad: 10000
   - type: Sprite
-    sprite: _Crescent/Structures/fixedHardpoint.rsi
+    sprite: _Lua/Structures/fixedHardpoint.rsi
     state: large

@@ -9,9 +9,9 @@
   components:
   - type: BreathMask
   - type: Sprite
-    sprite: _Crescent/Clothing/SHI/Head/metrocop.rsi
+    sprite: _Lua/Clothing/SHI/Head/metrocop.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/SHI/Head/metrocop.rsi
+    sprite: _Lua/Clothing/SHI/Head/metrocop.rsi
   - type: PointLight
     radius: 6
     color: "#4ba5ff"
@@ -37,9 +37,9 @@
   components:
   - type: BreathMask
   - type: Sprite
-    sprite: _Crescent/Clothing/SHI/Head/combine.rsi
+    sprite: _Lua/Clothing/SHI/Head/combine.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/SHI/Head/combine.rsi
+    sprite: _Lua/Clothing/SHI/Head/combine.rsi
   - type: PointLight
     radius: 6
     color: "#4ba5ff"
@@ -211,9 +211,9 @@
     - Hair
     - Snout
   - type: Sprite
-    sprite: _Crescent/Clothing/SHI/Head/execmask.rsi
+    sprite: _Lua/Clothing/SHI/Head/execmask.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/SHI/Head/execmask.rsi
+    sprite: _Lua/Clothing/SHI/Head/execmask.rsi
 
 - type: entity
   parent: ClothingHeadHelmetBasic
@@ -226,9 +226,9 @@
     - Hair
     - Snout
   - type: Sprite
-    sprite: _Crescent/Clothing/SHI/Head/highsec.rsi
+    sprite: _Lua/Clothing/SHI/Head/highsec.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/SHI/Head/highsec.rsi
+    sprite: _Lua/Clothing/SHI/Head/highsec.rsi
   - type: Armor
     modifiers:
       coefficients:

@@ -7,7 +7,7 @@
     - type: Sprite
       layers:
         - state: red
-        - sprite: _Crescent/Objects/Weapons/Guns/python.rsi
+        - sprite: _Lua/Objects/Weapons/Guns/python.rsi
           state: base
     - type: RandomSpawner
       prototypes: #guns nobody uses unless desperate award, generally 11mm and lower

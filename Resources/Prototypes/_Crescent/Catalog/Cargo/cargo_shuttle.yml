@@ -11,7 +11,7 @@
 - type: cargoProduct
   id: ShuttleIdnaAmmoCargoShuttle
   icon:
-    sprite: _Crescent/Objects/ShuttleWeapons/torpedop.rsi
+    sprite: _Lua/Objects/ShuttleWeapons/torpedop.rsi
     state: base
   product: CrateIdnaAmmo
   cost: 12000
@@ -21,7 +21,7 @@
 - type: cargoProduct
   id: ShuttleGargoyleAmmoCargoShuttle
   icon:
-    sprite: _Crescent/Objects/ShuttleWeapons/torp.rsi
+    sprite: _Lua/Objects/ShuttleWeapons/torp.rsi
     state: base
   product: CrateGargoyleAmmo
   cost: 50000
@@ -41,7 +41,7 @@
 - type: cargoProduct
   id: ShuttleAssaultMortarAmmoCargoShuttle
   icon:
-    sprite: _Crescent/Objects/ShuttleWeapons/battleshell.rsi
+    sprite: _Lua/Objects/ShuttleWeapons/battleshell.rsi
     state: base
   product: CrateAssaultMortarAmmo
   cost: 35000

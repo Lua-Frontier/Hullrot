@@ -281,7 +281,7 @@
       components:
         - type: VesselIcon
           iffIcon:
-            sprite: _Crescent/ShipIcons/ifficons.rsi
+            sprite: _Lua/ShipIcons/ifficons.rsi
             state: corvette
         - type: StationNameSetup
           mapNameTemplate: 'Derelict NCWL Gargut {1}'
@@ -308,7 +308,7 @@
       components:
         - type: VesselIcon
           iffIcon:
-            sprite: _Crescent/ShipIcons/ifficons.rsi
+            sprite: _Lua/ShipIcons/ifficons.rsi
             state: corvette
         - type: StationNameSetup
           mapNameTemplate: 'Derelict DSM Triumphant {1}'
@@ -335,7 +335,7 @@
       components:
         - type: VesselIcon
           iffIcon:
-            sprite: _Crescent/ShipIcons/ifficons.rsi
+            sprite: _Lua/ShipIcons/ifficons.rsi
             state: corvette
         - type: StationNameSetup
           mapNameTemplate: 'Derelict DSM Triumphant {1}'
@@ -362,7 +362,7 @@
       components:
         - type: VesselIcon
           iffIcon:
-            sprite: _Crescent/ShipIcons/ifficons.rsi
+            sprite: _Lua/ShipIcons/ifficons.rsi
             state: corvette
         - type: StationNameSetup
           mapNameTemplate: 'Derelict NCWL Clementine {1}'
@@ -389,7 +389,7 @@
       components:
         - type: VesselIcon
           iffIcon:
-            sprite: _Crescent/ShipIcons/ifficons.rsi
+            sprite: _Lua/ShipIcons/ifficons.rsi
             state: corvette
         - type: StationNameSetup
           mapNameTemplate: 'Derelict NCWL Clementine {1}'
@@ -416,7 +416,7 @@
       components:
         - type: VesselIcon
           iffIcon:
-            sprite: _Crescent/ShipIcons/ifficons.rsi
+            sprite: _Lua/ShipIcons/ifficons.rsi
             state: corvette
         - type: StationNameSetup
           mapNameTemplate: 'Derelict NCWL Clementine {1}'
@@ -443,7 +443,7 @@
       components:
         - type: VesselIcon
           iffIcon:
-            sprite: _Crescent/ShipIcons/ifficons.rsi
+            sprite: _Lua/ShipIcons/ifficons.rsi
             state: corvette
         - type: StationNameSetup
           mapNameTemplate: 'Derelict NCWL Ivarod {1}'
@@ -470,7 +470,7 @@
       components:
         - type: VesselIcon
           iffIcon:
-            sprite: _Crescent/ShipIcons/ifficons.rsi
+            sprite: _Lua/ShipIcons/ifficons.rsi
             state: corvette
         - type: StationNameSetup
           mapNameTemplate: 'Derelict DSM Suzerain {1}'
@@ -497,7 +497,7 @@
       components:
         - type: VesselIcon
           iffIcon:
-            sprite: _Crescent/ShipIcons/ifficons.rsi
+            sprite: _Lua/ShipIcons/ifficons.rsi
             state: corvette
         - type: StationNameSetup
           mapNameTemplate: 'Derelict DSM Suzerain {1}'
@@ -524,7 +524,7 @@
       components:
         - type: VesselIcon
           iffIcon:
-            sprite: _Crescent/ShipIcons/ifficons.rsi
+            sprite: _Lua/ShipIcons/ifficons.rsi
             state: corvette
         - type: StationNameSetup
           mapNameTemplate: 'Derelict DSM Suzerain {1}'
@@ -551,7 +551,7 @@
       components:
         - type: VesselIcon
           iffIcon:
-            sprite: _Crescent/ShipIcons/ifficons.rsi
+            sprite: _Lua/ShipIcons/ifficons.rsi
             state: corvette
         - type: StationNameSetup
           mapNameTemplate: 'Derelict DSM Nemesis {1}'
@@ -578,7 +578,7 @@
       components:
         - type: VesselIcon
           iffIcon:
-            sprite: _Crescent/ShipIcons/ifficons.rsi
+            sprite: _Lua/ShipIcons/ifficons.rsi
             state: corvette
         - type: StationNameSetup
           mapNameTemplate: 'Derelict DSM Nemesis {1}'
@@ -605,7 +605,7 @@
       components:
         - type: VesselIcon
           iffIcon:
-            sprite: _Crescent/ShipIcons/ifficons.rsi
+            sprite: _Lua/ShipIcons/ifficons.rsi
             state: corvette
         - type: StationNameSetup
           mapNameTemplate: 'Derelict Exhumer {1}'
@@ -632,7 +632,7 @@
       components:
         - type: VesselIcon
           iffIcon:
-            sprite: _Crescent/ShipIcons/ifficons.rsi
+            sprite: _Lua/ShipIcons/ifficons.rsi
             state: corvette
         - type: StationNameSetup
           mapNameTemplate: 'Derelict Gazpachov {1}'
@@ -659,7 +659,7 @@
       components:
         - type: VesselIcon
           iffIcon:
-            sprite: _Crescent/ShipIcons/ifficons.rsi
+            sprite: _Lua/ShipIcons/ifficons.rsi
             state: corvette
         - type: StationNameSetup
           mapNameTemplate: 'Derelict Gazpachov {1}'
@@ -686,7 +686,7 @@
       components:
         - type: VesselIcon
           iffIcon:
-            sprite: _Crescent/ShipIcons/ifficons.rsi
+            sprite: _Lua/ShipIcons/ifficons.rsi
             state: corvette
         - type: StationNameSetup
           mapNameTemplate: 'Derelict Hammerhead {1}'
@@ -713,7 +713,7 @@
       components:
         - type: VesselIcon
           iffIcon:
-            sprite: _Crescent/ShipIcons/ifficons.rsi
+            sprite: _Lua/ShipIcons/ifficons.rsi
             state: corvette
         - type: StationNameSetup
           mapNameTemplate: 'Derelict Hind {1}'
@@ -740,7 +740,7 @@
       components:
         - type: VesselIcon
           iffIcon:
-            sprite: _Crescent/ShipIcons/ifficons.rsi
+            sprite: _Lua/ShipIcons/ifficons.rsi
             state: corvette
         - type: StationNameSetup
           mapNameTemplate: 'Derelict Lodka {1}'
@@ -767,7 +767,7 @@
       components:
         - type: VesselIcon
           iffIcon:
-            sprite: _Crescent/ShipIcons/ifficons.rsi
+            sprite: _Lua/ShipIcons/ifficons.rsi
             state: corvette
         - type: StationNameSetup
           mapNameTemplate: 'Derelict Praxis {1}'
@@ -794,7 +794,7 @@
       components:
         - type: VesselIcon
           iffIcon:
-            sprite: _Crescent/ShipIcons/ifficons.rsi
+            sprite: _Lua/ShipIcons/ifficons.rsi
             state: corvette
         - type: StationNameSetup
           mapNameTemplate: 'Derelict Qian {1}'
@@ -821,7 +821,7 @@
       components:
         - type: VesselIcon
           iffIcon:
-            sprite: _Crescent/ShipIcons/ifficons.rsi
+            sprite: _Lua/ShipIcons/ifficons.rsi
             state: corvette
         - type: StationNameSetup
           mapNameTemplate: 'Derelict Stern {1}'
@@ -848,7 +848,7 @@
       components:
         - type: VesselIcon
           iffIcon:
-            sprite: _Crescent/ShipIcons/ifficons.rsi
+            sprite: _Lua/ShipIcons/ifficons.rsi
             state: corvette
         - type: StationNameSetup
           mapNameTemplate: 'Derelict Mojave {1}'
@@ -875,7 +875,7 @@
       components:
         - type: VesselIcon
           iffIcon:
-            sprite: _Crescent/ShipIcons/ifficons.rsi
+            sprite: _Lua/ShipIcons/ifficons.rsi
             state: corvette
         - type: StationNameSetup
           mapNameTemplate: 'Derelict Cocytus {1}'
@@ -902,7 +902,7 @@
       components:
         - type: VesselIcon
           iffIcon:
-            sprite: _Crescent/ShipIcons/ifficons.rsi
+            sprite: _Lua/ShipIcons/ifficons.rsi
             state: corvette
         - type: StationNameSetup
           mapNameTemplate: 'Derelict Corvus {1}'
@@ -929,7 +929,7 @@
       components:
         - type: VesselIcon
           iffIcon:
-            sprite: _Crescent/ShipIcons/ifficons.rsi
+            sprite: _Lua/ShipIcons/ifficons.rsi
             state: corvette
         - type: StationNameSetup
           mapNameTemplate: 'Derelict Radiated Manatee {1}'
@@ -956,7 +956,7 @@
       components:
         - type: VesselIcon
           iffIcon:
-            sprite: _Crescent/ShipIcons/ifficons.rsi
+            sprite: _Lua/ShipIcons/ifficons.rsi
             state: corvette
         - type: StationNameSetup
           mapNameTemplate: 'Derelict Musiyane {1}'
@@ -983,7 +983,7 @@
       components:
         - type: VesselIcon
           iffIcon:
-            sprite: _Crescent/ShipIcons/ifficons.rsi
+            sprite: _Lua/ShipIcons/ifficons.rsi
             state: corvette
         - type: StationNameSetup
           mapNameTemplate: 'Derelict Molot {1}'

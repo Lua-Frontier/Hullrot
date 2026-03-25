@@ -123,9 +123,9 @@
   description: The Archmaester's bolero jacket; designed for the modern explorer.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/Empire/OuterClothing/archmaester.rsi
+    sprite: _Lua/Clothing/Empire/OuterClothing/archmaester.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/Empire/OuterClothing/archmaester.rsi
+    sprite: _Lua/Clothing/Empire/OuterClothing/archmaester.rsi
   - type: DegradeableArmor
     armorMaxHealth: 1000
     armorType: Metallic
@@ -270,9 +270,9 @@
   description: A modular knight's hardsuit, bears the colors of the Kaiserin and House Kircheis.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/Empire/OuterClothing/mandateknight.rsi
+    sprite: _Lua/Clothing/Empire/OuterClothing/mandateknight.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/Empire/OuterClothing/mandateknight.rsi
+    sprite: _Lua/Clothing/Empire/OuterClothing/mandateknight.rsi
   - type: PressureProtection
     highPressureMultiplier: 0.5
     lowPressureMultiplier: 1000
@@ -325,9 +325,9 @@
   description: An acceptable replica of hardsuit worn during the Empire's second great expansion, distributed amongst only the most respected and esteemed ranks. Perfectly representing the Kaiser's divine protection thanks to it's “Shield of Faith” deflector module, capable of absorbing bullet impacts.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/Empire/OuterClothing/mandatejuggernaut.rsi
+    sprite: _Lua/Clothing/Empire/OuterClothing/mandatejuggernaut.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/Empire/OuterClothing/mandatejuggernaut.rsi
+    sprite: _Lua/Clothing/Empire/OuterClothing/mandatejuggernaut.rsi
   - type: PressureProtection
     highPressureMultiplier: 0.02
     lowPressureMultiplier: 1000
@@ -688,9 +688,9 @@
   description: Suffocating black cloth is the mark of the Imperial Psion, lacking value or birthright enough to escape the clutches of the House of Questions. After processing and education for the betterment of the Mandate at large, their uniform remains as both a mark of origin and valuable tool - the design of the robe and accompanying mask isolates the wearer entirely from their surroundings so that they may focus upon the working of space and matter. In addition, the space-grade seals are suitable for EVA traversal.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/Empire/OuterClothing/mandatenullweavepsion.rsi
+    sprite: _Lua/Clothing/Empire/OuterClothing/mandatenullweavepsion.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/Empire/OuterClothing/mandatenullweavepsion.rsi
+    sprite: _Lua/Clothing/Empire/OuterClothing/mandatenullweavepsion.rsi
   - type: PressureProtection
     highPressureMultiplier: 0.5
     lowPressureMultiplier: 1000

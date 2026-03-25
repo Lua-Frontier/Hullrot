@@ -5,9 +5,9 @@
   components:
   - type: Sprite
     drawdepth: WallTops
-    sprite: _Crescent/Structures/newReinfPlasWindow.rsi
+    sprite: _Lua/Structures/newReinfPlasWindow.rsi
   - type: Icon
-    sprite: _Crescent/Structures/newReinfPlasWindow.rsi
+    sprite: _Lua/Structures/newReinfPlasWindow.rsi
     state: windowfull
   - type: Damageable
     damageContainer: StructuralInorganic

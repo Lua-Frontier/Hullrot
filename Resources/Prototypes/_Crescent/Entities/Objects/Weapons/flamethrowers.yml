@@ -5,7 +5,7 @@
   description: A large and simple flametrower designed by Olywir Armaments. Uses compressed boriatic fuel as ammo.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/cauterizer.rsi
+    sprite: _Lua/Objects/Weapons/Guns/cauterizer.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
@@ -14,13 +14,13 @@
       shader: unshaded
       map: ["enum.ToggleVisuals.Layer"]
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/cauterizer.rsi
+    sprite: _Lua/Objects/Weapons/Guns/cauterizer.rsi
     quickEquip: false
     slots:
       - suitStorage
       - Belt
   - type: Item
-    sprite: _Crescent/Objects/Weapons/Guns/cauterizer.rsi
+    sprite: _Lua/Objects/Weapons/Guns/cauterizer.rsi
     size: Huge
     shape:
     - 0,0,5,2
@@ -101,7 +101,7 @@
   description: A compact flamethrower made by Hunter's Pride merchant's guild. Uses compressed boriatic fuel as ammo.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/sterilizer.rsi
+    sprite: _Lua/Objects/Weapons/Guns/sterilizer.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
@@ -112,13 +112,13 @@
     - state: mag-1
       map: ["enum.GunVisualLayers.Mag"]
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/sterilizer.rsi
+    sprite: _Lua/Objects/Weapons/Guns/sterilizer.rsi
     quickEquip: false
     slots:
       - suitStorage
       - Belt
   - type: Item
-    sprite: _Crescent/Objects/Weapons/Guns/sterilizer.rsi
+    sprite: _Lua/Objects/Weapons/Guns/sterilizer.rsi
     size: Huge
     shape:
     - 0,0,3,2

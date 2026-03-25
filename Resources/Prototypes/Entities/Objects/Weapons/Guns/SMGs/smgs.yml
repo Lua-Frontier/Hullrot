@@ -9,7 +9,7 @@
   - type: Item
     size: Large
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/atreides.rsi
+    sprite: _Lua/Objects/Weapons/Guns/atreides.rsi
     quickEquip: false
     slots:
     - Back
@@ -87,7 +87,7 @@
   description: A rapid-fire submachinegun developed by the Shipfitters Union. Eats through ammo like a starving elephant.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/atreides.rsi
+    sprite: _Lua/Objects/Weapons/Guns/atreides.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
@@ -111,14 +111,14 @@
   description: A slick submachinegun produced by Olywir Armaments for the Imperial Navy. Sees little use in the hands of actual troopers due to the cost of manufacturing.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/talon.rsi
+    sprite: _Lua/Objects/Weapons/Guns/talon.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
     - state: mag-0
       map: ["enum.GunVisualLayers.Mag"]
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/talon.rsi
+    sprite: _Lua/Objects/Weapons/Guns/talon.rsi
   - type: Wieldable
   - type: GunWieldBonus
     minAngle: -19
@@ -174,14 +174,14 @@
   description: A fast very firing bullpup submachine gun. Manufactured by Pang Tai Arms and outsourced to mercenary factors in the area. Suffers from immense recoil due to it's caliber.
   components:
     - type: Sprite
-      sprite: _Crescent/Objects/Weapons/Guns/drozd.rsi
+      sprite: _Lua/Objects/Weapons/Guns/drozd.rsi
       layers:
         - state: base
           map: ["enum.GunVisualLayers.Base"]
         - state: mag-0
           map: ["enum.GunVisualLayers.Mag"]
     - type: Clothing
-      sprite: _Crescent/Objects/Weapons/Guns/drozd.rsi
+      sprite: _Lua/Objects/Weapons/Guns/drozd.rsi
     - type: Wieldable
       unwieldOnUse: false
     - type: GunWieldBonus
@@ -278,14 +278,14 @@
   description: A rugged, deregulated SMG favoured by partisans and infiltrators simple, ruthless, and cheap to produce from scavenged parts.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/surplus_ncwl_smg.rsi
+    sprite: _Lua/Objects/Weapons/Guns/surplus_ncwl_smg.rsi
     layers:
       - state: base
         map: ["enum.GunVisualLayers.Base"]
       - state: mag-0
         map: ["enum.GunVisualLayers.Mag"]
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/surplus_ncwl_smg.rsi
+    sprite: _Lua/Objects/Weapons/Guns/surplus_ncwl_smg.rsi
     slots:
     - Back
     - suitStorage
@@ -333,14 +333,14 @@
   description: A stripped-down Imperial SMG made for mass production. Features and components requiring skilled machining have been removed to allow manufacture by lesser domains.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/surplus_dsm_smg.rsi
+    sprite: _Lua/Objects/Weapons/Guns/surplus_dsm_smg.rsi
     layers:
       - state: base
         map: ["enum.GunVisualLayers.Base"]
       - state: mag-0
         map: ["enum.GunVisualLayers.Mag"]
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/surplus_dsm_smg.rsi
+    sprite: _Lua/Objects/Weapons/Guns/surplus_dsm_smg.rsi
     slots:
     - Back
     - suitStorage
@@ -388,14 +388,14 @@
   description: A light Terran-originating submachine gun with a top-mounted magazine. Chamberd in 11mm PSTF.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/wt550.rsi
+    sprite: _Lua/Objects/Weapons/Guns/wt550.rsi
     layers:
       - state: base
         map: ["enum.GunVisualLayers.Base"]
       - state: mag-0
         map: ["enum.GunVisualLayers.Mag"]
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/wt550.rsi
+    sprite: _Lua/Objects/Weapons/Guns/wt550.rsi
   - type: ChamberMagazineAmmoProvider
     boltClosed: null
   - type: Gun

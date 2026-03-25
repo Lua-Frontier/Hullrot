@@ -7,7 +7,7 @@
     - type: Sprite
       layers:
         - state: red
-        - sprite: _Crescent/Objects/ShuttleWeapons/lasersmall.rsi
+        - sprite: _Lua/Objects/ShuttleWeapons/lasersmall.rsi
           state: lse-400c
     - type: RandomSpawner
       prototypes:

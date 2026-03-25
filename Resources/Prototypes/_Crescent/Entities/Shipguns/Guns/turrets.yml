@@ -7,7 +7,7 @@
   name: SHI MG-213 light dual machinegun 20x135mm
   components:
     - type: Sprite
-      sprite: _Crescent/Objects/Autoturrets/lightautoturret.rsi
+      sprite: _Lua/Objects/Autoturrets/lightautoturret.rsi
       drawdepth: Mobs
       layers:
         - state: syndie_lethal
@@ -82,7 +82,7 @@
   name: 20mm PTA "Operator" gatling turret
   components:
     - type: Sprite
-      sprite: _Crescent/Objects/Autoturrets/vulcangatling.rsi
+      sprite: _Lua/Objects/Autoturrets/vulcangatling.rsi
       drawdepth: Mobs
       layers:
         - state: syndie_lethal
@@ -176,7 +176,7 @@
   name: TFSC 'Swarmer' self-replicating missile pod
   components:
     - type: Sprite
-      sprite: _Crescent/Objects/Autoturrets/swarmermissile.rsi
+      sprite: _Lua/Objects/Autoturrets/swarmermissile.rsi
       drawdepth: Mobs
       layers:
         - state: swarmer
@@ -263,7 +263,7 @@
   name: 60mm NT "Derecho" exotic blaster
   components:
     - type: Sprite
-      sprite: _Crescent/Objects/Autoturrets/longgun.rsi
+      sprite: _Lua/Objects/Autoturrets/longgun.rsi
       drawdepth: Mobs
       layers:
         - state: syndie_lethal
@@ -321,7 +321,7 @@
   name: 90mm heavy mortar-pounder
   components:
     - type: Sprite
-      sprite: _Crescent/Objects/Autoturrets/heavymortar.rsi
+      sprite: _Lua/Objects/Autoturrets/heavymortar.rsi
       drawdepth: Mobs
       layers:
         - state: syndie_lethal
@@ -415,7 +415,7 @@
   name: SHI 180c 'Torch' pressure gatling
   components:
     - type: Sprite
-      sprite: _Crescent/Objects/Autoturrets/plasmacannonnormal.rsi
+      sprite: _Lua/Objects/Autoturrets/plasmacannonnormal.rsi
       drawdepth: Mobs
       layers:
         - state: syndie_lethal
@@ -476,7 +476,7 @@
   name: NCWL 88mm 'Pilum' propelled mine launcher
   components:
     - type: Sprite
-      sprite: _Crescent/Objects/Autoturrets/smartmissile.rsi
+      sprite: _Lua/Objects/Autoturrets/smartmissile.rsi
       drawdepth: Mobs
       layers:
         - state: syndie_lethal
@@ -542,7 +542,7 @@
   name: 60mm PTA 'Needler' heavy precision autogun
   components:
     - type: Sprite
-      sprite: _Crescent/Objects/Autoturrets/needler.rsi
+      sprite: _Lua/Objects/Autoturrets/needler.rsi
       drawdepth: Mobs
       layers:
         - state: syndie_lethal
@@ -636,7 +636,7 @@
   name: NT MG-02 dual machinegun 20x135mm
   components:
     - type: Sprite
-      sprite: _Crescent/Objects/Autoturrets/lightautoturret.rsi
+      sprite: _Lua/Objects/Autoturrets/lightautoturret.rsi
       drawdepth: Mobs
       layers:
         - state: syndie_lethal
@@ -690,7 +690,7 @@
   name: heavy 'Gargoyle' LRM cruise missile launcher
   components:
     - type: Sprite
-      sprite: _Crescent/Objects/Autoturrets/gargoylemissile.rsi
+      sprite: _Lua/Objects/Autoturrets/gargoylemissile.rsi
       drawdepth: Mobs
       layers:
         - state: syndie_lethal
@@ -762,7 +762,7 @@
   name: medium 'Lancer' MRM missile system
   components:
     - type: Sprite
-      sprite: _Crescent/Objects/Autoturrets/lancemissile.rsi
+      sprite: _Lua/Objects/Autoturrets/lancemissile.rsi
       drawdepth: Mobs
       layers:
         - state: syndie_lethal
@@ -834,7 +834,7 @@
   name: 230mm 'Hephaeustus' assault artillery platform
   components:
     - type: Sprite
-      sprite: _Crescent/Objects/Autoturrets/battlemortar.rsi
+      sprite: _Lua/Objects/Autoturrets/battlemortar.rsi
       drawdepth: Mobs
       layers:
         - state: syndie_lethal
@@ -906,7 +906,7 @@
   name: 88mm 'Prince' flak-screen turret
   components:
     - type: Sprite
-      sprite: _Crescent/Objects/Autoturrets/flak.rsi
+      sprite: _Lua/Objects/Autoturrets/flak.rsi
       drawdepth: Mobs
       layers:
         - state: syndie_lethal
@@ -1073,7 +1073,7 @@
   description: A heavy laser turret combining antimatter and plasma technology.
   components:
     - type: Sprite
-      sprite: _Crescent/Objects/Autoturrets/atlas.rsi
+      sprite: _Lua/Objects/Autoturrets/atlas.rsi
       drawdepth: Mobs
       layers:
         - state: atlas
@@ -1215,7 +1215,7 @@
   description: A versatile ballistic turret that fires specialized antimatter rounds. A hybrid of machinegun and artillery.
   components:
     - type: Sprite
-      sprite: _Crescent/Objects/Autoturrets/solaris.rsi
+      sprite: _Lua/Objects/Autoturrets/solaris.rsi
       drawdepth: Mobs
       layers:
         - state: solaris
@@ -1295,7 +1295,7 @@
   description: A heavy, ship-mounted rocket platform that spits out a barrage of guided, small rockets.
   components:
     - type: Sprite
-      sprite: _Crescent/Objects/Autoturrets/jeong.rsi
+      sprite: _Lua/Objects/Autoturrets/jeong.rsi
       drawdepth: Mobs
       layers:
         - state: jeong
@@ -1378,7 +1378,7 @@
   description: A small torpedo launcher that fires cheaply-manufactured, heat-seeking projectiles.
   components:
     - type: Sprite
-      sprite: _Crescent/Objects/Autoturrets/magwell.rsi
+      sprite: _Lua/Objects/Autoturrets/magwell.rsi
       drawdepth: Mobs
       layers:
       - state: base
@@ -1459,7 +1459,7 @@
   description: A low-tech alternative to the sophisticated Needler turrets. Easy to maintain, produce, and fire. Suffers from overheating issues and frequent jamming, though.
   components:
     - type: Sprite
-      sprite: _Crescent/Objects/Autoturrets/slugspitter.rsi
+      sprite: _Lua/Objects/Autoturrets/slugspitter.rsi
       drawdepth: Mobs
       layers:
         - state: slugspitter
@@ -1543,7 +1543,7 @@
   description: A flak-screen turret recovered and fabricated with Abyssal materials and designed according to old NanoTrasen schematics. Fires a trio of explosive slugs and uses surrounding trace exotic matter in space to manufacture it's own ammunition.
   components:
     - type: Sprite
-      sprite: _Crescent/Objects/Autoturrets/regent.rsi
+      sprite: _Lua/Objects/Autoturrets/regent.rsi
       drawdepth: Mobs
       layers:
         - state: regent
@@ -1603,7 +1603,7 @@
   description: A small short-range missile pod recovered and fabricated with Abyssal materials and designed according to old NanoTrasen schematics. Fires a blast of guided rockets and uses trace exotic matter in surrounding space to manufacture it's own ammunition.
   components:
     - type: Sprite
-      sprite: _Crescent/Objects/Autoturrets/regent.rsi
+      sprite: _Lua/Objects/Autoturrets/regent.rsi
       drawdepth: Mobs
       layers:
         - state: regent
@@ -1663,7 +1663,7 @@
   description: A small laser pulser of antiquated NanoTrasen design, commonly found mounted on droneships or found as scrap in the Abyss. Uses ancient, outdated chemical mixes to create accelerated laser pulses, which are then flung as projectiles. Luckily for you, this one seems to be sourcing it's material from inert dark matter in the void around it.
   components:
     - type: Sprite
-      sprite: _Crescent/Objects/Autoturrets/komodo.rsi
+      sprite: _Lua/Objects/Autoturrets/komodo.rsi
       drawdepth: Mobs
       layers:
         - state: komodo
