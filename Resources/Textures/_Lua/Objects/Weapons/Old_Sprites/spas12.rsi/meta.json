@@ -1,14 +1,27 @@
 {
     "version": 1,
-    "license": "",
-    "copyright": "Made by the Sector Crescent team for the Hullrot Project. All rights reserved. Do not modify, publish, use, relicense, or edit.",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from baystation12",
     "size": {
-        "x": 48,
+        "x": 32,
         "y": 32
     },
     "states": [
         {
+            "name": "base"
+        },
+        {
+            "name": "icon"
+        },
+        {
+            "name": "bolt-open"
+        },
+        {
             "name": "inhand-left",
+            "directions": 4
+        },
+        {
+            "name": "inhand-right",
             "directions": 4
         },
         {
@@ -20,17 +33,12 @@
             "directions": 4
         },
         {
-            "name": "inhand-right",
+            "name": "equipped-BACKPACK",
             "directions": 4
         },
         {
-            "name": "icon"
-        },
-        {
-            "name": "base"
-        },
-        {
-            "name": "bolt-open"
+            "name": "equipped-SUITSTORAGE",
+            "directions": 4
         }
     ]
 }

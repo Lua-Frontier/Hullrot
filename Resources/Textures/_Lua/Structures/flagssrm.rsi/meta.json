@@ -1,18 +1,86 @@
 {
   "version": 1,
-  "license": "",
-  "copyright": "Made for the Hullrot Project. All rights reserved. Do not modify, relicense, redistribute, use, or publish.",
-  "source": "",
   "size": {
-    "x": 31,
-    "y": 33
+    "x": 32,
+    "y": 32
   },
-    "states": [
-        {
-            "name": "icon"
-        },
-        {
-            "name": "skullbanner"
-        }
-    ]
+  "license": "CC-BY-SA-3.0",
+  "copyright": "Made by TheShuEd (github) for SS14",
+  "states": [
+    {
+      "name": "icon",
+      "delays": [
+        [
+          0.2,
+          0.2,
+          0.2,
+          0.2,
+          0.2,
+          0.2,
+          0.2,
+          0.2
+        ]
+      ]
+    },
+    {
+      "name": "ncwlposter",
+      "delays": [
+        [
+          0.2,
+          0.2,
+          0.2,
+          0.2,
+          0.2,
+          0.2,
+          0.2,
+          0.2
+        ]
+      ]
+    },
+    {
+      "name": "ncwlposter2",
+      "delays": [
+        [
+          0.2,
+          0.2,
+          0.2,
+          0.2,
+          0.2,
+          0.2,
+          0.2,
+          0.2
+        ]
+      ]
+    },
+    {
+      "name": "ncwlposter3",
+      "delays": [
+        [
+          0.2,
+          0.2,
+          0.2,
+          0.2,
+          0.2,
+          0.2,
+          0.2,
+          0.2
+        ]
+      ]
+    },
+    {
+      "name": "skullbanner",
+      "delays": [
+        [
+          0.2,
+          0.2,
+          0.2,
+          0.2,
+          0.2,
+          0.2,
+          0.2,
+          0.2
+        ]
+      ]
+    }
+  ]
 }

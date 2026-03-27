@@ -1,25 +1,14 @@
 {
-    "version": 1,
-    "license": "",
-    "copyright": "Made by the Sector Crescent team for the Hullrot Project. All rights reserved. Do not modify, publish, use, relicense, or edit.",
-    "size": {
-        "x": 32,
-        "y": 32
-    },
-    "states": [
-        {
-            "name": "icon"
-        },
-        {
-            "name": "base"
-        },
-        {
-            "name": "inhand-left",
-            "directions": 4
-        },
-        {
-            "name": "inhand-right",
-            "directions": 4
-        }
-    ]
+  "version": 1,
+  "license": "CC0-1.0",
+  "copyright": "Created by EmoGarbage404 (github) for Space Station 14.",
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "icon"
+    }
+  ]
 }

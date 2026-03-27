@@ -1,32 +1,35 @@
 {
-    "version": 1,
-    "license": "",
-    "copyright": "Built by the Hullrot Team for the Hullrot Project. All rights reserved. This art is proprietary. Do not modify, redistribute, relicense, or use in any way.",
-    "size": {
-        "x": 32,
-        "y": 32
+  "version": 1,
+  "license": "CC0-1.0",
+  "copyright": "Created by EmoGarbage404 (github) for Space Station 14.",
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "base"
     },
-    "states": [
-        {
-            "name": "base"
-        },
-        {
-            "name": "mag-1"
-        },
-        {
-            "name": "mag-2"
-        },
-        {
-            "name": "mag-3"
-        },
-        {
-            "name": "mag-4"
-        },
-        {
-            "name": "mag-5"
-        },
-        {
-            "name": "mag-6"
-        }
-    ]
+    {
+      "name": "mag-1"
+    },
+    {
+      "name": "mag-2"
+    },
+    {
+      "name": "mag-3"
+    },
+    {
+      "name": "mag-4"
+    },
+    {
+      "name": "mag-5"
+    },
+    {
+      "name": "mag-6"
+    },
+    {
+      "name": "mag-7"
+    }
+  ]
 }

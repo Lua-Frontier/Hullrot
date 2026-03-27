@@ -1,35 +1,43 @@
 {
   "version": 1,
-  "license": "All rights reserved to Hullrot - Sector Crescent",
-  "copyright": "All rights reserved , Do not copy , distribute or use without permission",
+  "license": "CC-BY-SA-3.0",
+  "copyright": "Taken from https://github.com/tgstation/tgstation/commit/3d049e69fe71a0be2133005e65ea469135d648c8. Harm and disarm heavily modified. Web made by jackfrost (github) for SS14. Eyeclose and Eyeopen by Bhijn and Myr (deathride58 on Github), under CC0.",
   "size": {
-    "x": 281,
-    "y": 53
+    "x": 32,
+    "y": 32
   },
-    "states": [
-        {
-            "name": "dsm"
-        },
-        {
-            "name": "ncwl"
-        },
-        {
-            "name": "csa"
-        },
-        {
-            "name": "shi"
-        },
-        {
-            "name": "srm"
-        },
-        {
-            "name": "tfsc"
-        },
-        {
-            "name": "fourfamilies"
-        },
-        {
-            "name": "tsp"
-        }
-    ]
+  "states": [
+    {
+      "name": "dsm",
+      "directions": 1
+    },
+    {
+      "name": "ncwl",
+      "directions": 1
+    },
+    {
+      "name": "shi",
+      "directions": 1
+    },
+    {
+      "name": "tfsc",
+      "directions": 1
+    },
+    {
+      "name": "fourfamilies",
+      "directions": 1
+    },
+    {
+      "name": "srm",
+      "directions": 1
+    },
+    {
+      "name": "csa",
+      "directions": 1
+    },
+    {
+      "name": "tsp",
+      "directions": 1
+    }
+  ]
 }

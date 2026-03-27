@@ -1,18 +1,14 @@
 {
     "version": 1,
-    "license": "",
-    "copyright": "Original artwork made by the Hullrot team for the Hullrot Project. All rights reserved. Do not copy, use, modify, or redistribute.",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by hyrmik",
     "size": {
-        "x": 32,
-        "y": 32
+        "x": 28,
+        "y": 28
     },
     "states": [
         {
             "name": "icon"
-        },
-        {
-            "name": "equipped-OUTERCLOTHING",
-            "directions": 4
         }
     ]
 }

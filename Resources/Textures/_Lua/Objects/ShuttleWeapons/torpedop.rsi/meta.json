@@ -1,20 +1,56 @@
 {
-    "version": 1,
-    "size": {
-        "x": 32,
-        "y": 32
+  "version": 1,
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "license": "CC-BY-SA-3.0",
+  "copyright": "Taken from https://github.com/vgstation-coders/vgstation13/blob/0b3ab17dbad632ddf738b63900ef8df1926bba47/icons/obj/ammo.dmi, modified by Topy",
+  "states": [
+    {
+      "name": "base"
     },
-    "license": "",
-    "copyright": "Built by the Hullrot Team for the Hullrot Project. All rights reserved. This art is proprietary. Do not modify, redistribute, relicense, or use in any way.",
-    "states": [
-        {
-            "name": "base"
-        },
-        {
-            "name": "base-spent"
-        },
-        {
-            "name": "base-projectile"
-        }
-    ]
+    {
+      "name": "tip"
+    },
+    {
+      "name": "base-spent"
+    },
+    {
+      "name": "ap"
+    },
+    {
+      "name": "apds"
+    },
+    {
+      "name": "arbalest"
+    },
+    {
+      "name": "azimuthrocket"
+    },
+    {
+      "name": "base-gyrostable"
+    },
+    {
+      "name": "base-plasma"
+    },
+    {
+      "name": "base-projectile"
+    },
+    {
+      "name": "catapult"
+    },
+    {
+      "name": "gargoyle"
+    },
+    {
+      "name": "gyro"
+    },
+    {
+      "name": "heat"
+    },
+    {
+      "name": "shortbow"
+    }
+  ]
 }

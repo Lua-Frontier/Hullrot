@@ -1,14 +1,46 @@
 {
   "version": 1,
-  "license": "",
-  "copyright": "Sprited by the Sector Crescent team. Do not copy, use, modify, relicense, or redistribute.",
+  "license": "CC-BY-SA-3.0",
+  "copyright": "Made by Hqlle (github)",
   "size": {
-    "x": 33,
-    "y": 66
+    "x": 32,
+    "y": 32
   },
-    "states": [
-        {
-            "name": "motherrug"
-        }
-    ]
+  "states": [
+    {
+      "name": "motherrug"
+    },
+    {
+      "name": "carpet_0",
+      "directions": 4
+    },
+    {
+      "name": "carpet_1",
+      "directions": 4
+    },
+    {
+      "name": "carpet_2",
+      "directions": 4
+    },
+    {
+      "name": "carpet_3",
+      "directions": 4
+    },
+    {
+      "name": "carpet_4",
+      "directions": 4
+    },
+    {
+      "name": "carpet_5",
+      "directions": 4
+    },
+    {
+      "name": "carpet_6",
+      "directions": 4
+    },
+    {
+      "name": "carpet_7",
+      "directions": 4
+    }
+  ]
 }

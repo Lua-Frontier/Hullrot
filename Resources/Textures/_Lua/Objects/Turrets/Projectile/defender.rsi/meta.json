@@ -1,14 +1,14 @@
 {
-    "version": 1,
-    "license": "",
-    "copyright": "Built by the Hullrot Team for the Hullrot Project. All rights reserved. This art is proprietary. Do not modify, redistribute, relicense, or use in any way.",
-    "size": {
-        "x": 96,
-        "y": 96
-    },
-    "states": [
-        {
-            "name": "defender"
-        }
-    ]
+  "version": 1,
+  "license": "CC0-1.0",
+  "copyright": "Created by EmoGarbage404 (github) for Space Station 14.",
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "icon"
+    }
+  ]
 }

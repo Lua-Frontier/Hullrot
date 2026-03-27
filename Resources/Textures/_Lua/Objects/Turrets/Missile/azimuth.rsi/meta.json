@@ -1,20 +1,20 @@
 {
-    "version": 1,
-    "license": "",
-    "copyright": "Built by the Hullrot Team for the Hullrot Project. All rights reserved. This art is proprietary. Do not modify, redistribute, relicense, or use in any way.",
-    "size": {
-        "x": 32,
-        "y": 32
+  "version": 1,
+  "license": "CC-BY-3.0",
+  "copyright": "Created by kyres1 (discord), Modified by Avalon-Proto",
+  "size": {
+    "x": 48,
+    "y": 48
+  },
+  "states": [
+    {
+      "name": "azimuth"
     },
-    "states": [
-        {
-            "name": "azimuth"
-        },
-        {
-            "name": "ncwl-azimuth"
-        },
-        {
-            "name": "tfsc-azimuth"
-        }
-    ]
+    {
+      "name": "ncwl-azimuth"
+    },
+    {
+      "name": "tfsc-azimuth"
+    }
+  ]
 }

@@ -1,9 +1,9 @@
 {
     "version": 1,
-    "license": "",
-    "copyright": "Made by the Sector Crescent team for the Hullrot Project. All rights reserved. Do not modify, publish, use, relicense, or edit.",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken/modified from tgstation at https://github.com/tgstation/tgstation/pull/41804/commits/1baf679a544505960cebd071425f1df60669cdf3, backpack sprite by Peptide, backpack sling sprite edited by Boaz1111, Inhands modified by Seam_Lesss (Github)",
     "size": {
-        "x": 48,
+        "x": 32,
         "y": 32
     },
     "states": [
@@ -13,48 +13,30 @@
         {
             "name": "base"
         },
-		{
-            "name": "mag-unshaded-0"
-		},
-		{
-            "name": "mag-unshaded-1",
-            "delays": [
-                [
-                    0.2,
-                    0.2
-                ]
-            ]
-		},
-		{
-            "name": "mag-unshaded-2",
-            "delays": [
-                [
-                    1,
-                    1
-                ]
-            ]
-		},
-		{
-            "name": "mag-unshaded-3"
+        {
+            "name": "bolt-open"
         },
-		{
-            "name": "mag-unshaded-4"
-		},
-		{
+        {
             "name": "mag-0"
-		},
-		{
+        },
+        {
             "name": "mag-1"
-		},
-		{
+        },
+        {
             "name": "mag-2"
-		},
-		{
+        },
+        {
             "name": "mag-3"
-		},
-		{
+        },
+        {
             "name": "mag-4"
-		},
+        },
+        {
+            "name": "mag-5"
+        },
+        {
+            "name": "suppressor"
+        },
         {
             "name": "inhand-left",
             "directions": 4

@@ -1,20 +1,20 @@
 {
-    "version": 1,
-    "license": "",
-    "copyright": "Built by the Hullrot Team for the Hullrot Project. All rights reserved. This art is proprietary. Do not modify, redistribute, relicense, or use in any way.",
-    "size": {
-        "x": 32,
-        "y": 32
+  "version": 1,
+  "license": "CC-BY-SA-3.0",
+  "copyright": "Sprites by kyres1 (Discord), modified by Avalon-proto; Sprites by kyres1, modified by Avalon-Proto; Sprites by Kyres1, Modified by Avalon-Proto",
+  "size": {
+    "x": 64,
+    "y": 64
+  },
+  "states": [
+    {
+      "name": "arbalest"
     },
-    "states": [
-        {
-            "name": "arbalest"
-        },
-        {
-            "name": "arbalest-tfsc"
-        },
-        {
-            "name": "arbalest-ncwl"
-        }
-    ]
+    {
+      "name": "arbalest-ncwl"
+    },
+    {
+      "name": "arbalest-tfsc"
+    }
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "license": "",
-  "copyright": "Original artwork made by the Hullrot team for the Hullrot Project. All rights reserved. Do not copy, use, modify, or redistribute.",
+  "license": "CC-BY-SA-3.0",
+  "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e, sprited by Fazansen(https://github.com/Fazansen)",
   "size": {
     "x": 32,
     "y": 32

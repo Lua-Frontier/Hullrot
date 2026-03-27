@@ -1,6 +1,7 @@
 - type: entity
   id: BaseCasing
   parent: BaseItem
+  abstract: true
   name: basecasing
   description: base casing
   components:

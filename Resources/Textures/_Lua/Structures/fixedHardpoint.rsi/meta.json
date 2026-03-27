@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "license": "Made by SPCR/MLGTASTICa for Hullrot",
-  "copyright": "All rights reserved",
+  "license": "CC-BY-SA-3.0",
+  "copyright": "Taken from https://github.com/tgstation/tgstation/commit/42e0275d860551197687c571c689c270ff423288",
   "size": {
     "x": 32,
     "y": 32
   },
   "states": [
     {
-      "name": "small"
+      "name": "small",
+      "directions": 8
     },
     {
-      "name": "medium"
+      "name": "medium",
+      "directions": 8
     },
     {
       "name": "large"
+    },
+    {
+      "name": "syndie_stun",
+      "directions": 8
+    },
+    {
+      "name": "icon",
+      "directions": 8
     }
   ]
 }

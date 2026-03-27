@@ -1,41 +1,60 @@
 {
-    "version": 1,
-    "license": "",
-    "copyright": "Original artwork made by the Hullrot team for the Hullrot Project. All rights reserved. Do not copy, use, modify, or redistribute.",
-    "size": {
-        "x": 32,
-        "y": 32
+  "version": 1,
+  "license": "CC0-1.0",
+  "copyright": "Created by EmoGarbage404 (github) for Space Station 14, retextured by InfinityRedPanda.",
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "blackpowder"
     },
-    "states": [
-        {
-            "name": "blackpowder"
-        },
-        {
-            "name": "highexplosive"
-        },
-        {
-            "name": "infantrybox"
-        },
-        {
-            "name": "infantryopen"
-        },
-        {
-            "name": "autocannonbox"
-        },
-        {
-            "name": "autocannonopen"
-        },
-        {
-            "name": "artillerybox"
-        },
-        {
-            "name": "artilleryopen"
-        },
-        {
-            "name": "missilebox"
-        },
-        {
-            "name": "missileopen"
-        }
-    ]
+    {
+      "name": "base"
+    },
+    {
+      "name": "closed"
+    },
+    {
+      "name": "open"
+    },
+    {
+      "name": "welded"
+    },
+    {
+      "name": "sparking",
+      "delays": [
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "locked"
+    },
+    {
+      "name": "unlocked"
+    },
+    {
+      "name": "artillerybox"
+    },
+    {
+      "name": "autocannonbox"
+    },
+    {
+      "name": "highexplosive"
+    },
+    {
+      "name": "infantrybox"
+    },
+    {
+      "name": "missilebox"
+    }
+  ]
 }

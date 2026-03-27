@@ -1,7 +1,7 @@
 {
   "version": 1,
-    "license": "",
-    "copyright": "Made by the Sector Crescent team for the Hullrot Project. All rights reserved. Do not modify, publish, use, relicense, or edit.",
+  "license": "CC-BY-SA-3.0",
+  "copyright": "Taken from cev-eris at https://github.com/discordia-space/CEV-Eris/raw/237d8f7894617007d75c71d5d9feb4354c78debd/icons/obj/guns/lmg.dmi, backpack sprite by Peptide, backpack sling sprite edited by Boaz1111, Inhands modified by Seam_Lesss (Github)",
   "size": {
     "x": 32,
     "y": 32
@@ -42,6 +42,14 @@
         },
         {
             "name": "wielded-inhand-right",
+            "directions": 4
+        },
+        {
+            "name": "equipped-BACKPACK",
+            "directions": 4
+        },
+        {
+            "name": "equipped-SUITSTORAGE",
             "directions": 4
         }
     ]

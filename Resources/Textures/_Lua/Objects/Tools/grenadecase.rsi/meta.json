@@ -1,12 +1,28 @@
 {
   "version": 1,
-  "license": "",
-  "copyright": "Made by the Sector Crescent team for the Hullrot Project. All rights reserved. Do not modify, publish, use, relicense, or edit.",
+  "license": "CC-BY-SA-3.0",
+  "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/b13d244d761a07e200a9a41730bd446e776020d5. Inhands by TiniestShark (github)",
   "size": {
     "x": 32,
     "y": 32
   },
   "states": [
+    {
+      "name": "icon"
+    },
+    {
+      "name": "primed",
+      "delays": [
+        [
+          0.1,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "equipped-BELT",
+      "directions": 4
+    },
     {
       "name": "inhand-left",
       "directions": 4
@@ -16,16 +32,7 @@
       "directions": 4
     },
     {
-      "name": "icon"
-    },
-    {
-      "name": "icon-open"
-    },
-    {
-      "name": "unshaded",
-      "delays": [
-        [ 0.2, 0.1, 0.1, 0.2 ]
-      ]
+      "name": "unshaded"
     }
   ]
 }

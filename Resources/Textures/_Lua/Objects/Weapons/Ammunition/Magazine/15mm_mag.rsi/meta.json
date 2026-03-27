@@ -4,29 +4,22 @@
         "x": 32,
         "y": 32
     },
-    "license": "",
-    "copyright": "Made by the Sector Crescent team for the Hullrot Project. All rights reserved. Do not modify, publish, use, relicense, or edit.",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "created by TheShuEd (github) for Space Station 14",
     "states": [
         {
             "name": "base"
         },
         {
-            "name": "blue"
-        },
-        {
-            "name": "red"
-        },
-        {
-            "name": "yellow"
-        },
-        {
-            "name": "orange"
-        },
-        {
-            "name": "green"
-        },
-        {
             "name": "icon"
+        },
+        {
+            "name": "inhand-left",
+            "directions": 4
+        },
+        {
+            "name": "inhand-right",
+            "directions": 4
         },
         {
             "name": "mag-1"

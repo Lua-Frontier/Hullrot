@@ -1,15 +1,14 @@
 {
   "version": 1,
-  "license": "",
-  "copyright": "Made by the Hullrot team for the project. All rights reserved. Do not use, relicense, redistribute, or modify in any way. This art is proprietary.",
   "size": {
-      "x": 32,
-      "y": 37
-    },
-     "states": [
-       {
-            "name": "throne",
-            "directions": 4
-       }
-     ]
+    "x": 32,
+    "y": 32
+  },
+  "license": "CC-BY-SA-3.0",
+  "copyright": "Made by brainfood1183 (github) for ss14",
+  "states": [
+    {
+      "name": "throne"
+    }
+  ]
 }

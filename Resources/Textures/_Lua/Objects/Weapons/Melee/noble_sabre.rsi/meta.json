@@ -1,7 +1,7 @@
 {
   "version": 1,
   "license": "CC-BY-SA-3.0",
-  "copyright": "Made by the Sector Crescent team for the Hullrot Project. All rights reserved. Do not modify, publish, use, relicense, or edit.",
+  "copyright": "Sprite made by Duran",
   "size": {
     "x": 32,
     "y": 32
@@ -9,6 +9,18 @@
   "states": [
     {
       "name": "icon"
+    },
+    {
+      "name": "equipped-OUTERCLOTHING",
+      "directions": 4
+    },
+    {
+      "name": "equipped-OUTERCLOTHING-vox",
+      "directions": 4
+    },
+    {
+      "name": "equipped-OUTERCLOTHING-harpy",
+      "directions": 4
     },
     {
       "name": "inhand-left",

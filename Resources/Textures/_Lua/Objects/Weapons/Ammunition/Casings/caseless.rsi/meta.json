@@ -4,17 +4,17 @@
         "x": 32,
         "y": 32
     },
-    "license": "",
-    "copyright": "Made by the Sector Crescent team for the Hullrot Project. All rights reserved. Do not modify, publish, use, relicense, or edit.",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by _starch_ (discord)",
     "states": [
         {
             "name": "base"
         },
         {
-            "name": "base-spent"
+            "name": "tip"
         },
         {
-            "name": "tip"
+            "name": "base-spent"
         }
     ]
 }

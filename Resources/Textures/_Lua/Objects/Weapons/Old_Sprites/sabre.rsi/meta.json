@@ -1,28 +1,12 @@
 {
     "version": 1,
-    "license": "",
-    "copyright": "Made by the Sector Crescent team for the Hullrot Project. All rights reserved. Do not modify, publish, use, relicense, or edit.",
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken/modified from Mojave sun 13 at https://scrubby.melonmesa.com/dmi/mojave/icons/objects/guns/guns_inventory.dmi?codebase=mojavesun",
     "size": {
-        "x": 48,
+        "x": 32,
         "y": 32
     },
     "states": [
-        {
-            "name": "inhand-left",
-            "directions": 4
-        },
-        {
-            "name": "wielded-inhand-left",
-            "directions": 4
-        },
-        {
-            "name": "wielded-inhand-right",
-            "directions": 4
-        },
-        {
-            "name": "inhand-right",
-            "directions": 4
-        },
         {
             "name": "icon"
         },
@@ -33,7 +17,16 @@
             "name": "bolt-open"
         },
         {
-            "name": "mag-0"
-        }
+            "name": "inhand-left",
+            "directions": 4
+        },
+        {
+            "name": "inhand-right",
+            "directions": 4
+        },
+		{
+			"name": "equipped-BELT",
+			"directions": 4
+		}
     ]
 }

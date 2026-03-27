@@ -1,23 +1,26 @@
 {
   "version": 1,
-  "license": null,
-  "copyright": "Built by the Hullrot team for the project. All rights reserved. Do not use, relicense, redistribute, or modify in any way. This art is proprietary.",
+  "license": "CC-BY-SA-3.0",
+  "copyright": "Taken from https://github.com/tgstation/tgstation/commit/42e0275d860551197687c571c689c270ff423288",
   "size": {
     "x": 32,
     "y": 32
   },
   "states": [
     {
-      "name": "Medium",
-      "directions": 4
-    },
-    {
-      "name": "Large",
-      "directions": 4
-    },
-    {
       "name": "Small",
-      "directions": 4
+      "directions": 8
+    },
+    {
+      "name": "Medium",
+      "directions": 8
+    },
+    {
+      "name": "Large"
+    },
+    {
+      "name": "syndie_stun",
+      "directions": 8
     }
   ]
 }

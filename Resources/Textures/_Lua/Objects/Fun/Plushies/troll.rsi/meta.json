@@ -1,7 +1,7 @@
 {
     "version": 1,
-    "license": "",
-    "copyright": "Original artwork made by the Hullrot team for the Hullrot Project. All rights reserved. Do not copy, use, modify, or redistribute.",
+    "license": "CC0-1.0",
+    "copyright": "Created for SS14 by TheShuEd (github)",
     "size": {
         "x": 32,
         "y": 32
@@ -9,12 +9,6 @@
     "states": [
         {
             "name": "icon"
-        },
-        {
-            "name": "primed"
-        },
-        {
-            "name": "base"
         }
     ]
 }

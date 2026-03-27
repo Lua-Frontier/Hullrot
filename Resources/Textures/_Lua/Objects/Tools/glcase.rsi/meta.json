@@ -1,12 +1,15 @@
 {
   "version": 1,
-  "license": "",
-  "copyright": "Made by the Sector Crescent team for the Hullrot Project. All rights reserved. Do not modify, publish, use, relicense, or edit.",
+  "license": "CC-BY-SA-3.0",
+  "copyright": "Created by PatoGrone for N14",
   "size": {
     "x": 32,
     "y": 32
   },
   "states": [
+    {
+      "name": "icon"
+    },
     {
       "name": "inhand-left",
       "directions": 4
@@ -16,16 +19,19 @@
       "directions": 4
     },
     {
-      "name": "icon"
+      "name": "wielded-inhand-left",
+      "directions": 4
     },
     {
-      "name": "icon-open"
+      "name": "wielded-inhand-right",
+      "directions": 4
     },
     {
-      "name": "unshaded",
-      "delays": [
-        [ 0.2, 0.1, 0.1, 0.2 ]
-      ]
+      "name": "equipped-BACKPACK",
+      "directions": 4
+    },
+    {
+      "name": "unshaded"
     }
   ]
 }

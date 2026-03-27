@@ -1,22 +1,22 @@
 {
-    "version": 1,
-    "license": "",
-    "copyright": "Made by the Sector Crescent team for the Hullrot Project. All rights reserved. Do not modify, publish, use, relicense, or edit.",
-    "size": {
-        "x": 32,
-        "y": 32
+  "version": 1,
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "license": "CC-BY-SA-3.0",
+  "copyright": "Made by PixelTheKermit (github) for SS14",
+  "states": [
+    {
+      "name": "icon"
     },
-    "states": [
-        {
-            "name": "icon"
-        },
-        {
-            "name": "ncwl-inhand-left",
-            "directions": 4
-        },
-        {
-            "name": "ncwl-inhand-right",
-            "directions": 4
-        }
-    ]
+    {
+      "name": "ncwl-inhand-left",
+      "directions": 4
+    },
+    {
+      "name": "ncwl-inhand-right",
+      "directions": 4
+    }
+  ]
 }
