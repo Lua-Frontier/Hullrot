@@ -1,7 +1,7 @@
 - files: ["gazer"]
   license: "CC-BY-NC-SA-3.0"
   copyright: "Fractal Softworks"
-  source: "StarSector, Bombardment Menu"
+  source: "https://store.steampowered.com/app/394160/Starsector/"
 
 - files: ["bingguss.png"]
   license: "CC-BY-NC-SA-4.0"
