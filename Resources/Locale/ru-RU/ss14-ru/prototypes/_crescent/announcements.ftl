@@ -1,2 +1,2 @@
-ent-AnnouncerIntercom = intercom
+ent-AnnouncerIntercom = интерком
     .desc = { ent-Intercom.desc }

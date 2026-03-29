@@ -1,2 +1,2 @@
-ent-NfsdWhistle = свисток дсбф
-    .desc = Его звуки заставляют вас бояться.
+ent-NfsdWhistle = nfsd whistle
+    .desc = Sound of it make you feel fear.

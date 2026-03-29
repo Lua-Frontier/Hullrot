@@ -1,6 +1,6 @@
 ent-LockerJanitorFilled = { ent-LockerJanitor }
-    .suffix = Заполненный
+    .suffix = Filled
     .desc = { ent-LockerJanitor.desc }
 ent-LockerClownFilled = { ent-LockerClown }
-    .suffix = Заполненный
+    .suffix = Filled
     .desc = { ent-LockerClown.desc }

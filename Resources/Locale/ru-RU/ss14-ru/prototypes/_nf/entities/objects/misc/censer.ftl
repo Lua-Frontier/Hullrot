@@ -1,2 +1,2 @@
-ent-Censer = курильница
-    .desc = Обычно используется вместе с благовониями.
+ent-Censer = censer
+    .desc = Usually you put incense in there.

@@ -1,4 +1,4 @@
-ent-BaseComputerModular = modular computer
-    .desc = Part of a recent initiative to make computers less static. Comes with a disk slot for various "program disks".
-ent-BaseComputerModularCircuitBoard = modular computer board
-    .desc = A computer printed circuit board for a modular computer.
+ent-BaseComputerModular = модульный компьютер
+    .desc = Часть недавней инициативы по созданию менее статичных компьютеров. Оснащён дисководом для различных «программных дисков».
+ent-BaseComputerModularCircuitBoard = плата модульного компьютера
+    .desc = Печатная плата компьютера для модульного компьютера.

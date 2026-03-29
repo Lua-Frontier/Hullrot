@@ -1,3 +1,3 @@
 ent-WeaponPistolN1984Nonlethal = N1984
-    .suffix = Травматический
+    .suffix = Non-lethal
     .desc = { ent-WeaponPistolN1984.desc }

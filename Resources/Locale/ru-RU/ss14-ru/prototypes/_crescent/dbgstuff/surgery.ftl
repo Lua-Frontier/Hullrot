@@ -1,2 +1,5 @@
-ent-DebugOmnimedTool = THE SURGINATOR
-    .desc = BEHOLD! THE SURGINATOR! With this tool, I will make all doctors obsolete!
+ent-DebugOmnimedTool = ХИРУРГИНАТОР
+    .desc = ТРЕПЕЩИ ХИРУРГ, Я ИЗОБРЁЛ ХИРУРГИНАТОР! С этим инструментом я сделаю всех врачей устаревшими!
+
+# Старое, скучное описание. Заменено новым, великолепным.
+# .desc = ВОСХИТИТЕСЬ! ХИРУРГИНАТОР! С этим инструментом я сделаю всех врачей устаревшими!

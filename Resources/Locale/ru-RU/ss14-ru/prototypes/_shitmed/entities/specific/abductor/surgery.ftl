@@ -1,8 +1,8 @@
-ent-MechanicalPinchesAbductor = high-tech mechanical pinches
-    .desc = A highly advanced set of mechanical pinches, they seem to work like a hemostat and retractor.
-ent-SearingToolAbductor = high-tech searing tool
-    .desc = A highly advanced cautery with an energy tip, it seems to also work as a drill.
-ent-EnergyScalpelAbductor = high-tech energy scalpel
-    .desc = A scalpel which uses an energy blade, it seems to also work as a saw.
-ent-BoneManipulatorAbductor = high-tech bone manipulator
-    .desc = A highly advanced tool, capable of mending bones.
+ent-MechanicalPinchesAbductor = высокотехнологичные механические зажимы
+    .desc = Высокоэффективный набор механических зажимов, работают как гемостат и ретрактор.
+ent-SearingToolAbductor = высокотехнологичный прижигатель
+    .desc = Высокоэффективный прижигатель с энергетическим наконечником, также работает как дрель.
+ent-EnergyScalpelAbductor = высокотехнологичный энергетический скальпель
+    .desc = Скальпель с энергетическим лезвием, также работает как пила.
+ent-BoneManipulatorAbductor = высокотехнологичный манипулятор костей
+    .desc = Высокоэффективный инструмент, способный сращивать кости.

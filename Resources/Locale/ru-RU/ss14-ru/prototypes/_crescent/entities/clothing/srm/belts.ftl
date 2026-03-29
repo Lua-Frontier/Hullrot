@@ -1,2 +1,2 @@
-ent-ClothingBeltSheathKhopesh = khopesh scabbard
-    .desc = A scabbard meant to hold a khopesh.
+ent-ClothingBeltSheathKhopesh = ножны хопеша
+    .desc = Ножны, предназначенные для хопеша.

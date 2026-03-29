@@ -1,2 +1,2 @@
-ent-ClothingNeckTieBH = галстук
-    .desc = Свободно завязанный галстук - идеальный аксессуар для тех, кто переутомлен работой.
+ent-ClothingNeckTieBH = tie
+    .desc = A loosely tied necktie, a perfect accessory for the over-worked.

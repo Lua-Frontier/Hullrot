@@ -1,6 +1,6 @@
-ent-SpawnInhandMeleeWeaponBloodCultLow = спавнер оружие ближнего боя
-    .suffix = Кровавый Культ, Low
+ent-SpawnInhandMeleeWeaponBloodCultLow = random melee weapon
+    .suffix = Blood cult, Low
     .desc = { ent-MarkerBase.desc }
-ent-SpawnInhandMeleeWeaponBloodCultHigh = спавнер оружие ближнего боя
-    .suffix = Кровавый Культ, High
+ent-SpawnInhandMeleeWeaponBloodCultHigh = random melee weapon
+    .suffix = Blood cult, High
     .desc = { ent-MarkerBase.desc }

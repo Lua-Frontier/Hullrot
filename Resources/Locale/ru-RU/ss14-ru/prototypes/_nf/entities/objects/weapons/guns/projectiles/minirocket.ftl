@@ -1,4 +1,4 @@
-ent-BulletRocketMiniNF = мини-ракета
+ent-BulletRocketMiniNF = mini rocket
     .desc = { ent-BaseBulletTrigger.desc }
-ent-CartridgeRocketMiniNF = мини-ракета
+ent-CartridgeRocketMiniNF = minirocket
     .desc = { ent-BaseItem.desc }

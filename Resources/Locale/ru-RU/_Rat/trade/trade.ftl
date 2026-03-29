@@ -1,0 +1,1 @@
+rat-station-trade-market = Получено { $finalAmount } кредитов ({ $pct }% от базовой цены { $baseAmount }¥).

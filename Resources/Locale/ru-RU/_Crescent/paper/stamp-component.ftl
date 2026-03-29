@@ -1,7 +1,8 @@
-stamp-component-stamped-name-ncwl = Union Command
-stamp-component-stamped-name-empire = House Olywir
+stamp-component-stamped-name-ncwl = Командование Союза
+stamp-component-stamped-name-empire = Дом Оливир
 stamp-component-stamped-name-hunters = St. Romaine's Church
-stamp-component-stamped-name-shi = Shinohara Heavy Industries
+stamp-component-stamped-name-shinohara = «Шиногара» Тяжёлая Промышленность
+
 stamp-component-stamped-received = Здесь стоит печать: «ПОЛУЧЕНО».
 stamp-component-stamped-copied = Здесь стоит печать: «КОПИЯ».
 stamp-component-stamped-reviewed = Здесь стоит печать: «ПРОВЕРЕНО».

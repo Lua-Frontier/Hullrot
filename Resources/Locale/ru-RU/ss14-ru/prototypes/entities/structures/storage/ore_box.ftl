@@ -1,2 +1,2 @@
-ent-OreBox = resource box
-    .desc = A large storage container for holding unprocessed resources and components.
+ent-OreBox = ящик для руды
+    .desc = Большой контейнер для хранения необработанной руды и компонентов.

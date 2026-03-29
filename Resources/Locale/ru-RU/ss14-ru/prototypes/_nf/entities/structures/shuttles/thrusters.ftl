@@ -1,4 +1,4 @@
-ent-SmallThruster = малый двигатель
+ent-SmallThruster = small thruster
     .desc = { ent-Thruster.desc }
-ent-SmallGyroscope = малый гироскоп
+ent-SmallGyroscope = small gyroscope
     .desc = { ent-Gyroscope.desc }

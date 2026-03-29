@@ -1,2 +1,2 @@
-ent-ClothingBeltNAPRangerPouches = american ranger 'Donkey' harness
-    .desc = The Donkey has seen little to no evolution since its introduction to the New American rump state. The combination of load bearing straps and internal pockets has proved serviceable to any troop, anywhere. Be they on land or in space, some New American is lugging a Donkey around.
+ent-ClothingBeltNAPRangerPouches = разгрузка "Ослик"
+    .desc = "Ослик" практически не изменился с момента появления в остаточном государстве Новых Американцев. Комбинация несущих ремней и внутренних карманов оказалась пригодной для любого солдата, где бы он ни находился. Будь то на суше или в космосе, какой-нибудь новоамериканец тащит "Ослика" с собой.

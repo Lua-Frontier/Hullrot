@@ -30,6 +30,7 @@ artifact-trigger-hint-heat = Высокая температура
 artifact-trigger-hint-physical = Физические повреждения
 artifact-trigger-hint-tool = Использование инструментов
 artifact-trigger-hint-music = Звуковые вибрации
+artifact-trigger-hint-medical = Терапевтические химикаты
 artifact-trigger-hint-water = Водочувствительность
 artifact-trigger-hint-blood = Реакция с гематологической жидкостью
 artifact-trigger-hint-magnet = Магнитные волны

@@ -15,5 +15,5 @@ ent-ZiptiesBroken = порванные кабельные стяжки
 ent-CablecuffsBroken = порванные стяжки
     .desc = Эти стяжки оборваны в нескольких местах и кажутся не очень полезными.
     .suffix = { "" }
-ent-ClothingOuterStraightjacket = straitjacket
-    .desc = Used to restrain those who may cause harm to themselves or others.
+ent-ClothingOuterStraightjacket = смирительная рубашка
+    .desc = Используется для удержания тех, кто пытается причинить вред себе или окружающим.

@@ -1,9 +1,7 @@
-ent-CrateTradeSecureNormalFilled = Ящик с товарами
-    .desc = Содержит товары, произведенные в секторах Фронтира, готовые к продаже на грузовом складе по высокой цене. ЯЩИК ДОЛЖЕН БЫТЬ ЦЕЛ.
-    .suffix = заполненный
-ent-CrateTradeSecureHighFilled = ящик для груза высокой стоимости
-    .desc = Содержит ценные товары, произведенные в секторах Фронтира, готовые к срочной продаже на грузовом складе по высокой цене. ЯЩИК ДОЛЖЕН БЫТЬ ЦЕЛ.
-    .suffix = заполненный
+ent-CrateTradeSecureNormalFilled = cargo trading crate
+    .desc = Contains goods made in the Frontier sector, ready to be sold on a cargo depot for higher value. MAKE SURE THE CRATE IS INTACT.
+ent-CrateTradeSecureHighFilled = high value cargo trading crate
+    .desc = Contains high value goods made in the Frontier sector, ready to be sold on a cargo depot for higher value. MAKE SURE THE CRATE IS INTACT.
 ent-CrateTradeContrabandSecureNormalFilled = { ent-CrateTradeContrabandSecureNormal }
     .desc = { ent-CrateTradeContrabandSecureNormal.desc }
 ent-CrateTradeContrabandSecureDonkFilled = { ent-CrateTradeContrabandSecureDonk }

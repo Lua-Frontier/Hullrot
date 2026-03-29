@@ -41,3 +41,7 @@ armor-damage-type-shock = Shock
 armor-damage-type-structural = Structural
 armor-damage-type-holy = Holy
 armor-examine-stamina = - [color=cyan]Stamina[/color] damage reduced by [color=lightblue]{ $num }%[/color].
+armor-material-examine = Материал бронепластины:{ $material }
+armor-degradation-ceramic = [color=orange] Керамика [/color]
+armor-degradation-metallic = [color=lightblue] Сталь [/color]
+armor-degradation-plastic = [color=cyan] Пластик [/color]

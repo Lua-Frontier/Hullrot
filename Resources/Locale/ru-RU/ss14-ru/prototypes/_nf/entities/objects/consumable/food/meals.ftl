@@ -1,2 +1,2 @@
-ent-MobCatCrispy = Хрустик
-    .desc = Ты будешь гореть в аду.
+ent-MobCatCrispy = crispy
+    .desc = Mistakes were made.

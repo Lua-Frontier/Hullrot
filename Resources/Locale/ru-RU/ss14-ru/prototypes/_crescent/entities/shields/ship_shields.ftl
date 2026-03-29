@@ -1,2 +1,2 @@
-ent-ShipShield = ship shield
+ent-ShipShield = корабельный щит
     .desc = { "" }

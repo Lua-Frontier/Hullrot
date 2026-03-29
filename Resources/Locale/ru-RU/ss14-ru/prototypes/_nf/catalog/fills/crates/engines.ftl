@@ -1,4 +1,4 @@
-ent-CrateEngineeringSmallThruster = ящик с малым двигателем
+ent-CrateEngineeringSmallThruster = small thruster crate
     .desc = { ent-CrateEngineering.desc }
-ent-CrateEngineeringSmallGyroscope = ящик с малым гироскопом
+ent-CrateEngineeringSmallGyroscope = small gyroscope crate
     .desc = { ent-CrateEngineering.desc }

@@ -1,2 +1,2 @@
-ent-ActionSpaceArtilleryFire = Fire
-    .desc = Sends lead downrange
+ent-ActionSpaceArtilleryFire = Огонь
+    .desc = Посылает свинец вдаль

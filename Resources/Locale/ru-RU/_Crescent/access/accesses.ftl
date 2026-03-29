@@ -38,12 +38,12 @@ id-card-access-level-srmoverseer = Коммодор шестой штурмов�
 
 # shi
 
-id-card-access-level-shi = Тяжёлые индустрии Shinohara
-id-card-access-level-shiofficer = Корпоративный офицер Shinohara
-id-card-access-level-shisec = Shinohara Security Department
-id-card-access-level-shiexec = Shinohara Command Department
-id-card-access-level-shisecurity = Отдел безопасности Shinohara
-id-card-access-level-shiexecutive = Командный отдел Shinohara
+id-card-access-level-shi = «Шиногара» Тяжёлая Промышленность
+id-card-access-level-shiofficer = Корпоративный офицер «Шиногара»
+id-card-access-level-shisec = Департамент Безопасности «Шиногара»
+id-card-access-level-shiexec = Командный Департамент «Шиногара»
+id-card-access-level-shisecurity = Отдел безопасности «Шиногара»
+id-card-access-level-shiexecutive = Командный отдел «Шиногара»
 
 # cmm
 

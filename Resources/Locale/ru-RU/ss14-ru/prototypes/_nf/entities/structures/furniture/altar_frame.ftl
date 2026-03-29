@@ -1,3 +1,3 @@
-ent-AltarFrameNF = каркас алтаря
-    .desc = Алтарь Богов. Выглядит недостроенным.
-    .suffix = Недостроен
+ent-AltarFrameNF = altar frame
+    .desc = Altar of the Gods. Kinda hollow to be honest.
+    .suffix = Unfinished

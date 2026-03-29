@@ -1,6 +1,6 @@
-ent-ComputerCommsShip = ship-comm-console
-    .desc = A computer used to make ship-wide announcements via keyboard and set the appropriate alert level.
-    .suffix = ship
-ent-ComputerTabletopCommsShip = ship-comm-console
-    .desc = A computer used to make ship-wide announcements via keyboard and set the appropriate alert level.
-    .suffix = ship, tabletop
+ent-ComputerCommsShip = корабельная консоль связи
+    .desc = Компьютер для объявления на весь корабль через клавиатуру и установки соответствующего уровня тревоги.
+    .suffix = корабль
+ent-ComputerTabletopCommsShip = корабельная консоль связи
+    .desc = Компьютер для объявления на весь корабль через клавиатуру и установки соответствующего уровня тревоги.
+    .suffix = корабль, настольный

@@ -1,6 +1,6 @@
-ent-UnburnedDiskPrototype = unburned disk dummy prototype
+ent-UnburnedDiskPrototype = чистый диск
     .desc = { "" }
-ent-CrewMonitorDiskPrototype = Crew Monitor
+ent-CrewMonitorDiskPrototype = диск «Мониторинг экипажа»
     .desc = { "" }
-ent-CommunicationsConsoleDiskPrototype = Communications Console
+ent-CommunicationsConsoleDiskPrototype = диск «Консоль связи»
     .desc = { "" }

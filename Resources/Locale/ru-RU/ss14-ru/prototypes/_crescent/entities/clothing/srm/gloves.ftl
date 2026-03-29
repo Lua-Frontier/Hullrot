@@ -1,2 +1,2 @@
-ent-ClothingHandsGlovesHunter = reinforced hunter's gloves
-    .desc = Wrist-length gloves made for Hunters.
+ent-ClothingHandsGlovesHunter = усиленные перчатки охотника
+    .desc = Перчатки до запястья, сделанные для охотников.

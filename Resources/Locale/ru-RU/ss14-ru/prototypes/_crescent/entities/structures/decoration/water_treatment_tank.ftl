@@ -1,2 +1,2 @@
-ent-DerelictWaterTreatmentTank = derelict water treatment tank
-    .desc = Made to purify unclean water. There's a weathered label advising the operator to not drink the water. It seems to still contain some water.
+ent-DerelictWaterTreatmentTank = заброшенный резервуар для очистки воды
+    .desc = Предназначен для очистки грязной воды. На выцветшей этикетке советуется оператору не пить воду. Кажется, в нём всё ещё есть вода.

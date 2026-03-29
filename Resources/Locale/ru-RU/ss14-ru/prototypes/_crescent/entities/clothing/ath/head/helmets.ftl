@@ -1,2 +1,2 @@
-ent-ClothingHeadHelmetAuthoritySoldat = soldat's armored gas mask
-    .desc = A kevlar-plated nanoweave gas mask. Standard issue for Authoritat soldats.
+ent-ClothingHeadHelmetAuthoritySoldat = бронированный противогаз егеря
+    .desc = Противогаз из наноткани с кевларовыми пластинами. Стандартная выдача для егерей Авторитета.

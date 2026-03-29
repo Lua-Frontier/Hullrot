@@ -1,22 +1,25 @@
-ent-BaseStore = standing store
-    .desc = Just add capitalism!
-ent-BaseStoreUnpowered = standing store
-    .desc = Just add capitalism!
-ent-BaseStoreSerraine = Statue of Serraine
-    .desc = A gorgeous statue depicting Saint Serraine in her beauty and grace.
-ent-BaseStoreRomaine = Statue of Romaine
-    .desc = A statue depicting the legendary Saint Romaine, revered for his courage.
-ent-NCWLDogtagStore = union commissariat autovendor
-    .desc = A Shinohara-patented autopeddler machine. Uses an integrated, lobotomized zircon-class artifical intelligence subcore to sell you things. Provided you have the Merits.
-ent-DSMDogtagStore = imperial requisitions autopeddler
-    .desc = A Shinohara-patented autopeddler machine. Uses an integrated, lobotomized zircon-class artifical intelligence subcore to sell you things. Provided you have the Dockets.
-ent-SAWDogtagStore = SAWs requisitions autopeddler
-    .desc = A stolen Shinohara-patented autopeddler machine. Uses an integrated, lobotomized zircon-class artifical intelligence subcore to sell you things. Provided you have the Scrap.
-ent-GSCDogtagStore = GSCs requisitions autopeddler
-    .desc = A stolen Shinohara-patented autopeddler machine. Uses an integrated, lobotomized zircon-class artifical intelligence subcore to sell you things. Provided you have the Bounty.
-ent-IPMDogtagStore = Interdyne blackmarket autopeddler
-    .desc = A stolen Shinohara-patented autopeddler machine. Uses an integrated, lobotomized zircon-class artifical intelligence subcore to sell you things. Provided you have the Samples.
-ent-SRMDogtagStoreR = Statue of Saint Romaine
-    .desc = A statue of Saint Romaine, hallowed be his name. Perhaps the bowl full of blood will take your scraps of piety in exchange for items you may need to fulfill his will.
-ent-SRMDogtagStoreS = Shrine of Saint Serraine
-    .desc = A statue of Saint Serraine, may she rest in His grace. The incense at her feet seems welcoming, some say that if you pray to her she will bless you with items to avenge her.
+ent-BaseStore = напольный магазин
+    .desc = Просто добавьте капитализм!
+ent-BaseStoreUnpowered = напольный магазин
+    .desc = Просто добавьте капитализм!
+
+ent-BaseStoreSerraine = Статуя Серрайн
+    .desc = Великолепная статуя, изображающая святую Серрайн во всей её красе и грации.
+ent-BaseStoreRomaine = Статуя Ромена
+    .desc = Статуя, изображающая легендарного святого Ромена, почитаемого за его храбрость.
+
+ent-NCWLDogtagStore = автоматический продавец союзного комиссариата
+    .desc = Автоматическая торговая машина, запатентованная Шиногарой. Использует интегрированное, лоботомизированное ядро искусственного интеллекта циркониевого класса для продажи товаров. При условии наличия Заслуг.
+ent-DSMDogtagStore = автоматический продавец имперских реквизиций
+    .desc = Автоматическая торговая машина, запатентованная Шиногарой. Использует интегрированное, лоботомизированное ядро искусственного интеллекта циркониевого класса для продажи товаров. При условии наличия Квитанций.
+ent-SAWDogtagStore = автоматический продавец реквизиций ЛРНП
+    .desc = Украденная автоматическая торговая машина, запатентованная Шиногарой. Использует интегрированное, лоботомизированное ядро искусственного интеллекта циркониевого класса для продажи товаров. При условии наличия Металлолома.
+ent-GSCDogtagStore = автоматический продавец реквизиций ГСБ
+    .desc = Украденная автоматическая торговая машина, запатентованная Шиногарой. Использует интегрированное, лоботомизированное ядро искусственного интеллекта циркониевого класса для продажи товаров. При условии наличия Награды.
+ent-IPMDogtagStore = автоматический продавец чёрного рынка Интердайн
+    .desc = Украденная автоматическая торговая машина, запатентованная Шиногарой. Использует интегрированное, лоботомизированное ядро искусственного интеллекта циркониевого класса для продажи товаров. При условии наличия Образцов.
+
+ent-SRMDogtagStoreR = Статуя святого Ромена
+    .desc = Статуя святого Ромена, да будет свято его имя. Возможно, чаша, полная крови, примет обрезки вашего благочестия в обмен на предметы, которые могут понадобиться для исполнения его воли.
+ent-SRMDogtagStoreS = Святилище святой Серрайн
+    .desc = Статуя святой Серрайн, да упокоится она в Его милости. Благовоние у её ног кажется гостеприимным, некоторые говорят, что если помолиться ей, она благословит вас предметами для отмщения.

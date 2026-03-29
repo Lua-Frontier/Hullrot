@@ -2,13 +2,13 @@ ent-BoriaticGeneratorBase = { ent-BaseMachine }
     .desc = { ent-BaseMachine.desc }
 ent-BoriaticGeneratorSwitchableBase = { ent-BoriaticGeneratorBase }
     .desc = { ent-BoriaticGeneratorBase.desc }
-ent-BoriaticGeneratorHercules = Boriatic Generator 'Hercules'
+ent-BoriaticGeneratorHercules = Бориатный генератор «Геркулес»
     .desc =
-        A loud, foulsmelling, toxic generator.
-        Runs off corrosive Boriatic fuel and is rated for up to 50 kW.
-    .suffix = BoriaticFuel, 20 kW
-ent-BoriaticGeneratorEinstein = Boriatic Generator 'Einstein'
+        Громкий, зловонный, токсичный генератор.
+        Работает на коррозионном бориатном топливе и рассчитан на мощность до 50 кВт.
+    .suffix = BoriaticFuel, 50 kW
+ent-BoriaticGeneratorEinstein = Бориатный генератор «Эйнштейн»
     .desc =
-        A gargantuan, loud, foulsmelling, toxic generator.
-        Runs off corrosive Boriatic fuel and is rated for up to 95 kW.
+        Огромный, громкий, зловонный, токсичный генератор.
+        Работает на коррозионном бориатном топливе и рассчитан на мощность до 95 кВт.
     .suffix = BoriaticFuel, 95 kW

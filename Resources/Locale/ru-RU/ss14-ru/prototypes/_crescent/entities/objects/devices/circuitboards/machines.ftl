@@ -1,2 +1,2 @@
-ent-M_EmpMachineCircuitboard = M_EMP Generator machine board
-    .desc = A machine printed circuit board for a mobile EMP generator.
+ent-M_EmpMachineCircuitboard = БЭМИ (машинная плата)
+    .desc = Печатная плата БЭМИ.

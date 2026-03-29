@@ -1,4 +1,4 @@
-ent-ClothingHeadEVAHelmetHydro = шлем скафандра EVA ботаника
+ent-ClothingHeadEVAHelmetHydro = botanist EVA helmet
     .desc = { ent-ClothingHeadEVAHelmetBase.desc }
-ent-ClothingHeadEVAHelmetMailman = шлем скафандра EVA почтальона
+ent-ClothingHeadEVAHelmetMailman = mailcarrier EVA helmet
     .desc = { ent-ClothingHeadEVAHelmetBase.desc }

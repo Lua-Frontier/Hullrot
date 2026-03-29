@@ -1,2 +1,2 @@
-ent-ClothingOuterWinterArcadia = аркадианское зимнее пальто
-    .desc = Пальто, произведенное компанией Arcadia Industries, выглядит мягким.
+ent-ClothingOuterWinterArcadia = arcadia winter coat
+    .desc = A coat produced by Arcadia Industries, seems soft.

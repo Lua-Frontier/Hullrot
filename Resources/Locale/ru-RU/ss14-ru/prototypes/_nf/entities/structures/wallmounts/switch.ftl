@@ -1,3 +1,3 @@
 ent-LockableButtonMailCarrier = { ent-LockableButton }
-    .suffix = Почта
+    .suffix = Mail
     .desc = { ent-LockableButton.desc }

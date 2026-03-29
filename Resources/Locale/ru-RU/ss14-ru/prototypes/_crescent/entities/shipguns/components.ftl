@@ -1,4 +1,4 @@
-ent-ColonyShellComplete = 320mm subnuclear accelerator artillery shell
-    .desc = A 320mm railgun cartridge produced out of a volatile plasma-cored tungsten shell. 'House Olywir Armaments' has been laser-stamped at the bottom. This one is deactivated for shipping.
-ent-ColonyShellIncomplete = unpacked 320mm artillery shell
-    .desc = A 320mm railgun cartridge produced out of a volatile plasma-cored tungsten shell. This one has no actual payload.
+ent-ColonyShellComplete = 320-мм субъядерный артиллерийский снаряд ускорителя
+    .desc = 320-мм рельсовый патрон, изготовленный из нестабильной вольфрамовой оболочки с плазменным сердечником. Внизу выгравировано лазером «House Olywir Armaments». Этот снаряд деактивирован для транспортировки.
+ent-ColonyShellIncomplete = распакованный 320-мм артиллерийский снаряд
+    .desc = 320-мм рельсовый патрон, изготовленный из нестабильной вольфрамовой оболочки с плазменным сердечником. У этого снаряда нет боевой части.

@@ -1,8 +1,8 @@
-ent-Casing120 = empty 120mm casing
-    .desc = A hollow 120mm casing for ship artillery.
-ent-Casing120HE = empty 120mm casing
-    .desc = A hollow 120mm casing for ship artillery, marked for HE shells.
-ent-Casing120Welded = welded 120mm casing
-    .desc = A hollow 120mm casing for ship artillery, welded and ready for priming.
-ent-Casing120WeldedHE = welded 120mm HE casing
-    .desc = A hollow 120mm casing for ship artillery, welded and ready for priming with HE payloads.
+ent-Casing120 = пустая гильза 120 мм
+    .desc = Полая гильза калибра 120 мм для корабельной артиллерии.
+ent-Casing120HE = пустая гильза 120 мм
+    .desc = Полая гильза калибра 120 мм для корабельной артиллерии, промаркированная под осколочно‑фугасные снаряды.
+ent-Casing120Welded = сваренная гильза 120 мм
+    .desc = Полая гильза калибра 120 мм для корабельной артиллерии, сваренная и готовая к зарядке.
+ent-Casing120WeldedHE = сваренная гильза 120 мм ОФ
+    .desc = Полая гильза калибра 120 мм для корабельной артиллерии, сваренная и готовая к зарядке осколочно‑фугасным зарядом.

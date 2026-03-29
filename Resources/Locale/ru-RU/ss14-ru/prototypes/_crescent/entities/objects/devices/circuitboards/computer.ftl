@@ -1,2 +1,2 @@
-ent-AdvancedRadarConsoleCircuitboard = advanced radar console computer board
+ent-AdvancedRadarConsoleCircuitboard = консоль продвинутого сканера массы (консольная плата)
     .desc = { ent-BaseComputerCircuitboard.desc }

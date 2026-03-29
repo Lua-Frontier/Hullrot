@@ -1,2 +1,2 @@
-ent-DerelictRecycler = industrial materials recycler
-    .desc = A crude industrial recycler, somehow it still has sparks of activity. Inserting basic objects grinds them up into basic materials re-use.
+ent-DerelictRecycler = промышленный переработчик материалов
+    .desc = Грубый промышленный переработчик, как-то ещё проявляющий признаки активности. Вставка базовых объектов измельчает их в базовые материалы для повторного использования.

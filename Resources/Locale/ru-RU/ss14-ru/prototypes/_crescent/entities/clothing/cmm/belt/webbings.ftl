@@ -1,2 +1,2 @@
-ent-ClothingBeltMinutemanPouches = minuteman webbing
-    .desc = Built for the Minutemen - light synthread webbing with pouches. Intended for doctors, engineers and drop-troopers.
+ent-ClothingBeltMinutemanPouches = разгрузка минитмена
+    .desc = Создана для минитменов - лёгкая разгрузка из синтеткани с подсумками. Предназначена для врачей, инженеров и десантников.

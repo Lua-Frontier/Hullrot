@@ -1,2 +1,2 @@
-ent-FoodPear = груша
-    .desc = Это грушевое удовольствие буквально заставит вас грушиться от удовольствия!
+ent-FoodPear = pear
+    .desc = it's peary good.

@@ -1,10 +1,10 @@
-ent-CartridgePulse350Fmj = cartridge (.350 PCM)
+ent-CartridgePulse350Fmj = патрон (.350 PCM)
     .desc = { ent-BaseCartridge.desc }
-ent-BulletPulse350Fmj = bullet (.350 PCM)
+ent-BulletPulse350Fmj = пуля (.350 PCM)
     .desc = { ent-BaseBullet.desc }
-ent-MagazinePulse350 = 45-round magazine (.350 PCM Empty)
+ent-MagazinePulse350 = 45-зарядный магазин (.350 PCM Empty)
     .suffix = Empty
     .desc = { ent-BaseMagazinePistol.desc }
-ent-MagazinePulse350Fmj = 45-round magazine (.350 PCM)
+ent-MagazinePulse350Fmj = 45-зарядный магазин (.350 PCM)
     .suffix = FMJ
     .desc = { ent-MagazinePulse350.desc }

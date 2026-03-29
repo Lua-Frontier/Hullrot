@@ -1,2 +1,2 @@
-ent-ShuttleOwnershipChip = SOC encryption chip
-    .desc = A 'Shuttle Ownership Chip' magnetically burned with the ownership deed of a sovereign vessel.
+ent-ShuttleOwnershipChip = ключ-чип шаттла
+    .desc = «Чип владения шаттлом», намагниченный с актом собственности на суверенное судно.

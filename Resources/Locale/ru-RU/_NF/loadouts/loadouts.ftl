@@ -1,1 +1,1 @@
-frontier-loadout-cost = Стоимость Снаряжения: { $cost }
+frontier-loadout-cost = Total Loadout Cost: ${ $cost }

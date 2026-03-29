@@ -1,16 +1,18 @@
-ent-Crate40mmGrenadeAS = 40mm anti-structure grenade crate
-    .desc = A crate containing 4 Thermobaric shot 40mm grenades
-ent-Crate40mmGrenadeSup = 40mm support grenade crate
-    .desc = A crate containing 4 HEDP shot 40mm grenades
-ent-Crate40mmGrenadeAT = 40mm anti-armor grenade crate
-    .desc = A crate containing 4 HEDP shot 40mm grenades
-ent-Crate40mmGrenadeAP = 40mm anti-personnel grenade crate
-    .desc = A crate containing 4 HE and 4 Canister shot 40mm grenades
-ent-Crate84mmRecoillessAP = 84mm recoilless anti-personnel shell crate
-    .desc = A crate containing 2 HE-Frag and 2 Canister shot 84mm recoilless shells
-ent-Crate84mmRecoillessAT = 84mm recoilless anti-armor shell crate
-    .desc = A crate containing 2 HEAT and 1 Tandem HEAT 84mm recoilless shells
-ent-Crate84mmRecoillessSup = 84mm recoilless support shell crate
-    .desc = A crate containing 2 Smoke and 2 EMP 84mm recoilless shells
-ent-Crate65mmHammerheadRocket = 65mm smart rocket crate
-    .desc = A crate containing 3 heat-seeking 65mm rockets
+ent-Crate40mmGrenadeAS = ящик 40мм противоструктурных гранат
+    .desc = Ящик, содержащий 4 термобарические 40мм гранаты.
+ent-Crate40mmGrenadeSup = ящик 40мм поддерживающих гранат
+    .desc = Ящик, содержащий 4 многоцелевые осколочно-фугасные 40мм гранаты.
+ent-Crate40mmGrenadeAT = ящик 40мм противоброневых гранат
+    .desc = Ящик, содержащий 4 многоцелевые осколочно-фугасные 40мм гранаты.
+ent-Crate40mmGrenadeAP = ящик 40мм противопехотных гранат
+    .desc = Ящик, содержащий 4 осколочно-фугасные и 4 картечные 40мм гранаты.
+
+ent-Crate84mmRecoillessAP = ящик 84мм безоткатных противопехотных снарядов
+    .desc = Ящик, содержащий 2 осколочно-фугасных и 2 картечных 84мм безоткатных снаряда.
+ent-Crate84mmRecoillessAT = ящик 84мм безоткатных противоброневых снарядов
+    .desc = Ящик, содержащий 2 кумулятивных и 1 тандемный кумулятивный 84мм безоткатный снаряд.
+ent-Crate84mmRecoillessSup = ящик 84мм безоткатных поддерживающих снарядов
+    .desc = Ящик, содержащий 2 дымовых и 2 ЭМИ 84мм безоткатных снаряда.
+
+ent-Crate65mmHammerheadRocket = ящик 65мм умных ракет
+    .desc = Ящик, содержащий 3 самонаводящиеся 65мм ракеты.

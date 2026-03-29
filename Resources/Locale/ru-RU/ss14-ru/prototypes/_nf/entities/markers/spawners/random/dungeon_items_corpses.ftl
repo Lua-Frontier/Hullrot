@@ -1,3 +1,3 @@
-ent-SpawnDungeonRandomHumanCorpse = случайное тело
-    .suffix = Экспедиция, Труп
+ent-SpawnDungeonRandomHumanCorpse = random corpse
+    .suffix = Dungeon, Corpse
     .desc = { ent-MarkerBasePlaceFree.desc }

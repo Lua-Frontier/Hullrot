@@ -1,2 +1,2 @@
-ent-Shredder = измельчитель
-    .desc = Он измельчает штуки. Что еще тут нужно знать?
+ent-Shredder = shredder
+    .desc = It shreds things. What more is there to say?

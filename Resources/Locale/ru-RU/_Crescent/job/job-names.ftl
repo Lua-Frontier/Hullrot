@@ -5,26 +5,26 @@ job-name-utility-ipc = NT Engineer IPC
 
 # ncwl
 
-job-name-ncwl-faction-leader = Майор
+job-name-ncwl-faction-leader = Генерал
 job-name-ncwl-kommissar = Комиссар
 job-name-ncwl-mvd-officer = Курсант комиссариата
-job-name-ncwl-mvd-grunt = Помощник Комиссара
-job-name-ncwl-fleetkapitan = Капитан Флота
-job-name-ncwl-partisan = Партизан
-job-name-ncwl-industry-taskmaster = Старшик Инженер
+job-name-ncwl-mvd-grunt = Сотрудник МВД
+job-name-ncwl-fleetkapitan = Офицер Флота
+job-name-ncwl-partisan = Гвардеец
+job-name-ncwl-industry-taskmaster = Старший инженер
 job-name-ncwl-industry-artificer = Инженер
-job-name-ncwl-medical-director = Главный Врач
-job-name-ncwl-artificer = Оруженный Мастер
-job-name-ncwl-worker-overboss = Начальник Снабжения
+job-name-ncwl-medical-director = Главный врач
+job-name-ncwl-artificer = Исследователь # удалили
+job-name-ncwl-worker-overboss = Начальник снабжения
 job-name-ncwl-worker-dockhand = Грузчик
 job-name-ncwl-medical-doctor = Санитар
-job-name-ncwl-coordinator = Координатор Союза
-job-name-ncwl-newbie = Рабочий Союза
+job-name-ncwl-coordinator = Координатор Союза # удалили
+job-name-ncwl-newbie = Рабочий
 
 # syndicate
 
 job-name-ringleader = Главарь Горлекс
-job-name-lieutenant = Лейтенант Горлекс
+job-name-lieutenant = Сержант Горлекс
 job-name-infanteer = Пехотинец Горлекс
 job-name-technician = Новобранец Горлекс
 job-name-coordinator = Координатор Интердайн
@@ -35,27 +35,27 @@ job-name-cyberdawntech = Исследователь Кибердон
 job-name-intelligenceofficer = Патриарх Кибердон
 job-name-shipbreaker = Разборщик Профсоюза
 job-name-foreman = Бригадир Профсоюза
-ghost-role-information-syndicate-cyborg-assault-name-c = CS 5401 Xigou assault cyborg
-ghost-role-information-syndicate-cyborg-Medical-name = CS 4201 Yao Wang Combat Medical cyborg
-ghost-role-information-syndicate-cyborg-saboteur-name-c = CS 3201 Sun Wukong Combat saboteur cyborg
+ghost-role-information-syndicate-cyborg-assault-name-c = CS 5401 Сигоу атакующий киборг
+ghost-role-information-syndicate-cyborg-Medical-name = CS 4201 Яо Ванг боевой медицинский киборг
+ghost-role-information-syndicate-cyborg-saboteur-name-c = CS 3201 Сунь Укун боевой диверсионный киборг
 
 # empire
 
 job-name-freeholder = Колон
-job-name-levyman = Оруженосец
-job-name-knight = Рыцарь-баннерет
-job-name-ritter = Баронский риттер
+job-name-levyman = Легионер
+job-name-knight = Рыцарь-коммандор
+job-name-ritter = Рыцарь-прелат
 job-name-courtier = Придворный
-job-name-ministerlabor = Министр труда
-job-name-logisticsofficer = Министр казны
-job-name-adjutant = Имперский адъютант
-job-name-archmaester = Писарь
+job-name-ministerlabor = Министр Промышленности
+job-name-logisticsofficer = Министр Финансов # удалили
+job-name-adjutant = Адъютант
+job-name-archmaester = Архимейстер
 job-name-governor = Лорд-адмирал
 job-name-foremanimp = Надсмотрщик
-job-name-imperialresearch = Имперский писарь
-job-name-surgeon = Санитар
+job-name-imperialresearch = Писарь
+job-name-surgeon = Медикатус
 job-name-wealth = Рыцарь-снабженец
-job-name-advocatus = Защитник
+job-name-advocatus = Министр Просвящения
 job-name-advocatustemplar = Рыцарь-тамплиер
 
 # srm
@@ -63,43 +63,45 @@ job-name-advocatustemplar = Рыцарь-тамплиер
 job-name-tender = Смотритель
 job-name-acolyte = Охотник-ученик
 job-name-hunter = Охотник
-job-name-montagne = Охотник Montagne
+job-name-montagne = Охотник Монтань
 job-name-overseer = Надзиратель охоты
 
 # shi
 
-job-name-executive = Менеджер сектора
-job-name-board = Помощник менеджера
+job-name-executive = Даймё
+job-name-board = Помощник даймё
 job-name-corpsec = Агент корпоративной безопасности
 job-name-highsec = Агент корпоративной ликвидации
 job-name-boardhr = Специалист по кадрам
 job-name-hos-shi = Начальник корпоративной безопасности
-job-name-employee = Офисный сотрудник
+job-name-employee = Клерк
 job-name-medtech = Исследователь МедТех
 
 # tsp
 
-job-name-ordnanceman = Оружейник
-job-name-machinist = Машинист двигателя
+job-name-ordnanceman = Колониальный блюститель
+job-name-machinist = Боевой инженер
 job-name-physician = Боевой врач
 job-name-minuteman = Колониальный минитмен
-job-name-watchmaster = Колониальный надсмотрщик
+job-name-watchmaster = Колониальный офицер
 job-name-deputymarshal = Заместитель маршала
 job-name-marshal = Колониальный маршал
 
 # tap
 
-job-name-prophet = Пророк Arabet
-job-name-acolytetap = Преданный Arabet
-job-name-techminer = Техношахтёр Thukker
-job-name-tinkerer = Машинист Thukker
-job-name-hangartech = Техник ангара Thukker
-job-name-beltrunner = Поясник Izdari
-job-name-draugr = Драугр Al'Seik
-job-name-servile = Слуга Al'Seik
+job-name-prophet = Пророк Арабет
+job-name-acolytetap = Преданный Арабет
+job-name-techminer = Техношахтёр Таккер
+job-name-tinkerer = Машинист Таккер
+job-name-hangartech = Техник ангара Таккер
+job-name-beltrunner = Поясник Издари
+job-name-draugr = Драугр Аль'Сеик
+job-name-servile = Слуга Аль'Сеик
+job-name-antiquarian = Антиквар Издари
+
 # ath
-job-name-kommandant = Контр-адмирал
-job-name-leutnant = Лейтнант
+job-name-kommandant = Коммандант
+job-name-leutnant = Флот-офицер
 job-name-soldat = Егерь
 job-name-sanitatATH = Санитат
 job-name-kanoneer = Канонир
@@ -108,23 +110,22 @@ job-name-oberartz = Оберарцт
 job-name-logistat = Логиститат Маршаллие
 job-name-handels = Хандельс
 job-name-forscher = Форшер
-job-name-chirurgeon = Хирург
+job-name-chirurgeon = Хирургеон
 job-name-vorarbeiter = Форарбайтер
 job-name-arbeiter = Арбайтер
 
 # misc
 
-job-name-antiquarian = Антиквар Izdari
 job-name-spacer = Космонавт
-job-name-gliess-dockhand = Доковый рабочий Gliess
-job-name-gliess-sheriff = Шериф Gliess
-job-name-gliess-deputy = Заместитель шерифа Gliess
-job-name-gliess-dockmaster = Докмастер Gliess
+job-name-gliess-dockhand = Доковый рабочий
+job-name-gliess-sheriff = Шериф
+job-name-gliess-deputy = Заместитель шерифа
+job-name-gliess-dockmaster = Докмастер
 
 # conscript-ncwl - for PLANETFALL
 
-job-name-conscript-ncwl-ship-captain = Адмирал Clementine
-job-name-conscript-ncwl-ship-crew = Мастер Clementine
+job-name-conscript-ncwl-ship-captain = Адмирал Клементин
+job-name-conscript-ncwl-ship-crew = Мастер Клементин
 job-name-conscript-ncwl-leader = Майор
 job-name-conscript-ncwl-officer = Комиссар
 job-name-conscript-ncwl-amr = Специалист (AMR)
@@ -137,8 +138,8 @@ job-name-conscript-ncwl-cadet = Кадет
 
 # conscript-dsm - for PLANETFALL
 
-job-name-conscript-dsm-ship-captain = Великий управляющий Nemesis
-job-name-conscript-dsm-ship-crew = Управляющий Nemesis
+job-name-conscript-dsm-ship-captain = Великий управляющий Немезис
+job-name-conscript-dsm-ship-crew = Управляющий Немезис
 job-name-conscript-dsm-leader = Рыцарь-баннарет
 job-name-conscript-dsm-officer = Рыцарь
 job-name-conscript-dsm-amr = Подопечный (AMR)

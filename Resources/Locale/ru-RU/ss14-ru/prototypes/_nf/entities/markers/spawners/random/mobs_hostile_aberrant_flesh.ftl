@@ -1,3 +1,3 @@
-ent-SpawnMobAberrantFleshExpeditions = спавнер искажённой плоти
-    .suffix = AI, Вражеский, НИО
+ent-SpawnMobAberrantFleshExpeditions = aberrant flesh spawner
+    .suffix = AI, Hostile, RND
     .desc = { ent-MarkerBase.desc }

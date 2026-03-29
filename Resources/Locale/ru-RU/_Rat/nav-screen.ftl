@@ -9,5 +9,3 @@ nav-screen-module-d = Модуль Г
 nav-screen-module-e = Модуль Д
 
 nav-screen-renaming-mode = режим переименования
-
-shuttle-console-maximum-speed = Скорость шаттла

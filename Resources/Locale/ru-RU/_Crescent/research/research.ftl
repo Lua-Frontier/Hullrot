@@ -76,13 +76,13 @@ research-technology-corpavionics = Корпоративная авиация
 research-technology-corpbudgetarms = Бюджетное вооружение
 research-technology-corpmining = Корпоративная добыча ресурсов
 research-technology-corpshuttleweapons = Корпоративное вооружение шаттлов
-research-technology-corphev = Костюм для опасных сред Синогары
-research-technology-corpcorpsec = КорпБез Синогары
-research-technology-corpballistics = Баллистическа Синогары
-research-technology-corpartillery = Тяжёлая артиллерия Синогары
-research-technology-corphighsec = ТяжБез Синогары
-research-technology-corpsmartgun = Пистолеты Синогары
-research-technology-corpsword = Клинки Синогары
+research-technology-corphev = Костюм для опасных сред Шиногары
+research-technology-corpcorpsec = КорпБез Шиногары
+research-technology-corpballistics = Баллистическа Шиногары
+research-technology-corpartillery = Тяжёлая артиллерия Шиногары
+research-technology-corphighsec = ТяжБез Шиногары
+research-technology-corpsmartgun = Пистолеты Шиногары
+research-technology-corpsword = Клинки Шиногары
 
 # civ
 

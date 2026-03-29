@@ -17,6 +17,7 @@ crescent-rank-shi-employee = Сотрудник
 crescent-rank-shi-medtech = Medtech
 # empire
 crescent-rank-baron = Лорд-адмирал
+crescent-rank-regent = Регент
 crescent-rank-adjutant = Адъютант
 crescent-rank-knight = Сэр
 crescent-rank-manatarms = Леви
@@ -47,7 +48,7 @@ crescent-rank-ncwl-cqc = Штурмовик
 crescent-rank-ncwl-grunt = Солдат
 crescent-rank-ncwl-new = Кадет
 crescent-rank-ncwl-doctor = Доктор
-#ncwl
+# ncwl
 crescent-rank-ncwl-mvd-officer = Colonel
 crescent-rank-ncwl-mvd-grunt = Komrade
 crescent-rank-ncwl-faction-leader = Майор
@@ -64,7 +65,7 @@ crescent-rank-ncwl-worker = Товарищ
 # syn
 
 crescent-rank-synadmin = Главарь
-crescent-rank-boss = Лейтенант
+crescent-rank-boss = Сержант
 crescent-rank-patriarch = Патриарх
 crescent-rank-operative = Оперативник
 crescent-rank-op = Кпл.

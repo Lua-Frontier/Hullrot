@@ -1,7 +1,7 @@
 language-Universal-name = Универсальный
 language-Universal-description = Что ты такое?
-language-Psychomantic-name = Psychomantic
-language-Psychomantic-description = Pure meaning, free from the tyranny of primative words and gestures.
+language-Psychomantic-name = Психомантический
+language-Psychomantic-description = Язык чистого смысла, свободный от ограничений слов и жестов.
 language-Bubblish-name = Пузырчатый
 language-Bubblish-description = Язык слаймов. Поскольку он представляет собой смесь булькающих звуков и хлопков, людям очень трудно говорить на нем без использования механических приспособлений.
 language-RootSpeak-name = Песнь корней
@@ -28,11 +28,11 @@ language-TauCetiBasic-description =
     Духовный преемник эсперанто, созданный в 2404 году на Тау Цети цетийскими интеллектуалами.
     Его уникальный, полностью настраиваемый алфавит и структура позволяют говорить на нем даже большинству внеземных видов.
     Это официальный язык Тау Цети, и он набирает популярность в дипломатических кругах и среди универсалистов в человеческом пространстве.
-language-Tradeband-name = Торговый язык
+language-Tradeband-name = Торговый
 language-Tradeband-description =
     Произошедший от латинского и романских языков старой Земли, Торговый язык остается основным языком высшего класса человечества.
     Язык звучит элегантно и хорошо структурирован для большинства ушей. Он остается в популярном использовании у торговцев, дипломатов и тех, кто стремится сохранить частичку романтического прошлого.
-language-Freespeak-name = Свободный язык
+language-Freespeak-name = Свободный
 language-Freespeak-description =
     Язык повстанцев и пограничников, произошедший от различных языков Земли, таких как хинди,
     объединенных в многокорневую мешанину, которая звучит непоследовательно или даже варварски для носителей других языков.
@@ -65,10 +65,10 @@ language-Chittin-name = Хитинидский
 language-Chittin-description =
     Язык, состоящий из щелчков, жужжания и различных резких звуков, напоминающих насекомых.
     Большая часть их речи исходит от усиков, что делает его практически невозможным для изучения теми, у кого их нет.
-language-Xeeplian-name = Xeeplian
+language-Xeeplian-name = Кспилиан
 language-Xeeplian-description =
-    Our language is highly advanced, efficient and to the point.
-    We have taken a liking to mimic some of the inferior lifeforms' babbling in the further pursuit of Our goals.
+    Наш язык высокоразвит, эффективен и предельно точен.
+    Мы взяли за привычку подражать бормотанию низших форм жизни в стремлении к нашим целям.
 
 # Animal Languages
 

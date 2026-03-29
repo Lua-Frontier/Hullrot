@@ -1,8 +1,8 @@
 ent-WeaponCaseLongShuttle = { ent-WeaponCaseLong }
-    .suffix = Оружейная шаттла
+    .suffix = Shuttle Guns
     .desc = { ent-WeaponCaseLong.desc }
 ent-WeaponCaseShortShuttle = { ent-WeaponCaseShort }
-    .suffix = Оружейная шаттла
+    .suffix = Shuttle Guns
     .desc = { ent-WeaponCaseShort.desc }
 ent-ShuttleWeaponLaserGun = { ent-WeaponCaseShortShuttle }
     .desc = { ent-WeaponCaseShortShuttle.desc }

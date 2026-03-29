@@ -1,6 +1,6 @@
-ent-BaseCartridgeAutoPD = base cartridge (autoPD)
+ent-BaseCartridgeAutoPD = базовый картридж (autoPD)
     .desc = { ent-BaseCartridge.desc }
-ent-CartridgeAutoPDBasic = cartridge (autoPD)
+ent-CartridgeAutoPDBasic = картридж (autoPD)
     .desc = { ent-BaseCartridgeAutoPD.desc }
-ent-BulletAutoPD = bullet (autoPD)
+ent-BulletAutoPD = пуля (autoPD)
     .desc = { ent-BaseBullet.desc }

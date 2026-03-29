@@ -1,10 +1,10 @@
-ent-BodyBag = body bag
-    .desc = A plastic bag designed for the storage and transportation of cadavers to stop body decomposition.
+ent-BodyBag = мешок для тела
+    .desc = Пластиковый мешок, предназначенный для хранения и транспортировки трупов, и предовтвращения их гниения.
 ent-BodyBagFolded = мешок для тела
     .desc = Пластиковый мешок, предназначенный для хранения и транспортировки трупов.
     .suffix = Сложенный
 ent-Ash = пепел
     .desc = Раньше это чем-то было, но теперь это не так.
     .suffix = { "" }
-ent-Ectoplasm = ectoplasm
-    .desc = Much less deadly in this form.
+ent-Ectoplasm = эктоплазма
+    .desc = В таком виде она гораздо менее смертельна.

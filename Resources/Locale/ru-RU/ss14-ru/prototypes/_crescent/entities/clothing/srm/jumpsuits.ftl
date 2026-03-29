@@ -1,6 +1,6 @@
-ent-ClothingUniformJumpsuitHunterAcolyte = apprentice's fatigues
-    .desc = Fatigues for fresh-faced Hunter initiates.
-ent-ClothingUniformJumpsuitHunter = hunter's fatigues
-    .desc = Fatigues and a vest belonging to a Hunter. A dreaded sight for many defenseless civilians.
-ent-ClothingUniformJumpsuitOverseer = overseer's clericals
-    .desc = The dignified clericals of the Overseer of the Hunt.
+ent-ClothingUniformJumpsuitHunterAcolyte = рабочая одежда ученика
+    .desc = Рабочая одежда для новичков-охотников.
+ent-ClothingUniformJumpsuitHunter = рабочая одежда охотника
+    .desc = Рабочая одежда и жилет, принадлежащие охотнику. Ужасающее зрелище для многих беззащитных гражданских.
+ent-ClothingUniformJumpsuitOverseer = облачение надзирателя
+    .desc = Достойное облачение надзирателя Охоты.

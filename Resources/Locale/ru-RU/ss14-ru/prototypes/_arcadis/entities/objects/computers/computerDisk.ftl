@@ -1,7 +1,7 @@
-ent-BaseProgramDisk = program disk
+ent-BaseProgramDisk = программный диск
     .desc = { ent-BaseItem.desc }
-ent-ProgramDiskCommunications = program disk
-    .desc = A diskette for usage in a computer.
-    .suffix = Communications
-ent-ProgramDiskUnburnt = program disk
-    .desc = A diskette for usage in a computer.
+ent-ProgramDiskCommunications = программный диск
+    .desc = Дискета для использования в компьютере.
+    .suffix = Связь
+ent-ProgramDiskUnburnt = программный диск
+    .desc = Дискета для использования в компьютере.

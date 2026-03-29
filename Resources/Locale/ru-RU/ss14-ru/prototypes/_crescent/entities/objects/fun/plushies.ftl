@@ -1,8 +1,8 @@
-ent-PlushiePearCat = pear cat plushie
-    .desc = Love blooms.
-ent-PlushieChudjak = chudjak plushie
-    .desc = What the fuck is this?
-ent-PlushieTroll = troll plushie
-    .desc = Feels mischevious.
-ent-PlushieOrange = orange plushie
-    .desc = Annoying asshole.
+ent-PlushiePearCat = плюшевая грушевая кошка
+    .desc = Любви расцветает.
+ent-PlushieChudjak = плюшевый чуджак
+    .desc = Что, чёрт возьми, это такое?
+ent-PlushieTroll = плюшевый тролль
+    .desc = Чувствует себя озорным.
+ent-PlushieOrange = плюшевый апельсин
+    .desc = Раздражает, как и подобает.

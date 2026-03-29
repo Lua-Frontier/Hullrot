@@ -1,2 +1,2 @@
-ent-CrateVehicleJanicart = ящик с уборочной тележкой
-    .desc = Верный конь уборщика.
+ent-CrateVehicleJanicart = janicart crate
+    .desc = The janitor's trusty steed.

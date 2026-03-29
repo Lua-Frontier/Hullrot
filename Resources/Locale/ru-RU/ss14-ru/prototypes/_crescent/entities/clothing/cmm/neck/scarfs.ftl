@@ -1,2 +1,2 @@
-ent-ClothingNeckScarfCMMCloak = minuteman patrolman's raincloak
-    .desc = Keeps the grit and rain off.
+ent-ClothingNeckScarfCMMCloak = дождевик патрульного минитмена
+    .desc = Защищает от грязи и дождя.

@@ -1,2 +1,2 @@
-ent-hydroponicsMakeshiftTray = makeshift hydroponics tray
-    .desc = A cheap hydroponics tray without any fancy technology. Keep a close eye on the spaceweeds, as these trays don't have warning lights!
+ent-hydroponicsMakeshiftTray = самодельный гидропонный лоток
+    .desc = Дешёвый гидропонный лоток без какой‑либо сложной технологии. Следи за космической травой внимательно - у этих лотков нет сигнальных индикаторов!

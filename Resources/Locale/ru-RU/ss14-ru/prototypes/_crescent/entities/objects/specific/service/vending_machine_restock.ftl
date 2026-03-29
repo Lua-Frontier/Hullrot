@@ -1,2 +1,2 @@
-ent-VendingMachineRestockOnion = ONION restock box
-    .desc = Weird stained box, with promise of more ONION gifts.
+ent-VendingMachineRestockOnion = коробка пополнения ONION
+    .desc = Странная запачканная коробка с обещанием большего количества подарков ONION.

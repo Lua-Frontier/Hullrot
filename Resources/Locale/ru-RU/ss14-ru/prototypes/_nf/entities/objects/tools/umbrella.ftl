@@ -1,2 +1,2 @@
-ent-FlashlightUmbrella = зонт
-    .desc = Сохраняет вас сухим и стильным.
+ent-FlashlightUmbrella = umbrella
+    .desc = Keeps you dry AND stylish.

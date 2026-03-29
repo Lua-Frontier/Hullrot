@@ -1,2 +1,2 @@
-ent-EwarDevice = NT-21 'Church Organ' electronic warfare muffler
-    .desc = This device will disrupt any nearby outgoing radio communication as well as suit sensors when activated.
+ent-EwarDevice = НТ-21 "Церковный Орган" глушитель РЭБ
+    .desc = Это устройство нарушит любую исходящую радиосвязь поблизости, а также датчики скафандра при активации.

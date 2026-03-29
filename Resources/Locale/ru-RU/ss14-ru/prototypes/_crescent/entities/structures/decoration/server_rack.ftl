@@ -1,2 +1,2 @@
-ent-DerelictServerRack = server rack
-    .desc = An abandoned server rack.
+ent-DerelictServerRack = серверная стойка
+    .desc = Заброшенная серверная стойка.

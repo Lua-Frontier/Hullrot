@@ -1,6 +1,6 @@
-ent-CrateEngineeringToolbelts = toolbelt crate
-    .desc = The tools you need to get the job done.
-ent-CrateEngineeringPPE = engineering PPE crate
-    .desc = Safety gear to meet regulations.
-ent-CrateEngineeringMetalFoamFast = metal foam grenade crate
-    .desc = Metal foam grenades for quickly patching up holes in your hull.
+ent-CrateEngineeringToolbelts = ящик с поясами для инструментов
+    .desc = Инструменты, необходимые, чтобы выполнить работу.
+ent-CrateEngineeringPPE = ящик инженерных СИЗ
+    .desc = Средства индивидуальной защиты для соблюдения норм безопасности.
+ent-CrateEngineeringMetalFoamFast = ящик металлопеных гранат
+    .desc = Гранаты с металлопеной для быстрого заделывания пробоин в корпусе.

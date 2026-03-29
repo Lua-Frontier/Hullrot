@@ -1,3 +1,3 @@
 ent-LockerMailCarrierFilled = { ent-LockerMailCarrier }
-    .suffix = Заполненный
+    .suffix = Filled
     .desc = { ent-LockerMailCarrier.desc }

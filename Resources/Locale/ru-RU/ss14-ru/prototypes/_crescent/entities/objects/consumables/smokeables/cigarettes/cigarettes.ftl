@@ -8,6 +8,6 @@ ent-CrescentCigaretteBloodeye = { ent-SoakedCigarette }
     .desc = { ent-SoakedCigarette.desc }
 ent-CrescentCigaretteLotophagoiOil = { ent-SoakedCigarette }
     .desc = { ent-SoakedCigarette.desc }
-ent-CrescentCigaretteNanotrasen = cigarette
+ent-CrescentCigaretteNanotrasen = сигарета
     .suffix = nanotrasen
     .desc = { ent-Cigarette.desc }

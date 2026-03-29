@@ -1,8 +1,8 @@
-ent-UnionfallCapturePoint = NT-X8 'Jamrock' deflector emitter (MAIN OBJECTIVE)
-    .desc = An experimental shield emitter thought to be lost to time. Capable of blocking even subnuclear fire without flinching. Once configured to an IFF signature, it activates and allows those signatures in as well.
-ent-UnionfallShipNodeDSM = DSM Main Cloner Database (MAIN OBJECTIVE)
-    .desc = This device holds all the DNA samples and data for cloning. Protect this with your life, because without it you will not get another.
-ent-UnionfallShipNodeNCWL = NCWL Main Cloner Database (MAIN OBJECTIVE)
-    .desc = This device holds all the DNA samples and data for cloning. Protect this with your life, because without it you will not get another.
+ent-UnionfallCapturePoint = НТ-X8 "Джемрок" излучатель дефлектора
+    .desc = Экспериментальный излучатель дефлектора, считавшийся утерянным во времени. Способен блокировать даже подядерный огонь, не дрогнув. После настройки на опознавательный сигнал IFF активируется и пропускает эти сигналы.
+ent-UnionfallShipNodeDSM = БМС основная база данных клонирования
+    .desc = Это устройство содержит все образцы ДНК и данные для клонирования. Защитите его своей жизнью, потому что без него вы не получите другого.
+ent-UnionfallShipNodeNCWL = ЛРНП основная база данных клонирования
+    .desc = Это устройство содержит все образцы ДНК и данные для клонирования. Защитите его своей жизнью, потому что без него вы не получите другого.
 ent-UnionfallAnnouncerEntity = UnionfallAnnouncer
     .desc = Dont look at this

@@ -1,8 +1,8 @@
-ent-ClothingHeadHelmetCMMOrdnanceman = ordnanceman's hardhat
-    .desc = A plastic hardhat for an ammo-bearer.
-ent-ClothingHeadHelmetCMMMachinist = machinist's harhat
-    .desc = A plastic hardhat for working machinists.
-ent-ClothingHeadHelmetHardsuitMidshipman = midshipman's helmet
-    .desc = Spaceworthy protection for your fragile skull. A Minuteman design.
-ent-ClothingHeadHelmetHardsuitCMMPatrol = minuteman's patrolsuit
-    .desc = Spaceworthy protection for your fragile skull. A Minuteman design.
+ent-ClothingHeadHelmetCMMOrdnanceman = каска боеприпасника
+    .desc = Пластиковая каска для носителя боеприпасов.
+ent-ClothingHeadHelmetCMMMachinist = каска механика
+    .desc = Пластиковая каска для работающих механиков.
+ent-ClothingHeadHelmetHardsuitMidshipman = шлем мичмана
+    .desc = Герметичная защита для вашей хрупкой черепной коробки. Дизайн минитменов.
+ent-ClothingHeadHelmetHardsuitCMMPatrol = патрульный шлем минитмена
+    .desc = Герметичная защита для вашей хрупкой черепной коробки. Дизайн минитменов.

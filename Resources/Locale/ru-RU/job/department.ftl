@@ -1,5 +1,5 @@
 department-Logistics = Logistics
-department-Civilian = Сервисный отдел
+department-Civilian = Колониальное ополчение Глисс-Санто
 department-Command = Командование
 department-CentralCommand = Central Command
 department-Engineering = Инженерный отдел

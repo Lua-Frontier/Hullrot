@@ -1,10 +1,10 @@
-ent-ClothingHeadsetAltMercenary = полноразмерная гарнитура наёмника
+ent-ClothingHeadsetAltMercenary = mercenary over-ear headset
     .desc = { ent-ClothingHeadsetAlt.desc }
-ent-ClothingHeadsetAltPilot = полноразмерная гарнитура пилота
+ent-ClothingHeadsetAltPilot = pilot over-ear headset
     .desc = { ent-ClothingHeadsetAlt.desc }
-ent-ClothingHeadsetAltNfsdGreen = полноразмерная гарнитура ДСБФ
+ent-ClothingHeadsetAltNfsdGreen = nfsd over-ear headset
     .desc = { ent-ClothingHeadsetAlt.desc }
-ent-ClothingHeadsetAltNfsdBrown = полноразмерная гарнитура ДСБФ
+ent-ClothingHeadsetAltNfsdBrown = nfsd over-ear headset
     .desc = { ent-ClothingHeadsetAlt.desc }
-ent-ClothingHeadsetAltNfsdCreamandBrown = полноразмерная гарнитура ДСБФ
+ent-ClothingHeadsetAltNfsdCreamandBrown = sheriff's over-ear headset
     .desc = { ent-ClothingHeadsetAlt.desc }

@@ -1,12 +1,12 @@
-ent-RubberStampNCWLCommand = NCWL command stamp
+ent-RubberStampNCWLCommand = печать командования ЛРНП
     .suffix = DO NOT MAP
     .desc = { ent-RubberStampBase.desc }
-ent-RubberStampEmpire = imperial rubber stamp
+ent-RubberStampEmpire = имперская печать
     .suffix = DO NOT MAP
     .desc = { ent-RubberStampBase.desc }
-ent-RubberStampHunters = overseer's rubber stamp
+ent-RubberStampHunters = печать надзирателя
     .suffix = DO NOT MAP
     .desc = { ent-RubberStampBase.desc }
-ent-RubberStampShinohara = executive's rubber stamp
+ent-RubberStampShinohara = печать исполнительного директора
     .suffix = DO NOT MAP
     .desc = { ent-RubberStampBase.desc }

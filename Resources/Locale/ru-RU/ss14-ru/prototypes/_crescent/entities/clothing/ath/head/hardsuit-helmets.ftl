@@ -1,2 +1,2 @@
-ent-ClothingHeadHelmetHardsuitAuthorityPanzer = mk.II 'Panzer' hardsuit helmet
-    .desc = A combat hardsuit helmet with internal pressurization systems and an inbuilt tracker system for ballistics.
+ent-ClothingHeadHelmetHardsuitAuthorityPanzer = шлем скафандра mk.II "Панцер"
+    .desc = Боевой шлем скафандра с внутренними системами герметизации и встроенной системой отслеживания баллистики.

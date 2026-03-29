@@ -1,2 +1,2 @@
-ent-BulletPistolEmp = пуля (.35 авто эми)
+ent-BulletPistolEmp = bullet (9x19mm PSTF emp)
     .desc = { ent-BaseBulletEmp.desc }

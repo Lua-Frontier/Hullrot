@@ -1,3 +1,3 @@
 ent-DresserStationRepresentativeFilled = { ent-Dresser }
-    .suffix = Заполненный, Представитель Фронтира
+    .suffix = Filled, Station Representative
     .desc = { ent-Dresser.desc }

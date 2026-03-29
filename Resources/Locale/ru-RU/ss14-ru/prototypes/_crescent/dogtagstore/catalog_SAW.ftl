@@ -1,4 +1,4 @@
-ent-SAWDeedLow = deed of delivery
-    .desc = A printed deed of SAWs labour. It provides equivelent of 10 points in SAWs requisitions autopeddler.
-ent-SAWDeedHigh = deed of delivery
-    .desc = A printed deed of SAWs labour. It provides equivelent of 50 points in SAWs requisitions autopeddler.
+ent-SAWDeedLow = свидетельство о доставке
+    .desc = Печатное свидетельство о труде ЛРНП. Предоставляет эквивалент 10 очков в автоматическом торговле реквизициями ЛРНП.
+ent-SAWDeedHigh = свидетельство о доставке
+    .desc = Печатное свидетельство о труде ЛРНП. Предоставляет эквивалент 50 очков в автоматическом торговле реквизициями ЛРНП.

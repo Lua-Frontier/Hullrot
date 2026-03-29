@@ -1,2 +1,2 @@
-ent-OmnimedTool = IPM T-33 medical multitool
-    .desc = A complex, refined medical multitool, designed by Interdyne Pharmaceuticals to speed up operation times, as well as conserve space.
+ent-OmnimedTool = ИПМ Т-33 медицинский мультитул
+    .desc = Сложный, усовершенствованный медицинский мультитул, разработанный Интердайн для ускорения времени операций и экономии пространства.

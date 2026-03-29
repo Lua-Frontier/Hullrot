@@ -1,7 +1,7 @@
 chat-radio-ncwl = Лига
 chat-radio-empire = Имперское командование
 chat-radio-hunter = Шестая штурмовая группа
-chat-radio-shi = Синогара
+chat-radio-shi = Шиногара
 chat-radio-empireciv = Империя
 chat-radio-syndiesaws = Конструкторы
 chat-radio-syndiegorlex = Горлекс

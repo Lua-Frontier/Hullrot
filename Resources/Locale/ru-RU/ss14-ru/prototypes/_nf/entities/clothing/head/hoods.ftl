@@ -1,4 +1,4 @@
-ent-ClothingHeadHatHoodArcadia = капюшон аркадианского пальто
+ent-ClothingHeadHatHoodArcadia = arcadia coat hood
     .desc = { ent-ClothingHeadHatHoodWinterBase.desc }
 ent-ClothingHeadHatHoodBioArmoredSyndicate = bio hood
     .desc = A hood that protects the head and face from biological contaminants. As well as user's identity.

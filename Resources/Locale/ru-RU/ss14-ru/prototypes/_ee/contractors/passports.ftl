@@ -1,5 +1,5 @@
-ent-BasePassport = passport
-    .desc = A passport denoting an individual's nationality and identity.
+ent-BasePassport = паспорт
+    .desc = Документ, удостоверяющий национальность и личность человека.
 ent-BieselPassport = Biesel Republic passport
     .desc = { ent-BasePassport.desc }
 ent-SolPassport = Solarian Alliance passport

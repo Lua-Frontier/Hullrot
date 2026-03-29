@@ -1,2 +1,2 @@
-ent-CartridgeMusket = патрон (мушкет)
-    .desc = Бумажный патрон, используемый для зарядки мушкета.
+ent-CartridgeMusket = cartridge (musket)
+    .desc = A paper musket cartridge used to load a musket.

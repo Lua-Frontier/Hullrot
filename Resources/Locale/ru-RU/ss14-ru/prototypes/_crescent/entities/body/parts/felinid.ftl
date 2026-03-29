@@ -1,4 +1,4 @@
-ent-LeftLegFelinid = left felinid leg
+ent-LeftLegFelinid = левая нога фелинида
     .desc = { ent-LeftLegHuman.desc }
-ent-RightLegFelinid = right felinid leg
+ent-RightLegFelinid = правая нога фелинида
     .desc = { ent-RightLegHuman.desc }

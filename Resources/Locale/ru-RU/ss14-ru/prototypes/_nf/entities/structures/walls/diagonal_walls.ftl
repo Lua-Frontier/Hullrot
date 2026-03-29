@@ -1,11 +1,9 @@
-ent-BaseWallDiagonal = базовая стена
-    .suffix = Диагональ
+ent-BaseWallDiagonal = basewall
+    .suffix = diagonal
     .desc = { ent-BaseStructure.desc }
 ent-N_WallReinforcedDiagonal = reinforced wall
     .desc = { ent-WallReinforced.desc }
-ent-WallWoodDiagonal = деревянная стена
-    .suffix = Диагональ
+ent-WallWoodDiagonal = wood wall
     .desc = { ent-WallWood.desc }
-ent-WallUraniumDiagonal = урановая стена
-    .suffix = Диагональ
+ent-WallUraniumDiagonal = uranium wall
     .desc = { ent-WallUranium.desc }

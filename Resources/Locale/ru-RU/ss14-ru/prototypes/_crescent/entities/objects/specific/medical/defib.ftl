@@ -1,2 +1,2 @@
-ent-DefibrillatorSyndicate = interdyne defibrillator
-    .desc = Doubles as a self-defense weapon against war-crime inclined vagrants.
+ent-DefibrillatorSyndicate = дефибриллятор Interdyne
+    .desc = Так же служит оружием самообороны против склонных к военным преступлениям.

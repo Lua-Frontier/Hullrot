@@ -1,8 +1,8 @@
-ent-MagazinePistolSmartgun = 10-round smart magazine (12mm)
+ent-MagazinePistolSmartgun = 10-зарядный умный магазин (12мм)
     .desc = { ent-BaseMagazinePistol.desc }
-ent-MagazineSmgSmartgun = 20-round smart magazine (12mm)
+ent-MagazineSmgSmartgun = 20-зарядный умный магазин (12мм)
     .desc = { ent-BaseMagazinePistol.desc }
-ent-Bullet12mm = bullet (12mm auto)
+ent-Bullet12mm = пуля (12мм авто)
     .desc = { ent-BaseBullet.desc }
-ent-CartridgePistol12mm = cartridge (12mm)
+ent-CartridgePistol12mm = патрон (12мм)
     .desc = { ent-BaseCartridgePistol.desc }

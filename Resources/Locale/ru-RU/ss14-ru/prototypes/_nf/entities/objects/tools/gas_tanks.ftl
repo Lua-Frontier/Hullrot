@@ -1,2 +1,2 @@
-ent-DoubleEmergencyAirTank = двойной аварийный воздушный баллон
-    .desc = Высококлассный двухбаллонный резервуар аварийного жизнеобеспечения. Вмещает приличное для своих небольших размеров количество воздуха.
+ent-DoubleEmergencyAirTank = double emergency air tank
+    .desc = A high-grade dual-tank emergency life support container. It holds a decent amount of air for it's small size.

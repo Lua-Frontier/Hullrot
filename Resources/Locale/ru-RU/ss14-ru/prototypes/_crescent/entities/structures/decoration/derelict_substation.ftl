@@ -1,4 +1,4 @@
-ent-DerelictSubstation = derelict substation
-    .desc = An abandoned substation lacking proper maintainence. It doesn't seem to function.
-ent-DerelictSubstationRust = rusted derelict substation
-    .desc = An abandoned rusted substation. It doesn't seem to function.
+ent-DerelictSubstation = заброшенная подстанция
+    .desc = Заброшенная подстанция, лишённая надлежащего обслуживания. Похоже, она не функционирует.
+ent-DerelictSubstationRust = заржавевшая заброшенная подстанция
+    .desc = Заброшенная заржавевшая подстанция. Похоже, она не функционирует.

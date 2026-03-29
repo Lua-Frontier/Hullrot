@@ -1,4 +1,4 @@
-ent-BaseFixedShipgun = fixed shipgun
+ent-BaseFixedShipgun = фиксированное корабельное орудие
     .desc = { ent-BaseMachinePowered.desc }
-ent-BaseTurretShipgun = turret shipgun
+ent-BaseTurretShipgun = турельное корабельное орудие
     .desc = { ent-BaseMachinePowered.desc }

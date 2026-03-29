@@ -1,5 +1,5 @@
-ent-WeaponRackBase = стойка для огнестрельного оружия
-    .desc = Хранилище для ускоренных мер по умиротворению.
+ent-WeaponRackBase = gun rack
+    .desc = A storage unit for expedited pacification measures.
 ent-WeaponRackWallmountedBase = { ent-WeaponRackBase }
-    .suffix = Настенное
+    .suffix = Wallmount
     .desc = { ent-WeaponRackBase.desc }

@@ -8,23 +8,23 @@ plant-analyzer-component-toxins = Токсины:
 plant-analyzer-component-pests = Вредители:
 plant-analyzer-component-weeds = Сорняки:
 
-plant-analyzer-component-alive = [color=green]ЖИВ[color]
-plant-analyzer-component-dead = [color=red]МЁРТВ[color]
-plant-analyzer-component-unviable = [color=red]НЕЖИЗНЕСПОСОБНЫЙ[color]
-plant-analyzer-component-mutating = [color=#00ff5f]МУТИРУЕТ[color]
-plant-analyzer-component-kudzu = [color=red]КУДЗУ[color]
+plant-analyzer-component-alive = [color=green]ЖИВ[/color]
+plant-analyzer-component-dead = [color=red]МЁРТВ[/color]
+plant-analyzer-component-unviable = [color=red]НЕЖИЗНЕСПОСОБНЫЙ[/color]
+plant-analyzer-component-mutating = [color=#00ff5f]МУТИРУЕТ[/color]
+plant-analyzer-component-kudzu = [color=red]КУДЗУ[/color]
 
 plant-analyzer-soil = Есть {$count ->
-    [one]некоторый
-    *[other]некоторые
-} not been absorbed.
-plant-analyzer-soil-empty = Этот {$holder} не имеет невпитанных веществ.
+    [one]невпитанное вещество
+    *[other]невпитанные вещества
+}.
+plant-analyzer-soil-empty = В {$holder} нет невпитанных веществ.
 
-plant-analyzer-component-environemt = Этот [color=green]{$seedName}[/color] нуждается в атмосфере с давлением [color=lightblue]{$kpa}kPa ± {$kpaTolerance}kPa[/color], температурой [color=lightsalmon]{$temp}°k ± {$tempTolerance}°k[/color] и уровнем света [color=white]{$lightLevel} ± {$lightTolerance}[/color].
-plant-analyzer-component-environemt-void = Этот [color=green]{$seedName}[/color] должен выращиваться [bolditalic]в вакууме космоса[/bolditalic] при уровне света [color=white]{$lightLevel} ± {$lightTolerance}[/color].
-plant-analyzer-component-environemt-gas = Этот [color=green]{$seedName}[/color] нуждается в атмосфере, которая содержит [bold]{$gases}[/bold], имеет давление [color=lightblue]{$kpa}kPa ± {$kpaTolerance}kPa[/color], температуру [color=lightsalmon]{$temp}°k ± {$tempTolerance}°k[/color] и уровень света [color=white]{$lightLevel} ± {$lightTolerance}[/color].
+plant-analyzer-component-environment = Этот [color=green]{$seedName}[/color] нуждается в атмосфере с давлением [color=lightblue]{$kpa}kPa ± {$kpaTolerance}kPa[/color], температурой [color=lightsalmon]{$temp}°k ± {$tempTolerance}°k[/color] и уровнем света [color=white]{$lightLevel} ± {$lightTolerance}[/color].
+plant-analyzer-component-environment-void = Этот [color=green]{$seedName}[/color] должен выращиваться [bolditalic]в вакууме космоса[/bolditalic] при уровне света [color=white]{$lightLevel} ± {$lightTolerance}[/color].
+plant-analyzer-component-environment-gas = Этот [color=green]{$seedName}[/color] нуждается в атмосфере, которая содержит [bold]{$gases}[/bold], имеет давление [color=lightblue]{$kpa}kPa ± {$kpaTolerance}kPa[/color], температуру [color=lightsalmon]{$temp}°k ± {$tempTolerance}°k[/color] и уровень света [color=white]{$lightLevel} ± {$lightTolerance}[/color].
 
-plant-analyzer-produce-plural = {MAKEPLURAL($thing)}
+plant-analyzer-produce-plural = { $thing }
 plant-analyzer-output = {$yield ->
     [0]{$gasCount ->
         [0]Кажется, единственное, что он делает, это потребляет воду и питательные вещества.
@@ -40,7 +40,7 @@ plant-analyzer-output = {$yield ->
         [0]{$nothing}
         *[other]{$yield ->
             [one]{" "}излучает
-            *[other]{" "}излучать
+            *[other]{" "}излучают
         }{" "}[bold]{$gases}[/bold] и
     }{" "}которые превратятся в{$yield ->
         [one]{" "}{INDEFINITE($firstProduce)} [color=#a4885c]{$produce}[/color]
@@ -54,14 +54,14 @@ plant-analyzer-output = {$yield ->
 
 plant-analyzer-potency-tiny = крошечная
 plant-analyzer-potency-small = маленькая
-plant-analyzer-potency-below-average = ниже среднего
-plant-analyzer-potency-average = средний
-plant-analyzer-potency-above-average = выше среднего
-plant-analyzer-potency-large = довольно большой
-plant-analyzer-potency-huge = огромный
-plant-analyzer-potency-gigantic = гигантский
-plant-analyzer-potency-ludicrous = смехотворно большой
-plant-analyzer-potency-immeasurable = неизмеримо большой
+plant-analyzer-potency-below-average = ниже средней
+plant-analyzer-potency-average = средняя
+plant-analyzer-potency-above-average = выше средней
+plant-analyzer-potency-large = большая
+plant-analyzer-potency-huge = огромная
+plant-analyzer-potency-gigantic = гигантская
+plant-analyzer-potency-ludicrous = чудовищная
+plant-analyzer-potency-immeasurable = колоссальная
 
 plant-analyzer-print = Распечатать
 plant-analyzer-printout-missing = N/A

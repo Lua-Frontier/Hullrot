@@ -1,10 +1,10 @@
-ent-WeaponRevolverArgenti = Аргенти
-    .desc = Револьвер изготовленный компанией Silver Industries. Несмотря на то, что конструкция с расширенным цилиндром довольно древняя, опытный стрелок знает, как им пользоваться. Использует .20 винтовочные патроны.
+ent-WeaponRevolverArgenti = IRM Acolyte .20
+    .desc = A Hunter's beloved sidearm.
 ent-WeaponRevolverArgentiNonlethal = { ent-WeaponRevolverArgenti }
-    .suffix = Травматическое
+    .suffix = Non-lethal
     .desc = { ent-WeaponRevolverArgenti.desc }
 ent-WeaponRevolverDeckardNonlethal = { ent-WeaponRevolverDeckard }
-    .suffix = Травматическое
+    .suffix = Non-lethal
     .desc = { ent-WeaponRevolverDeckard.desc }
 ent-WeaponRevolverArgentiEmpty = { ent-WeaponRevolverArgenti }
     .suffix = Empty

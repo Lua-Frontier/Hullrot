@@ -1,2 +1,2 @@
-ent-PlasteelArmingSword = пласталевый меч
-    .desc = Старинный дизайн, изготовленный с использованием современных материалов и оборудования для очень специфической целевой аудитории.
+ent-PlasteelArmingSword = plasteel arming sword
+    .desc = An ancient design manufactured with modern materials and machines for a very specific target demographic.

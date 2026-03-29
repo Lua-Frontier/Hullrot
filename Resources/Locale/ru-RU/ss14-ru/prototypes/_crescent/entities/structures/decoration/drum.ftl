@@ -1,2 +1,2 @@
-ent-DrumBarrel = burning barrel
-    .desc = A crude burning barrel.
+ent-DrumBarrel = бочка
+    .desc = Грубая горящая бочка.

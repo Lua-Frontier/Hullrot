@@ -1,5 +1,5 @@
-ent-CoolantCartridge = coolant cartridge
-    .desc = A rather dense package. Utilises reaction of Frezon and Nitrogen to rappidly cool whatever machine it's in. Most often used in shuttle armaments.
+ent-CoolantCartridge = охлаждающий картридж
+    .desc = Довольно плотная упаковка. Использует реакцию Фрезона и Азота для быстрого охлаждения любой машины, в которую установлена. Чаще всего используется в вооружении шаттлов.
 ent-CoolantCartridge10 = { ent-CoolantCartridge }
     .suffix = 10
     .desc = { ent-CoolantCartridge.desc }

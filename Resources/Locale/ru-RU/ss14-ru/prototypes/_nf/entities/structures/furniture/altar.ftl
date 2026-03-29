@@ -1,2 +1,2 @@
-ent-AltarMail = почтовый алтарь
+ent-AltarMail = mail altar
     .desc = { ent-AltarConvertFestival.desc }

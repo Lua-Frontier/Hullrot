@@ -1,4 +1,4 @@
-ent-ClothingBeltSyndicateWebbing = hired gun's webbing
-    .desc = Built for Syndicate operators on the field - synthread webbings woven with combat pouches.
-ent-ClothingBeltSyndicateWebbingInterdyne = traumasec officer's webbing
-    .desc = Built for Syndicate operators on the field - synthread webbings woven with combat pouches. Has the TraumaSec colors.
+ent-ClothingBeltSyndicateWebbing = разгрузка наёмника
+    .desc = Создана для операторов Синдиката в поле - разгрузка из синтеткани с боевыми подсумками.
+ent-ClothingBeltSyndicateWebbingInterdyne = разгрузка офицера TraumaSec
+    .desc = Создана для операторов Синдиката в поле - разгрузка из синтеткани с боевыми подсумками. В цветах TraumaSec.

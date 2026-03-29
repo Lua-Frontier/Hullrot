@@ -27,8 +27,8 @@ chat-manager-sender-announcement-wrap-message = [font size=14][bold]Объявл
 
 # For the message in double quotes, the font/color/bold/italic elements are repeated twice, outside the double quotes and inside.
 # The outside elements are for formatting the double quotes, and the inside elements are for formatting the text in speech bubbles ([BubbleContent]).
-chat-manager-entity-say-wrap-message = [bold][BubbleHeader][Name][font size=11][color={$color}][bold]{$language}[/bold][/color][/font]{$entityName}[/Name][/BubbleHeader][/bold] [italic]{$verb}[/italic], "[BubbleContent]{$message}[/BubbleContent]"
-chat-manager-entity-say-bold-wrap-message = [bold][BubbleHeader][Name][font size=11][color={$color}][bold]{$language}[/bold][/color][/font]{$entityName}[/Name][/BubbleHeader][/bold] {$verb}, "[bold][BubbleContent]{$message}[/BubbleContent][/bold]"
+chat-manager-entity-say-wrap-message = [bold][BubbleHeader][Name][font size=11][color={$color}][bold]{$language}[/bold][/color][/font]{$entityName}[/Name][/BubbleHeader][/bold] [italic]{$verb}[/italic], [font="{$fontType}" size={$fontSize}]"[BubbleContent]{$message}[/BubbleContent]"[/font]
+chat-manager-entity-say-bold-wrap-message = [bold][BubbleHeader][Name][font size=11][color={$color}][bold]{$language}[/bold][/color][/font]{$entityName}[/Name][/BubbleHeader][/bold] {$verb}, [font="{$fontType}" size={$fontSize}]"[bold][BubbleContent]{$message}[/BubbleContent][/bold]"[/font]
 
 chat-manager-entity-whisper-wrap-message = [font size=11][italic][BubbleHeader][Name][font size=10][color={$color}][bold]{$language}[/bold][/color][/font]{$entityName}[/Name][/BubbleHeader] шепчет,"[BubbleContent]{$message}[/BubbleContent]"[/italic][/font]
 chat-manager-entity-whisper-unknown-wrap-message = [font size=11][italic][BubbleHeader][font size=10][color={$color}][bold]{$language}[/bold][/color][/font]Некто[/BubbleHeader] шепчет, "[BubbleContent]{$message}[/BubbleContent]"[/italic][/font]

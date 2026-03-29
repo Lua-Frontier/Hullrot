@@ -1,4 +1,4 @@
-ent-DiskBurner = disk burner
-    .desc = Takes a computer circuit board and disk as input. Burns the computer board's program to the disk.
-ent-DiskBurnerMachineCircuitboard = disk burner machine board
+ent-DiskBurner = устройство записи дисков
+    .desc = Принимает плату компьютера и диск. Записывает программу с платы на диск.
+ent-DiskBurnerMachineCircuitboard = плата устройства записи дисков
     .desc = { ent-BaseMachineCircuitboard.desc }

@@ -1,6 +1,6 @@
 ent-WeaponShotgunSawnNonlethal = { ent-WeaponShotgunSawn }
-    .suffix = Травматическое
+    .suffix = Non-lethal
     .desc = { ent-WeaponShotgunSawn.desc }
 ent-WeaponShotgunKammererNonlethal = { ent-WeaponShotgunKammerer }
-    .suffix = Травматическое
+    .suffix = Non-lethal
     .desc = { ent-WeaponShotgunKammerer.desc }

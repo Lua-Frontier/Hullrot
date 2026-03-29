@@ -1,5 +1,5 @@
 ent-Kardashev-MosinNonlethal = { ent-WeaponSniperMosin }
-    .suffix = Травматический
+    .suffix = Non-lethal
     .desc = { ent-WeaponSniperMosin.desc }
-ent-WeaponSniperRepeater = N2524 Повторитель
-    .desc = Гражданское рычажное оружие, популярное среди космических ковбоев за надежность и мощность. Использует патроны .45 магнум.
+ent-WeaponSniperRepeater = N2524 Pattern Repeater
+    .desc = A civilian grade lever action firearm, favored by space cowboys across the Frontier for its reliability and stopping power. Uses 8.3×33mm ammo.

@@ -1,6 +1,6 @@
-ent-BulletFireBolt = огненный снаряд
+ent-BulletFireBolt = fire bolt
     .desc = { ent-BaseBulletTrigger.desc }
-ent-BulletMagicBolt = магический снаряд
+ent-BulletMagicBolt = magic bolt
     .desc = { ent-BaseBulletTrigger.desc }
-ent-BulletBloodCultDarkBolt = кровавый снаряд
+ent-BulletBloodCultDarkBolt = blood bolt
     .desc = { ent-BaseBulletTrigger.desc }

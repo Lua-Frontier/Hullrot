@@ -1,42 +1,42 @@
 book-canticles-romaine =
-    The Canticles of Saint Romaine, Warsworn Saint of War and Sacrifice.
+    Песни Святого Ромейна, Сражениями Закаленного Святого Войны и Жертвы.
     
     
-    Chapter 1. Saint Serraine, the Heartsworn Saint of Peace and Grace.
+    Глава 1. Святая Серрейн, Сердцем Закаленная Святая Грации и Милосердия.
     
-    Wife of Romaine, she was a most graceful noble, the bringer of peace to the edges of the Mandate. Her words, smooth as silk and sweet as honey, forced many a pirate to kneel and surrender, yet every time she found it in her heart to forgive them and gift the privateers a second chance.
-    Yet even such divine innocence could not survive the cruelty of the void. 
-    
-    
-    Chapter 2. The mission in Taypan.
-    
-    Romaine and Serraine, a prominent noble couple, ventured forth into Sector Crescent. Their goal: to make peace with the Taypani Atyrian Pact and to find the Atyrians a place within the Mandate, much like the Unathi monarchs. 
-    Many moderates within the Kaiser’s court supported this notion, in large part due to TAP’s extensive knowledge of Psychics. The talks progressed well till Serraine suddenly fell deathly ill and had to depart, putting the talks on hold. 
-    Imperial doctors were perplexed by the affliction and hypothesized that it was some wretched Atyrian disease which Serraine had caught during the diplomatic mission, possibly released on purpose to strike a blow to the Mandate. 
-    
-    Romaine rushed back towards Terra, hoping that the extensive medical facilities there could cure his beloved wife. Serraine never even made it to her home planet, passing away during the journey. 
-    The entire Mandate justly entered a period of mourning as her remains were buried on the surface of Terra, accompanied by a fitting ceremony that was broadcast throughout Imperial space.
-    Romaine, a steadfast commander of the armed forces, was seen weeping throughout the whole ceremony. The Kaiser canonized Serraine as a Saint for her peace efforts while Romaine entered into seclusion in his orbital habitat. 
+    Жена Ромейна, принесшая мир во все края Мандата, имела лик подобный солнечному ангелу. Не было равных среди знати в изяществе Ее, и красота Ее обращала взоры, захватывая дыхания очарованных детей Империи. Разливались слова Ее сладким медом, успокаивавшим душу и нежной теплотой согревавшим сердца людей. И не мог никто противиться ласке Святой Серрейн, заставлявшей пиратов и головорезов склонять головы в покорении Ее Величеству, и даже тогда каждый раз находила Она место милосердию в сердце своем, прощая отступников и даруя им второй шанс.
+    Но даже святейшая из святых не могла устоять против жестокости пустоты.
     
     
-    Chapter 3. Saint Romaine's crusade.
+    Глава 2. Деяние в Тайпане.
     
-    Once Romaine finally ended his years-long seclusion, he gathered his forces and launched a crusade against all Atyrians. In his blind rage, he began slaughtering the yet unconquered tribes. 
-    The Kaiser could not bring himself to stop his lifelong friend Romaine, so the slaughter continued unimpeded. After satiating his bloodlust, Romaine finally set his eyes on Taypan and the same Atyrians that corrupted his beloved Serraine. He gathered his forces and marched forward. 
-    He was never heard from again, presumed lost to the void.
-    The Kaiser was filled with both sorrow and relief, but in the end, he canonized Romaine as the Saint of War. Millions of soldiers have and will continue to invoke his name in wars to come.
+    Ромейн и Серрейн, прославленные благородные супруги, отважились ступить в Сектор Полумесяц. И подобно Им самим, благородна была задача Их, ибо собирались Они заключить мир с Тайпано-Атирийским Пактом, найти место жителям его в галактиках Империи, как и монархам народа Унатхов.
+    И множество высших чинов при дворе Кайзера поддержали это намерение, во многом ссылаясь на обширные знания Псионики народов Тайпано-Атирийского Пакта. И велись переговоры здраво,  надеявшиеся на с солнечной светлостью будущего для двух народов, пока Святая Серрейн не стала смертельно больна, вынужденная вернуться в родные края.
+    Имперские лекари пребывали в недоумении от недуга, заковавшего ангела Мандата в ложе его, и предположили, что была эта поганая Атирийская зараза, сразившая Серрейн во время ее дипломатической миссии. Множество языков пускали слухи о намеренности болезни, сотворенной иноземцами, подобно кинжалу, вонзившемуся в наше государство с целью ослабить его.
+   
+    И с быстротой сверхновой и спешностью кометы, устремился Ромейн назад к Терре, надеясь на лучшие медицинские учреждения в распоряжении Мандата, надеясь на спасение своей любимой жены. Серрейн так и не вернулась к Ее родной планете, навсегда лишив галактику своего сияния.
+    Вопли и рыдания разносились по всей Империи, пока останки усопшей были обернуты в землю Террианскую, и церемония эта была известна всему космосу – настолько велика была потеря человеческого народа.
+    Святой Ромейн, непоколебимый командующий вооруженных сил, храбрый в бою и твердый в стойке, был сражен наповал во время всей церемонии, и не мог никто утешить горечь рыданий Его. Великий Кайзер объявил Серрейн в касту Святой Грации и Милосердия, ибо отдала жизнь Она во имя мира в Мандате и за его пределы. Ромейн на многие года ушел в уединение своего орбитального ложа.
+
+
+    Глава 3. Кровавый Поход Святого Ромейна.
     
+    Когда окончил затворничество свое Ромейн, собрал Он все свои войска и начал поход на все земли Атирийские. В слепой ярости истреблял Он непокоримые племена и не одаривал никого пощадой.
+    Лояльность Кайзера не позволяла ему остановить друга жизни своего Ромейна, и продолжались беспрепятственно умерщвления целых секторов. И утолив жажду крови свою, обратил взор свой Ромейн на Тайпан и на последний бастион Атирийцев, и предсталась перед глазами жена Его, Святая Серрейн, отданная земле и Солнцу по вине Атирийской. Собрал Он войска свои и маршировал вперед без оглядки.
+    Не слышал никто о Нем с тех пор, и считается, что был Он предан пустоте.
+    С горечью в глазах и облегчением в душе, Кайзер объявил Ромейна Святым Войны. Миллионы ополченцев Империи взывали и продолжать взывать имя Его во всех войнах, что нагрянут на наш народ.
+  
     
-    Chapter 4. The place of lesser species.
+    Глава 4. Место низшим расам.
     
-    The Atyrians are a scourge upon the galaxy, deviant and malign in their nature; their only place within our society is as slaves. 
-    They have tricked us once before, and they shall try to do it again; thus, the Atyrian can only exist under an Imperial's boot, for any freedom given shall be abused in due time.
+    Атириане — бич галактики, извращенные и злобные по своей природе; единственное место для них в нашем обществе — рабство.
+    Они посмели обмануть нас раз, и попытаются сотворить это вновь; потому, существовать дозволено им лишь под Имперским ботинком, ибо любое милосердие к ним будет обращено против нас.
+   
+    Унатхи — есть ничто, кроме как безумные дикари, разделенные в бессчетных клановых войнах и кровопролитии, и таково было предначертано их судьбой. Однако Мандат, в великодушии своем, спас их от неминуемого упадка в хаос и окультурил их.
+    И потому, должны они вечно быть в благодарности и неоплатном долгу перед нами. На удивление хорошими слугами они оказались, продемонстрировав большую покорность миссии покорения Атирийского скота.
+    Но их черты туземцев сохранились и по сей день; и потому, должны они быть нашими покорными слугами, ни больше, ни меньше.
     
-    The Unathi were but savages, divided into clans endlessly slaughtering each other, and that was to be their fate. But the arrival of the Mandate saved them from their descent into destruction and civilized them. 
-    For that, they shall be eternally grateful and in debt to us. They make for surprisingly good servants who have shown great dedication to the subjugation of the Atyrian scourge. 
-    But their tribal aspects persist to this day; thus, they shall continue to be our servants, nothing more, nothing less.
+    Фелиниды — это жалкий пережиток жадности и деградации, которые привели корпорации к собственному краху. Их предки сочли уместным перенять кошачьи черты ради тщеславной похоти.
+    И потому, должны быть фелиниды унижены и регулярно напомнены им об их грязном наследии, дабы другие не решили пойти по тому же пути.
     
-    The felinids are the remnant of the corporate greed and degeneracy that led the corporations to their own demise. Their ancestors saw it fit to adopt feline features for vain appeal.
-    Thus, the felinid must always be shamed and reminded of its dirty heritage, lest others decide to follow the same path. 
-    
-    The Oni were made to be a weapon, a dull weapon for crushing equally dull foes. Their intelligence and purpose are lacking, but they were made a tool for us to use, and that shall be their fate.
+    Они — созданы как оружие, тупое оружие для сокрушения столь же тупых врагов. Им не хватает интеллекта и предназначения, но они были созданы как инструмент для нашего использования, и такова будет их судьба.

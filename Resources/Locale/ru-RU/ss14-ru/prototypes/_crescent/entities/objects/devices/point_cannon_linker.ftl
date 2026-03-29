@@ -1,2 +1,2 @@
-ent-PointCannonLinkerTool = cannon linker
-    .desc = Use in hand to set group name, use on cannons to add them to this group
+ent-PointCannonLinkerTool = связыватель пушек
+    .desc = Используйте в руках для установки имени группы, примените на пушки для добавления их в эту группу

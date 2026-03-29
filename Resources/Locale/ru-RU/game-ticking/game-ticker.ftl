@@ -9,34 +9,31 @@ game-ticker-pause-start = Начало раунда было приостано�
 game-ticker-pause-start-resumed = Отсчет начала раунда возобновлен.
 game-ticker-player-join-game-message = Добро пожаловать на Космическую Станцию 14! Если вы играете впервые, обязательно нажмите ESC на клавиатуре и прочитайте правила игры, а также не бойтесь просить помощи в "Админ помощь".
 game-ticker-get-info-text =
-    Текущий раунд: [color=blue]#{ $roundId }[/color]
-    Текущее количество игроков: [color=blue]{ $playerCount }[/color]
-    Текущая карта: [color=blue]{ $mapName }[/color]
-    Текущий режим игры: [color=blue]{ $gmTitle }[/color]
+    Текущий раунд: [color=#7B68EE]#{ $roundId }[/color]
+    Текущее количество игроков: [color=#7B68EE]{ $playerCount }[/color]
+    Текущий режим игры: [color=#7B68EE]{ $gmTitle }[/color]
 game-ticker-get-info-preround-text =
-    Текущий раунд: [color=blue]#{ $roundId }[/color]
-    Текущее количество игроков: [color=blue]{ $playerCount }[/color] ([color=blue]{ $readyCount }[/color] { $readyCount ->
+    Текущий раунд: [color=#7B68EE]#{ $roundId }[/color]
+    Текущее количество игроков: [color=#7B68EE]{ $playerCount }[/color] ([color=#7B68EE]{ $readyCount }[/color] { $readyCount ->
         [one] готов
        *[other] готовы
     })
-    Текущая карта: [color=blue]{ $mapName }[/color]
-    Текущий режим игры: [color=blue]{ $gmTitle }[/color]
+    Текущий режим игры: [color=#7B68EE]{ $gmTitle }[/color]
 game-ticker-no-map-selected = [color=red]Карта ещё не выбрана![/color]
 game-ticker-player-no-jobs-available-when-joining = При попытке присоединиться к игре ни одной роли не было доступно.
-game-ticker-welcome-to-the-station = Welcome to the station crew, enjoy your stay!
+game-ticker-welcome-to-the-station = Добро пожаловать на Тайпан. Удачи!
 # Displayed in chat to admins when a player joins
 player-join-message = Игрок { $name } зашёл!
 player-first-join-message = Игрок { $name } зашёл на сервер впервые.
 # Displayed in chat to admins when a player leaves
 player-leave-message = Игрок { $name } вышел!
 latejoin-arrival-announcement =
-    { $character } ({ $job }) { GENDER($entity) ->
+    { $character } ({ $job }) { $gender ->
         [male] прибыл
         [female] прибыла
-        [epicene] прибыли
-       *[neuter] прибыло
+       *[other] прибыл
     } на станцию!
-latejoin-arrival-announcement-special = { $job } { $character } on deck!
+latejoin-arrival-announcement-special = { $job } { $character } на борту!
 latejoin-arrival-sender = Станция
 latejoin-arrivals-direction = Вскоре прибудет шаттл, который доставит вас на вашу станцию.
 latejoin-arrivals-direction-time = Шаттл, который доставит вас на станцию, прибудет через { $time }.
@@ -44,6 +41,6 @@ latejoin-arrivals-dumped-from-shuttle = Таинственная сила не �
 latejoin-arrivals-teleport-to-spawn = Таинственная сила телепортирует вас с шаттла прибытия. Удачной смены!
 preset-not-enough-ready-players = Не удалось запустить пресет { $presetName }. Требуется { $minimumPlayers } игроков, но готовы только { $readyPlayersCount }.
 preset-no-one-ready = Не удалось запустить режим { $presetName }. Нет готовых игроков.
-game-run-level-PreRoundLobby = Pre-round lobby
-game-run-level-InRound = In round
-game-run-level-PostRound = Post round
+game-run-level-PreRoundLobby = Предраундовое лобби
+game-run-level-InRound = В раунде
+game-run-level-PostRound = После раунда

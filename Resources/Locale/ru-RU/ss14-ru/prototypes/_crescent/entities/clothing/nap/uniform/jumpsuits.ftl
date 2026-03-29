@@ -1,2 +1,2 @@
-ent-ClothingUniformJumpsuitNAPCombat = american ranger fatigues
-    .desc = the New American Ranger Corps' patented variant of olive drab provides little camouflage or obscuration in space, but harkens back to a time and a homeland that the wearer will one day stand upon once again. There is a long-standing rumour that a black pattern was rejected for infringing upon Imperial decree.
+ent-ClothingUniformJumpsuitNAPCombat = полевая форма американского рейнджера
+    .desc = Запатентованный вариант оливкового цвета Корпуса рейнджеров Новых Американцев обеспечивает слабую маскировку или скрытие в космосе, но отсылает ко времени и родине, на которую носитель однажды снова ступит. Существует давний слух, что чёрный узор был отклонён за нарушение имперского указа.

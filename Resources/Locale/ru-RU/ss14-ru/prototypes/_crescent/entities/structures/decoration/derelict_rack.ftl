@@ -1,2 +1,2 @@
-ent-DerelictRack = server rack controller
-    .desc = An abandoned controller for a server system.
+ent-DerelictRack = контроллер серверной стойки
+    .desc = Заброшенный контроллер для серверной системы.
