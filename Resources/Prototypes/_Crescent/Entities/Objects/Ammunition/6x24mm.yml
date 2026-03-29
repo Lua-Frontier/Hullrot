@@ -12,7 +12,7 @@
   - type: CartridgeAmmo
     proto: Bullet6x24mmCharge
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Ammunition/Casings/charge_casing.rsi
+    sprite: _Lua/Objects/Weapons/Ammunition/Casings/charge_casing.rsi
     layers:
     - state: base
       map: ["enum.AmmoVisualLayers.Base"]
@@ -193,7 +193,7 @@
     containers:
       ballistic-ammo: !type:Container
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Ammunition/Magazine/6x24mm_mag.rsi
+    sprite: _Lua/Objects/Weapons/Ammunition/Magazine/6x24mm_mag.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]

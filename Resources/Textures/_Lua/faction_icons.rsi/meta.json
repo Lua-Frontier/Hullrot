@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "license": "CC-BY-SA-3.0",
+  "copyright": "Taken from https://github.com/tgstation/tgstation/commit/3d049e69fe71a0be2133005e65ea469135d648c8. Harm and disarm heavily modified. Web made by jackfrost (github) for SS14. Eyeclose and Eyeopen by Bhijn and Myr (deathride58 on Github), under CC0.",
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "dsm",
+      "directions": 1
+    },
+    {
+      "name": "ncwl",
+      "directions": 1
+    },
+    {
+      "name": "shi",
+      "directions": 1
+    },
+    {
+      "name": "tfsc",
+      "directions": 1
+    },
+    {
+      "name": "fourfamilies",
+      "directions": 1
+    },
+    {
+      "name": "srm",
+      "directions": 1
+    },
+    {
+      "name": "csa",
+      "directions": 1
+    },
+    {
+      "name": "tsp",
+      "directions": 1
+    }
+  ]
+}

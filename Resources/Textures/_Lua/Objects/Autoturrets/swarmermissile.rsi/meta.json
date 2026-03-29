@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "license": "CC-BY-3.0",
+  "copyright": "Created by kyres1 (discord)",
+  "size": {
+    "x": 96,
+    "y": 96
+  },
+  "states": [
+    {
+      "name": "icon"
+    },
+    {
+      "name": "swarmer"
+    }
+  ]
+}

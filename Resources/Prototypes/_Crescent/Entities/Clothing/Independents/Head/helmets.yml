@@ -7,9 +7,9 @@
   components:
   - type: BreathMask
   - type: Sprite
-    sprite: _Crescent/Clothing/Independents/Head/spacionaut.rsi
+    sprite: _Lua/Clothing/Independents/Head/spacionaut.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/Independents/Head/spacionaut.rsi
+    sprite: _Lua/Clothing/Independents/Head/spacionaut.rsi
   - type: PointLight
     radius: 6
     color: "#98a1ae"
@@ -39,9 +39,9 @@
   components:
   - type: BreathMask
   - type: Sprite
-    sprite: _Crescent/Clothing/Independents/Head/fishbed.rsi
+    sprite: _Lua/Clothing/Independents/Head/fishbed.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/Independents/Head/fishbed.rsi
+    sprite: _Lua/Clothing/Independents/Head/fishbed.rsi
   - type: PointLight
     radius: 6
     color: "#525252"
@@ -71,9 +71,9 @@
   components:
   - type: BreathMask
   - type: Sprite
-    sprite: _Crescent/Clothing/Independents/Head/cenobite.rsi
+    sprite: _Lua/Clothing/Independents/Head/cenobite.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/Independents/Head/cenobite.rsi
+    sprite: _Lua/Clothing/Independents/Head/cenobite.rsi
   - type: PointLight
     radius: 6
     color: "#dac965"
@@ -102,9 +102,9 @@
   description: Spaceworthy protection for your fragile skull. A Northrop-Martin design.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/Independents/Head/fishbed_silver.rsi
+    sprite: _Lua/Clothing/Independents/Head/fishbed_silver.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/Independents/Head/fishbed_silver.rsi
+    sprite: _Lua/Clothing/Independents/Head/fishbed_silver.rsi
   - type: PointLight
     radius: 6
     color: "#9689e8"
@@ -117,9 +117,9 @@
   description: Spaceworthy protection for your fragile skull. A Northrop-Martin design.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/Independents/Head/fishbed_gold.rsi
+    sprite: _Lua/Clothing/Independents/Head/fishbed_gold.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/Independents/Head/fishbed_gold.rsi
+    sprite: _Lua/Clothing/Independents/Head/fishbed_gold.rsi
   - type: PointLight
     radius: 6
     color: "#8176c9"
@@ -132,9 +132,9 @@
   description: Spaceworthy protection for your fragile skull. A Northrop-Martin design.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/Independents/Head/fishbed_colonial.rsi
+    sprite: _Lua/Clothing/Independents/Head/fishbed_colonial.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/Independents/Head/fishbed_colonial.rsi
+    sprite: _Lua/Clothing/Independents/Head/fishbed_colonial.rsi
   - type: PointLight
     radius: 6
     color: "#80ab44"
@@ -147,9 +147,9 @@
   description: Spaceworthy protection for your fragile skull. A Northrop-Martin design.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/Independents/Head/fishbed_nlf.rsi
+    sprite: _Lua/Clothing/Independents/Head/fishbed_nlf.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/Independents/Head/fishbed_nlf.rsi
+    sprite: _Lua/Clothing/Independents/Head/fishbed_nlf.rsi
   - type: PointLight
     radius: 6
     color: "#eeb477"
@@ -162,9 +162,9 @@
   description: Spaceworthy protection for your fragile skull. A Northrop-Martin design.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/Independents/Head/cenobite_verdant.rsi
+    sprite: _Lua/Clothing/Independents/Head/cenobite_verdant.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/Independents/Head/cenobite_verdant.rsi
+    sprite: _Lua/Clothing/Independents/Head/cenobite_verdant.rsi
   - type: PointLight
     radius: 6
     color: "#dac965"
@@ -177,9 +177,9 @@
   description: Spaceworthy protection for your fragile skull. A Northrop-Martin design.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/Independents/Head/cenobite_red.rsi
+    sprite: _Lua/Clothing/Independents/Head/cenobite_red.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/Independents/Head/cenobite_red.rsi
+    sprite: _Lua/Clothing/Independents/Head/cenobite_red.rsi
   - type: PointLight
     radius: 6
     color: "#b20d84"

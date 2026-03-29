@@ -14,7 +14,7 @@
         - CartridgePistolSmart
     capacity: 10
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Ammunition/Magazine/12mm_pistol.rsi
+    sprite: _Lua/Objects/Weapons/Ammunition/Magazine/12mm_pistol.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
@@ -51,7 +51,7 @@
         - CartridgePistolSmart
     capacity: 20
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Ammunition/Magazine/12mm_mag.rsi
+    sprite: _Lua/Objects/Weapons/Ammunition/Magazine/12mm_mag.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]

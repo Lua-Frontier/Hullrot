@@ -193,6 +193,6 @@
   description: A robust rucksack in NAP livery.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/Back/napbackpack.rsi
+    sprite: _Lua/Clothing/Back/napbackpack.rsi
   - type: ExplosionResistance
     damageCoefficient: 0.1

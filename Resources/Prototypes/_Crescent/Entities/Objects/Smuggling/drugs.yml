@@ -5,7 +5,7 @@
   description: A cheap, easily-produced combat stimulant, most commonly used by combat pilots. Known to cause the jitters.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Autoinjectors/crash.rsi
+    sprite: _Lua/Objects/Autoinjectors/crash.rsi
     layers:
     - state: medipen
       map: ["enum.SolutionContainerLayers.Fill"]
@@ -34,7 +34,7 @@
   description: A common combat stimulant used to both treat wounds sustained during battle and keep an operative on their feet for the duration of the fight.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Autoinjectors/exile.rsi
+    sprite: _Lua/Objects/Autoinjectors/exile.rsi
     layers:
     - state: medipen
       map: ["enum.SolutionContainerLayers.Fill"]
@@ -68,7 +68,7 @@
   description: A sophisticated, potent combat drug - boasting the refined effects of Exile with none of the drawbacks. A feat of Syndicate chemical engineering.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Autoinjectors/kaiser.rsi
+    sprite: _Lua/Objects/Autoinjectors/kaiser.rsi
     layers:
     - state: medipen
       map: ["enum.SolutionContainerLayers.Fill"]
@@ -102,7 +102,7 @@
   description: A chemical cocktail of healing mechanites intended to localize around damaged parts of the body and repair it on a sub-molecular level.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Autoinjectors/mechanites.rsi
+    sprite: _Lua/Objects/Autoinjectors/mechanites.rsi
     layers:
     - state: medipen
       map: ["enum.SolutionContainerLayers.Fill"]
@@ -134,7 +134,7 @@
   description: A chemical cocktail of combat drugs known to invoke violent tendencies within the user. Blood-eye was originally produced by Shinohara Heavy Industries, but later taken off the shelves after narcotic regulations were put into place.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Autoinjectors/bloodeye.rsi
+    sprite: _Lua/Objects/Autoinjectors/bloodeye.rsi
     layers:
     - state: medipen
       map: ["enum.SolutionContainerLayers.Fill"]
@@ -193,7 +193,7 @@
   description: A versatile lubricant gel. It will increase the efficiency of living tissue, even if against organic will. Sourced from Carthage Industries.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Autoinjectors/jv201.rsi
+    sprite: _Lua/Objects/Autoinjectors/jv201.rsi
     layers:
     - state: medipen
       map: ["enum.SolutionContainerLayers.Fill"]

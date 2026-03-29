@@ -5,14 +5,14 @@
   description: A barely portable anti-materiel rifle, equipped with a long range scope. Fires the large 15.2×169mm round.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/hristov.rsi
+    sprite: _Lua/Objects/Weapons/Guns/hristov.rsi
     layers:
       - state: base
         map: ["enum.GunVisualLayers.Base"]
       - state: mag-0
         map: ["enum.GunVisualLayers.Mag"]
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/hristov.rsi
+    sprite: _Lua/Objects/Weapons/Guns/hristov.rsi
   - type: Telescope
   - type: GunRequiresWield
   - type: Item
@@ -71,14 +71,14 @@
   description: A imperial anti-materiel rifle. Fires the large 15.2×169mm round.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/imperator.rsi
+    sprite: _Lua/Objects/Weapons/Guns/imperator.rsi
     layers:
       - state: base
         map: ["enum.GunVisualLayers.Base"]
       - state: mag-0
         map: ["enum.GunVisualLayers.Mag"]
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/imperator.rsi
+    sprite: _Lua/Objects/Weapons/Guns/imperator.rsi
   - type: GunRequiresWield
   - type: Item
     shape:
@@ -136,14 +136,14 @@
   description: A cheap communard anti-materiel. Fires the large 15.2×169mm round.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/molot.rsi
+    sprite: _Lua/Objects/Weapons/Guns/molot.rsi
     layers:
       - state: base
         map: ["enum.GunVisualLayers.Base"]
       - state: mag-0
         map: ["enum.GunVisualLayers.Mag"]
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/molot.rsi
+    sprite: _Lua/Objects/Weapons/Guns/molot.rsi
   - type: GunRequiresWield
   - type: Item
     shape:
@@ -201,14 +201,14 @@
   description: A unlicensed .60 version of a AK. Its a less simple than a AK-74 but pack a massive 15.2x169mm Pounch.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/ak60.rsi
+    sprite: _Lua/Objects/Weapons/Guns/ak60.rsi
     layers:
       - state: base
         map: ["enum.GunVisualLayers.Base"]
       - state: mag-0
         map: ["enum.GunVisualLayers.Mag"]
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/ak60.rsi
+    sprite: _Lua/Objects/Weapons/Guns/ak60.rsi
   - type: GunRequiresWield
   - type: Item
     shape:
@@ -266,14 +266,14 @@
   description: A high-end AMR by Pang Tai Arms, capable of firing significantly faster than its competitors.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/spear.rsi
+    sprite: _Lua/Objects/Weapons/Guns/spear.rsi
     layers:
       - state: base
         map: ["enum.GunVisualLayers.Base"]
       - state: mag-0
         map: ["enum.GunVisualLayers.Mag"]
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/spear.rsi
+    sprite: _Lua/Objects/Weapons/Guns/spear.rsi
   - type: GunRequiresWield
   - type: HeldSpeedModifier
     walkModifier: 0.9

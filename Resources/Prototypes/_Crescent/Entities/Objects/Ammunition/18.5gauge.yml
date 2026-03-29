@@ -12,7 +12,7 @@
   - type: Item
     size: Small
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Ammunition/Casings/18.5g_shell.rsi
+    sprite: _Lua/Objects/Weapons/Ammunition/Casings/18.5g_shell.rsi
     layers:
     - state: base
       map: ["enum.AmmoVisualLayers.Base"]
@@ -72,7 +72,7 @@
     steps: 7
     zeroVisible: false
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Ammunition/Magazine/18.5g_clip.rsi
+    sprite: _Lua/Objects/Weapons/Ammunition/Magazine/18.5g_clip.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]

@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "license": "CC-BY-SA-3.0",
+  "copyright": "Created by Aleksh#7552 (discord) for space-station-14",
+  "states": [
+    {
+      "name": "meatlayer"
+    },
+    {
+      "name": "meatthin"
+    },
+    {
+      "name": "pustule"
+    },
+    {
+      "name": "meatfloor_0"
+    },
+    {
+      "name": "meatfloor_1"
+    },
+    {
+      "name": "meatfloor_2"
+    },
+    {
+      "name": "meatfloor_3"
+    },
+    {
+      "name": "meatfloor_4"
+    },
+    {
+      "name": "meatfloor_5"
+    },
+    {
+      "name": "meatfloor_6"
+    },
+    {
+      "name": "meatfloor_7"
+    },
+    {
+      "name": "meatfloor_8"
+    },
+    {
+      "name": "flag"
+    },
+    {
+      "name": "meat_directional"
+    },
+    {
+      "name": "meat_underside_directional"
+    }
+  ]
+}

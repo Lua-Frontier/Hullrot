@@ -7,11 +7,11 @@
   description: A softsuit padded with durathread soft plates. Not commonly seen due to its lack of protection but is very durable.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/SHI/OuterClothing/metrocop.rsi
+    sprite: _Lua/Clothing/SHI/OuterClothing/metrocop.rsi
   - type: Clothing
     equipSound: /Audio/_Crescent/Items/Clothing/CombineSuit/puton.ogg
     unequipSound: /Audio/_Crescent/Items/Clothing/CombineSuit/takeoff.ogg
-    sprite: _Crescent/Clothing/SHI/OuterClothing/metrocop.rsi
+    sprite: _Lua/Clothing/SHI/OuterClothing/metrocop.rsi
   - type: PressureProtection
     highPressureMultiplier: 0.5
     lowPressureMultiplier: 1000
@@ -52,11 +52,11 @@
   description: A nearly fully durathread combat hardsuit developed by Wu-Tan Industries, lacks protection but makes it up in its durability. Has glow up strips on the shoulders to prevent frendly fire in dark enviroments,
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/SHI/OuterClothing/combine.rsi
+    sprite: _Lua/Clothing/SHI/OuterClothing/combine.rsi
   - type: Clothing
     equipSound: /Audio/_Crescent/Items/Clothing/CombineSuit/puton.ogg
     unequipSound: /Audio/_Crescent/Items/Clothing/CombineSuit/takeoff.ogg
-    sprite: _Crescent/Clothing/SHI/OuterClothing/combine.rsi
+    sprite: _Lua/Clothing/SHI/OuterClothing/combine.rsi
   - type: PressureProtection
     highPressureMultiplier: 0.5
     lowPressureMultiplier: 1000
@@ -375,9 +375,9 @@
   description: A kevlar-intervowen durathread hauberk padded with ballistic gel, plated with NanoTrasen Ballistic Carapace (tm) on the outside. A wet dream for any corporate goon.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/SHI/OuterClothing/highsec.rsi
+    sprite: _Lua/Clothing/SHI/OuterClothing/highsec.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/SHI/OuterClothing/highsec.rsi
+    sprite: _Lua/Clothing/SHI/OuterClothing/highsec.rsi
   - type: DegradeableArmor
     armorMaxHealth: 1000
     armorType: Metallic
@@ -450,9 +450,9 @@
   description: A heavy overcoat. Bears the Lord Commander's insignia on a label on the inside.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/SHI/OuterClothing/execcoat.rsi
+    sprite: _Lua/Clothing/SHI/OuterClothing/execcoat.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/SHI/OuterClothing/execcoat.rsi
+    sprite: _Lua/Clothing/SHI/OuterClothing/execcoat.rsi
   - type: ExplosionResistance
     damageCoefficient: 0.90
   - type: GroupExamine

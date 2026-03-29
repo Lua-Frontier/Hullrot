@@ -5,9 +5,9 @@
   description: A kevlar-plated nanoweave gas mask. Standard issue for Authoritat soldats.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/ATH/Head/soldathelmet.rsi
+    sprite: _Lua/Clothing/ATH/Head/soldathelmet.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/ATH/Head/soldathelmet.rsi
+    sprite: _Lua/Clothing/ATH/Head/soldathelmet.rsi
   - type: HideLayerClothing
     slots:
     - Hair

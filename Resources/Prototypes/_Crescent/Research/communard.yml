@@ -30,7 +30,7 @@
   id: CommunardRiotGear
   name: research-technology-communard-riotgear
   icon:
-    sprite: _Crescent/Objects/Weapons/Shields/ncwlshieldriot.rsi
+    sprite: _Lua/Objects/Weapons/Shields/ncwlshieldriot.rsi
     state: icon
   discipline: Communard
   tier: 1
@@ -46,7 +46,7 @@
   id: ArmoredCommunardClothes
   name: research-technology-armored-communard-clothes
   icon:
-    sprite: _Crescent/Clothing/NCWL/OuterClothing/opremecoat.rsi
+    sprite: _Lua/Clothing/NCWL/OuterClothing/opremecoat.rsi
     state: icon
   discipline: Communard
   tier: 1
@@ -65,7 +65,7 @@
   id: CommunardInfantry
   name: research-technology-communard-infantry
   icon:
-    sprite: _Crescent/Objects/Weapons/Guns/fal.rsi
+    sprite: _Lua/Objects/Weapons/Guns/fal.rsi
     state: icon
   discipline: Communard
   tier: 1
@@ -155,7 +155,7 @@
   id: CommunardHeavyInfantry
   name: research-technology-communard-heavyinfantry
   icon:
-    sprite: _Crescent/Objects/Weapons/Guns/batanya.rsi
+    sprite: _Lua/Objects/Weapons/Guns/batanya.rsi
     state: icon
   discipline: Communard
   tier: 2
@@ -190,7 +190,7 @@
   id: CommunardGrenadeLauncher
   name: research-technology-communard-grenadelauncher
   icon:
-    sprite: _Crescent/Objects/Weapons/Guns/gm94.rsi
+    sprite: _Lua/Objects/Weapons/Guns/gm94.rsi
     state: icon
   discipline: Communard
   tier: 2
@@ -264,7 +264,7 @@
   id: CommunardVibrokukri
   name: research-technology-communard-vibrokukri
   icon:
-    sprite: _Crescent/Clothing/NCWL/Belt/ncwl_kukri_sheath.rsi
+    sprite: _Lua/Clothing/NCWL/Belt/ncwl_kukri_sheath.rsi
     state: sheath-sabre
   discipline: Communard
   tier: 3

@@ -1,7 +1,7 @@
 - files: ["anomaly_generator.ogg"]
   license: "CC0-1.0"
   copyright: "Half life 2"
-  source: ""
+  source: "https://store.steampowered.com/app/220/HalfLife_2/"
 
 - files: ["crushing.ogg"]
   license: "CC-BY-4.0"
@@ -21,12 +21,12 @@
 - files: ["gas_hiss.ogg"]
   license: "CC-BY-4.0"
   copyright: "Half life 2"
-  source: ""
+  source: "https://store.steampowered.com/app/220/HalfLife_2/"
 
 - files: ["gas_vent.ogg"]
   license: "CC0-1.0"
   copyright: "Half life 2"
-  source: ""
+  source: "https://store.steampowered.com/app/220/HalfLife_2/"
 
 - files: ["flowing_water_open.ogg"]
   license: "CC0-1.0"
@@ -36,7 +36,7 @@
 - files: ["server_fans.ogg"]
   license: "CC-BY-3.0"
   copyright: "Half life 2"
-  source: ""
+  source: "https://store.steampowered.com/app/220/HalfLife_2/"
 
 - files: ["drain.ogg"]
   license: "CC-BY-3.0"

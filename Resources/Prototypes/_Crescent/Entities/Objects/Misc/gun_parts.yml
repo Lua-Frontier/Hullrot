@@ -10,7 +10,7 @@
     shape:
     - 0,0,5,1
   - type: Sprite
-    sprite: _Crescent/Objects/Misc/gun_parts/barrel.rsi
+    sprite: _Lua/Objects/Misc/gun_parts/barrel.rsi
     layers:
     - state: base
   - type: Tag
@@ -30,7 +30,7 @@
     shape:
     - 0,0,2,1
   - type: Sprite
-    sprite: _Crescent/Objects/Misc/gun_parts/misc.rsi
+    sprite: _Lua/Objects/Misc/gun_parts/misc.rsi
     layers:
     - state: base
   - type: Tag
@@ -50,7 +50,7 @@
     shape:
     - 0,0,3,1
   - type: Sprite
-    sprite: _Crescent/Objects/Misc/gun_parts/reicever.rsi
+    sprite: _Lua/Objects/Misc/gun_parts/reicever.rsi
     layers:
     - state: base
   - type: Tag
@@ -70,7 +70,7 @@
     shape:
     - 0,0,0,1
   - type: Sprite
-    sprite: _Crescent/Objects/Misc/gun_parts/blueprint.rsi
+    sprite: _Lua/Objects/Misc/gun_parts/blueprint.rsi
     layers:
     - state: base
   - type: Tag

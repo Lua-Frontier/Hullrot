@@ -5,6 +5,6 @@
   description: Keeps the grit and rain off.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/CMM/Neck/cloak.rsi
+    sprite: _Lua/Clothing/CMM/Neck/cloak.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/CMM/Neck/cloak.rsi
+    sprite: _Lua/Clothing/CMM/Neck/cloak.rsi

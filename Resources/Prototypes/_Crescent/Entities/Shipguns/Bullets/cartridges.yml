@@ -60,7 +60,7 @@
     proto: IdnaTorpedoBullet
     deleteOnSpawn: true
   - type: Sprite
-    sprite: _Crescent/Objects/ShuttleWeapons/torpedop.rsi
+    sprite: _Lua/Objects/ShuttleWeapons/torpedop.rsi
     layers:
     - state: base
       map: ["enum.AmmoVisualLayers.Base"]
@@ -85,7 +85,7 @@
     proto: TorpedoGargoyle
     deleteOnSpawn: true
   - type: Sprite
-    sprite: _Crescent/Objects/ShuttleWeapons/torp.rsi
+    sprite: _Lua/Objects/ShuttleWeapons/torp.rsi
     layers:
     - state: base
       map: ["enum.AmmoVisualLayers.Base"]
@@ -110,7 +110,7 @@
     proto: TorpedoGargoyleEMP
     deleteOnSpawn: true
   - type: Sprite
-    sprite: _Crescent/Objects/ShuttleWeapons/torpemp.rsi
+    sprite: _Lua/Objects/ShuttleWeapons/torpemp.rsi
     layers:
     - state: base
       map: ["enum.AmmoVisualLayers.Base"]
@@ -158,7 +158,7 @@
     proto: BattlemortarProjectile
     deleteOnSpawn: true
   - type: Sprite
-    sprite: _Crescent/Objects/ShuttleWeapons/battleshell.rsi
+    sprite: _Lua/Objects/ShuttleWeapons/battleshell.rsi
     layers:
     - state: base
       map: ["enum.AmmoVisualLayers.Base"]

@@ -5,9 +5,9 @@
   description: A generic ThukkerCorp jumpsuit, attributed to the Thukker family of the Atyrian Pact. This one is meant for salvager pilots.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/FourFamilies/Uniform/techminer.rsi
+    sprite: _Lua/Clothing/FourFamilies/Uniform/techminer.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/FourFamilies/Uniform/techminer.rsi
+    sprite: _Lua/Clothing/FourFamilies/Uniform/techminer.rsi
   - type: StaticPrice
     price: 100
   - type: ReverseEngineering
@@ -25,9 +25,9 @@
   description: A generic ThukkerCorp jumpsuit, attributed to the Thukker family of the Atyrian Pact. This one is meant for research and development analysts.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/FourFamilies/Uniform/tinkereruniform.rsi
+    sprite: _Lua/Clothing/FourFamilies/Uniform/tinkereruniform.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/FourFamilies/Uniform/tinkereruniform.rsi
+    sprite: _Lua/Clothing/FourFamilies/Uniform/tinkereruniform.rsi
   - type: StaticPrice
     price: 100
 
@@ -38,9 +38,9 @@
   description: A generic ThukkerCorp jumpsuit, attributed to the Thukker family of the Atyrian Pact. This one is meant for deck crew and hangard specialists.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/FourFamilies/Uniform/hangartech.rsi
+    sprite: _Lua/Clothing/FourFamilies/Uniform/hangartech.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/FourFamilies/Uniform/hangartech.rsi
+    sprite: _Lua/Clothing/FourFamilies/Uniform/hangartech.rsi
   - type: StaticPrice
     price: 100
 
@@ -71,9 +71,9 @@
   description: A simplistic jumpsuit meant to be worn under heavy armor. Bears the insignia of the Al'Seik family.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/FourFamilies/Uniform/draugruniform.rsi
+    sprite: _Lua/Clothing/FourFamilies/Uniform/draugruniform.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/FourFamilies/Uniform/draugruniform.rsi
+    sprite: _Lua/Clothing/FourFamilies/Uniform/draugruniform.rsi
   - type: StaticPrice
     price: 100
   - type: ReverseEngineering
@@ -131,8 +131,8 @@
   description: An uncomfortable jumpsuit made from natural fibers. Commonly worn by tribal preachers.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/FourFamilies/Uniform/bodysuit.rsi
+    sprite: _Lua/Clothing/FourFamilies/Uniform/bodysuit.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/FourFamilies/Uniform/bodysuit.rsi
+    sprite: _Lua/Clothing/FourFamilies/Uniform/bodysuit.rsi
   - type: StaticPrice
     price: 100

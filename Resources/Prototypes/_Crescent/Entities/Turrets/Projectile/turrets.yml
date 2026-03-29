@@ -8,7 +8,7 @@
   description: A light and reliable gatling system for both point defense and offensive purposes. It's relatively low fire rate negates overheating. It's large magazine doesnt require frequent loading.
   components:
     - type: Sprite
-      sprite: _Crescent/Objects/Turrets/Projectile/minigun.rsi
+      sprite: _Lua/Objects/Turrets/Projectile/minigun.rsi
       drawdepth: Mobs
       layers:
         - state: minigun
@@ -73,7 +73,7 @@
   description: A light and reliable gatling system based on the 20mm 'Screamer' for both point defense and offensive purposes. It's relatively low fire rate negates overheating. It's large magazine doesnt require frequent loading. Upgraded with a heavier barrel for better accuracy and features internal reinforcements.
   components:
     - type: Sprite
-      sprite: _Crescent/Objects/Turrets/Projectile/minigun.rsi
+      sprite: _Lua/Objects/Turrets/Projectile/minigun.rsi
       drawdepth: Mobs
       layers:
         - state: minigun
@@ -138,7 +138,7 @@
   description: A complete retrofit of common 20mm gatling systems, Comes with a heavy duty mount and triple the fire rate. Shipbreakers rejoice for 12 seconds before it needs to be reloaded. Due to its increased size it requires a medium hardpoint.
   components:
     - type: Sprite
-      sprite: _Crescent/Objects/ShuttleWeapons/gatling.rsi
+      sprite: _Lua/Objects/ShuttleWeapons/gatling.rsi
       layers:
       - state: space_artillery
     - type: Destructible
@@ -204,7 +204,7 @@
   description: Based on the 50mm 'Striker' scaled down to be used with small hardpoints. It's fire rate is limited due to recoil and heating. It's magazines are quite compact but need to be reloaded more often.
   components:
     - type: Sprite
-      sprite: _Crescent/Objects/Turrets/Projectile/machinegun.rsi
+      sprite: _Lua/Objects/Turrets/Projectile/machinegun.rsi
       drawdepth: Mobs
       layers:
         - state: machinegun
@@ -270,7 +270,7 @@
   description: Based on the 50mm 'Striker' scaled down to be used with small hardpoints. It's fire rate is limited due to recoil and heating. It's magazines are quite compact but need to be reloaded more often. Upgraded in standard NCWL fashion with better accuracy and durability.
   components:
     - type: Sprite
-      sprite: _Crescent/Objects/Turrets/Projectile/machinegun.rsi
+      sprite: _Lua/Objects/Turrets/Projectile/machinegun.rsi
       drawdepth: Mobs
       layers:
         - state: ncwl-machinegun
@@ -339,7 +339,7 @@
   components:
     - type: MagazineAmmoProvider
     - type: Sprite
-      sprite: _Crescent/Objects/Turrets/Projectile/autocannon.rsi
+      sprite: _Lua/Objects/Turrets/Projectile/autocannon.rsi
       drawdepth: Mobs
       layers:
         - state: autocannon
@@ -406,7 +406,7 @@
   components:
     - type: MagazineAmmoProvider
     - type: Sprite
-      sprite: _Crescent/Objects/Turrets/Projectile/autocannon.rsi
+      sprite: _Lua/Objects/Turrets/Projectile/autocannon.rsi
       drawdepth: Mobs
       layers:
         - state: ncwl-autocannon
@@ -473,7 +473,7 @@
   description: A powerful artillery piece only rivaled by the 300mm. Fitted with a primitive autoloader with a capacity of 3+1 rounds. Due to its accuracy and fast projectile velocity a favourite for some. Comes with an extensive selection of specialised ammo types.
   components:
     - type: Sprite
-      sprite: _Crescent/Objects/Turrets/Projectile/medium_auto.rsi
+      sprite: _Lua/Objects/Turrets/Projectile/medium_auto.rsi
       drawdepth: Mobs
       layers:
         - state: medium_auto
@@ -532,7 +532,7 @@
   description: Three heavy cannons mounted together to form a formitable battery. Capable of dealing with any target that dares to stand on the wrong side of its fire. This version fires in rapid 3 round bursts. Its only drawback is its hunger for ammo.
   components:
     - type: Sprite
-      sprite: _Crescent/Objects/Turrets/Projectile/repeater.rsi
+      sprite: _Lua/Objects/Turrets/Projectile/repeater.rsi
       drawdepth: Mobs
       layers:
         - state: repeater
@@ -623,7 +623,7 @@
       availableModes:
         - FullAuto
     - type: Sprite
-      sprite: _Crescent/Objects/Turrets/Projectile/repeater.rsi
+      sprite: _Lua/Objects/Turrets/Projectile/repeater.rsi
       drawdepth: Mobs
       layers:
         - state: ncwl-repeater
@@ -638,7 +638,7 @@
   description: The largest conventional cannon found in Taypan. There really isnt much more to say about such a glorious piece of heavy weaponry.
   components:
     - type: Sprite
-      sprite: _Crescent/Objects/Turrets/Projectile/howitzer.rsi
+      sprite: _Lua/Objects/Turrets/Projectile/howitzer.rsi
       scale: 1.3,1.3
       drawdepth: Mobs
       layers:
@@ -696,7 +696,7 @@
   description: Even NCWL couldnt improve much on this great piece of artillery. After much research and development the only thing that was upgraded is the breech allowing for a faster sustained fire rate.
   components:
     - type: Sprite
-      sprite: _Crescent/Objects/Turrets/Projectile/howitzer.rsi
+      sprite: _Lua/Objects/Turrets/Projectile/howitzer.rsi
       drawdepth: Mobs
       layers:
         - state: ncwl-howitzer
@@ -740,7 +740,7 @@
   description: An advanced Flak weapon capable of intercepting any and all missiles or smaller vessels. It's proximity shells while low velocity shred through light materials creating a wall of Flak for approximately 20 seconds.
   components:
     - type: Sprite
-      sprite: _Crescent/Objects/Turrets/Projectile/corpus.rsi
+      sprite: _Lua/Objects/Turrets/Projectile/corpus.rsi
       scale: 0.75,0.75
       drawdepth: Mobs
       layers:

@@ -21,7 +21,7 @@
       components:
         - type: VesselIcon
           iffIcon:
-            sprite: _Crescent/ShipIcons/ifficons.rsi
+            sprite: _Lua/ShipIcons/ifficons.rsi
             state: corvette
         - type: StationNameSetup
           mapNameTemplate: 'NT Gamma {1}'

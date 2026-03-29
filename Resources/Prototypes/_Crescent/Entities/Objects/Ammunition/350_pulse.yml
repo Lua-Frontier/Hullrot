@@ -10,7 +10,7 @@
       - CartridgePulse350
       - Cartridge
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Ammunition/Casings/350_pulse.rsi
+    sprite: _Lua/Objects/Weapons/Ammunition/Casings/350_pulse.rsi
     layers:
     - state: base
       map: ["enum.AmmoVisualLayers.Base"]
@@ -37,7 +37,7 @@
         Piercing: 40
   - type: Sprite
     noRot: false
-    sprite: _Crescent/Objects/Weapons/Projectiles/ballistic.rsi
+    sprite: _Lua/Objects/Weapons/Projectiles/ballistic.rsi
     layers:
     - state: pulse
       shader: unshaded
@@ -68,7 +68,7 @@
     steps: 3
     zeroVisible: false
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Ammunition/Magazine/350_mag.rsi
+    sprite: _Lua/Objects/Weapons/Ammunition/Magazine/350_mag.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]

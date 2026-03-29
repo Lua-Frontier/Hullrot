@@ -71,7 +71,7 @@
 # - type: cargoProduct
 #   id: ShuttleGargoyleAmmoShinohara
 #   icon:
-#     sprite: _Crescent/Objects/ShuttleWeapons/torp.rsi
+#     sprite: _Lua/Objects/ShuttleWeapons/torp.rsi
 #     state: base
 #   product: CrateGargoyleAmmo
 #   cost: 10000
@@ -91,7 +91,7 @@
 # - type: cargoProduct
 #   id: ShuttleAssaultMortarAmmoShinohara
 #   icon:
-#     sprite: _Crescent/Objects/ShuttleWeapons/battleshell.rsi
+#     sprite: _Lua/Objects/ShuttleWeapons/battleshell.rsi
 #     state: base
 #   product: CrateAssaultMortarAmmo
 #   cost: 7500
@@ -101,7 +101,7 @@
 # - type: cargoProduct
 #   id: ShuttleIdnaAmmoShinohara
 #   icon:
-#     sprite: _Crescent/Objects/ShuttleWeapons/torpedop.rsi
+#     sprite: _Lua/Objects/ShuttleWeapons/torpedop.rsi
 #     state: base
 #   product: CrateIdnaAmmo
 #   cost: 5000
@@ -231,7 +231,7 @@
 - type: cargoProduct
   id: CrateHammerheadAmmo
   icon:
-    sprite: _Crescent/Objects/Weapons/Ammunition/Casings/hammerhead_rocket.rsi
+    sprite: _Lua/Objects/Weapons/Ammunition/Casings/hammerhead_rocket.rsi
     state: hammer
   product: Crate65mmHammerheadRocket
   cost: 4500
@@ -241,7 +241,7 @@
 - type: cargoProduct
   id: Crate40mmGrenadeAPAmmoShinohara
   icon:
-    sprite: _Crescent/Objects/Weapons/Ammunition/Casings/40mm_grenade.rsi
+    sprite: _Lua/Objects/Weapons/Ammunition/Casings/40mm_grenade.rsi
     state: frag
   product: Crate40mmGrenadeAP
   cost: 4000
@@ -251,7 +251,7 @@
 - type: cargoProduct
   id: Crate40mmGrenadeATAmmoShinohara
   icon:
-    sprite: _Crescent/Objects/Weapons/Ammunition/Casings/40mm_grenade.rsi
+    sprite: _Lua/Objects/Weapons/Ammunition/Casings/40mm_grenade.rsi
     state: hedp
   product: Crate40mmGrenadeAT
   cost: 6000
@@ -261,7 +261,7 @@
 - type: cargoProduct
   id: Crate40mmGrenadeSupAmmoShinohara
   icon:
-    sprite: _Crescent/Objects/Weapons/Ammunition/Casings/40mm_grenade.rsi
+    sprite: _Lua/Objects/Weapons/Ammunition/Casings/40mm_grenade.rsi
     state: smoke
   product: Crate40mmGrenadeSup
   cost: 2000
@@ -271,7 +271,7 @@
 - type: cargoProduct
   id: Crate40mmGrenadeASAmmoShinohara
   icon:
-    sprite: _Crescent/Objects/Weapons/Ammunition/Casings/40mm_grenade.rsi
+    sprite: _Lua/Objects/Weapons/Ammunition/Casings/40mm_grenade.rsi
     state: thermo
   product: Crate40mmGrenadeAS
   cost: 4000

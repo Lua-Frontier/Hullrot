@@ -5,9 +5,9 @@
   description: A high quality pulse sniper rifle developed by Wu-Tan Industries, a Shinohara subsidiary. Loved by for its massive stopping power, Hated for its price. Chambered in .470 PCM.
   components:
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/sr3.rsi
+    sprite: _Lua/Objects/Weapons/Guns/sr3.rsi
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/sr3.rsi
+    sprite: _Lua/Objects/Weapons/Guns/sr3.rsi
     layers:
       - state: base
         map: ["enum.GunVisualLayers.Base"]
@@ -69,13 +69,13 @@
   description: A small-scale railgun developed by Pang Tai Arms. Not commonly seen due to the high price per unit. Chambered in 15mm.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/railgun.rsi
+    sprite: _Lua/Objects/Weapons/Guns/railgun.rsi
     layers:
       - state: base
         map: ["enum.GunVisualLayers.Base"]
   - type: Item
     size: Large
-    sprite: _Crescent/Objects/Weapons/Guns/railgun.rsi
+    sprite: _Lua/Objects/Weapons/Guns/railgun.rsi
     shape:
     - 0,0,5,2
   - type: ItemSlots
@@ -98,7 +98,7 @@
     soundBoltOpened: /Audio/Weapons/Guns/Cock/revolver_cock.ogg
     soundRack: /Audio/Weapons/Guns/Cock/revolver_cock.ogg
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/railgun.rsi
+    sprite: _Lua/Objects/Weapons/Guns/railgun.rsi
     quickEquip: false
     slots:
     - Belt
@@ -125,7 +125,7 @@
   description: A Pang Tai Arms knockoff of the NanoTrasen laser emitter. Originaly built for cutting ships apart during salvage ops, but reporpoused due to its capability of causing extreme burns to biological targets. Has a self charing battery.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/mako.rsi
+    sprite: _Lua/Objects/Weapons/Guns/mako.rsi
     layers:
       - state: base
         map: ["enum.GunVisualLayers.Base"]
@@ -133,7 +133,7 @@
         map: ["enum.GunVisualLayers.Mag"]
         shader: unshaded
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/mako.rsi
+    sprite: _Lua/Objects/Weapons/Guns/mako.rsi
   - type: Appearance
   - type: Wieldable
   - type: GunRequiresWield
@@ -371,7 +371,7 @@
   description: A sick joke by Shinohara higherups. Fires pre-printed job applications with reinforced edges that stick into those hit, causing both emotional and physical damage. Outlawed in most of Taypan.
   components:
     - type: Sprite
-      sprite: _Crescent/Objects/Weapons/Guns/compliance.rsi
+      sprite: _Lua/Objects/Weapons/Guns/compliance.rsi
       layers:
       - state: base
         map: ["enum.GunVisualLayers.Base"]
@@ -415,7 +415,7 @@
   description: Cinched by silver-gold, the dark artificial crystal at the head is both focus and instrument for the psionic, allowing one to channel their powers through it and shift reality with suitable control and training. The titanium shaft is suitably durable for the rigours of combat and, in the extreme, for rudimentary self defence.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Melee/boundlightstaff.rsi
+    sprite: _Lua/Objects/Weapons/Melee/boundlightstaff.rsi
     state: icon
   - type: Clothing
     slots:
@@ -473,7 +473,7 @@
 #    shape:
 #    - 0,0,4,1
 #  - type: Sprite
-#    sprite: _Crescent/Objects/Weapons/Guns/pulssiase.rsi
+#    sprite: _Lua/Objects/Weapons/Guns/pulssiase.rsi
 #    layers:
 #      - state: base
 #        map: ["enum.GunVisualLayers.Base"]
@@ -483,7 +483,7 @@
 #        map: ["enum.GunVisualLayers.MagUnshaded"]
 #        shader: unshaded
 #  - type: Clothing
-#    sprite: _Crescent/Objects/Weapons/Guns/pulssiase.rsi
+#    sprite: _Lua/Objects/Weapons/Guns/pulssiase.rsi
 #    quickEquip: false
 #    slots:
 #    - Back
@@ -507,7 +507,7 @@
   description: A brutal weapon that boils the skin and internal organs of whomever it hits; the scope on top pulls double duty as an eye shield so the operator's eyes aren't fried by firing the thing.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/seethe.rsi
+    sprite: _Lua/Objects/Weapons/Guns/seethe.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
@@ -515,7 +515,7 @@
       map: ["enum.GunVisualLayers.MagUnshaded"]
       shader: unshaded
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/seethe.rsi
+    sprite: _Lua/Objects/Weapons/Guns/seethe.rsi
   - type: GunRequiresWield
   - type: MagazineVisuals
     magState: mag

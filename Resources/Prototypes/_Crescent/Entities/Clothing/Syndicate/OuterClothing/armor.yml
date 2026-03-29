@@ -169,9 +169,9 @@
   description: A modular hardsuit produced by Shinohara Heavy Industries, made for Interdyne TraumaSec officers.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/Syndicate/OuterClothing/trauma_suit.rsi
+    sprite: _Lua/Clothing/Syndicate/OuterClothing/trauma_suit.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/Syndicate/OuterClothing/trauma_suit.rsi
+    sprite: _Lua/Clothing/Syndicate/OuterClothing/trauma_suit.rsi
   - type: PressureProtection
     highPressureMultiplier: 0.5
     lowPressureMultiplier: 1000
@@ -208,9 +208,9 @@
   description: A modular hardsuit produced by Shinohara Heavy Industries, made for Interdyne coordinators.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/Syndicate/OuterClothing/coordinator_suit.rsi
+    sprite: _Lua/Clothing/Syndicate/OuterClothing/coordinator_suit.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/Syndicate/OuterClothing/coordinator_suit.rsi
+    sprite: _Lua/Clothing/Syndicate/OuterClothing/coordinator_suit.rsi
   - type: PressureProtection
     highPressureMultiplier: 0.5
     lowPressureMultiplier: 1000
@@ -249,9 +249,9 @@
   description: A modular Syndicate hardsuit modified for use by the Hedgeknights. Bulky nanokevlar lined with composite gold decor pads the light titanium skeleton, shielding flimsy electronics and the fleshy operator underneath.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/Syndicate/OuterClothing/syndicatesellsword.rsi
+    sprite: _Lua/Clothing/Syndicate/OuterClothing/syndicatesellsword.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/Syndicate/OuterClothing/syndicatesellsword.rsi
+    sprite: _Lua/Clothing/Syndicate/OuterClothing/syndicatesellsword.rsi
   - type: ToggleableClothing
     clothingPrototype: ClothingHeadHelmetHardsuitSyndicateSellsword
   - type: ReverseEngineering # Sector Crescent
@@ -267,9 +267,9 @@
   description: A custom-commissioned Syndicate hardsuit, patterned after Imperial ritter neurosuits and up-armored with Syndicate ceramic plate, lined with composite gold decor padding the light titanium skeleton. Protects flimsy electronics and the fleshy (likely felinid) operator underneath.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/Syndicate/OuterClothing/syndicatefreiritter.rsi
+    sprite: _Lua/Clothing/Syndicate/OuterClothing/syndicatefreiritter.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/Syndicate/OuterClothing/syndicatefreiritter.rsi
+    sprite: _Lua/Clothing/Syndicate/OuterClothing/syndicatefreiritter.rsi
   - type: ToggleableClothing
     clothingPrototype: ClothingHeadHelmetHardsuitSyndicateFreiritter
 
@@ -317,9 +317,9 @@
   description: A Kevlar-interwoven durathread jacket with an Interdyne logo on the back, so you know who your boss is.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/Syndicate/OuterClothing/ipm_jacket.rsi
+    sprite: _Lua/Clothing/Syndicate/OuterClothing/ipm_jacket.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/Syndicate/OuterClothing/ipm_jacket.rsi
+    sprite: _Lua/Clothing/Syndicate/OuterClothing/ipm_jacket.rsi
   - type: DegradeableArmor
     armorMaxHealth: 1000
     armorType: Metallic
@@ -472,9 +472,9 @@
   description: A bulky steel-plate ballistic vest, touched with the colors of interdyne.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/Syndicate/OuterClothing/ipm_vest.rsi
+    sprite: _Lua/Clothing/Syndicate/OuterClothing/ipm_vest.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/Syndicate/OuterClothing/ipm_vest.rsi
+    sprite: _Lua/Clothing/Syndicate/OuterClothing/ipm_vest.rsi
   - type: DegradeableArmor
     armorMaxHealth: 750
     armorType: Metallic

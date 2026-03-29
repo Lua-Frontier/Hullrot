@@ -1,7 +1,7 @@
 - type: cargoProduct
   id: VintorezPangtai
   icon:
-    sprite: _Crescent/Objects/Weapons/Guns/vintorez.rsi
+    sprite: _Lua/Objects/Weapons/Guns/vintorez.rsi
     state: icon
   product: WeaponCaseVintorez
   cost: 12500
@@ -11,7 +11,7 @@
 - type: cargoProduct
   id: PhantomPangtai
   icon:
-    sprite: _Crescent/Objects/Weapons/Guns/asval.rsi
+    sprite: _Lua/Objects/Weapons/Guns/asval.rsi
     state: icon
   product: WeaponCasePhantom
   cost: 20000
@@ -21,7 +21,7 @@
 - type: cargoProduct
   id: GhostPangtai
   icon:
-    sprite: _Crescent/Objects/Weapons/Guns/ghost.rsi
+    sprite: _Lua/Objects/Weapons/Guns/ghost.rsi
     state: icon
   product: WeaponCaseGhost
   cost: 15000
@@ -31,7 +31,7 @@
 - type: cargoProduct
   id: CobraPangtai
   icon:
-    sprite: _Crescent/Objects/Weapons/Guns/cobra.rsi
+    sprite: _Lua/Objects/Weapons/Guns/cobra.rsi
     state: icon
   product: WeaponCaseCobra
   cost: 1500
@@ -41,7 +41,7 @@
 - type: cargoProduct
   id: TakemuraPangtai
   icon:
-    sprite: _Crescent/Objects/Weapons/Guns/takemura.rsi
+    sprite: _Lua/Objects/Weapons/Guns/takemura.rsi
     state: icon
   product: CratePangtaiTakemura
   cost: 25000 #One of the few actually tested rifles. No downsides aside from pricing.
@@ -51,7 +51,7 @@
 - type: cargoProduct
   id: PozharPangtai
   icon:
-    sprite: _Crescent/Objects/Weapons/Guns/pozhar.rsi
+    sprite: _Lua/Objects/Weapons/Guns/pozhar.rsi
     state: icon
   product: CratePangtaiPozhar
   cost: 20000
@@ -61,7 +61,7 @@
 - type: cargoProduct
   id: CratePangtaiVector
   icon:
-    sprite: _Crescent/Objects/Weapons/Guns/vektor.rsi
+    sprite: _Lua/Objects/Weapons/Guns/vektor.rsi
     state: icon
   product: CratePangtaiVektor
   cost: 2500
@@ -71,7 +71,7 @@
 - type: cargoProduct
   id: TwinshotPangtai
   icon:
-    sprite: _Crescent/Objects/Weapons/Guns/twinshot.rsi
+    sprite: _Lua/Objects/Weapons/Guns/twinshot.rsi
     state: icon
   product: CratePangtaiTwinshot
   cost: 15000
@@ -81,7 +81,7 @@
 - type: cargoProduct
   id: KarabinPangtai
   icon:
-    sprite: _Crescent/Objects/Weapons/Guns/karabin.rsi
+    sprite: _Lua/Objects/Weapons/Guns/karabin.rsi
     state: icon
   product: CratePangtaiKarabin
   cost: 15000
@@ -91,7 +91,7 @@
 - type: cargoProduct
   id: LancerPangtai
   icon:
-    sprite: _Crescent/Objects/Weapons/Guns/railgun.rsi
+    sprite: _Lua/Objects/Weapons/Guns/railgun.rsi
     state: icon
   product: CratePangtaiLancer
   cost: 50000 
@@ -101,7 +101,7 @@
 - type: cargoProduct
   id: MakoPangtai
   icon:
-    sprite: _Crescent/Objects/Weapons/Guns/mako.rsi
+    sprite: _Lua/Objects/Weapons/Guns/mako.rsi
     state: icon
   product: CratePangtaiMako
   cost: 30000
@@ -111,7 +111,7 @@
 - type: cargoProduct
   id: HalyadPangtai
   icon:
-    sprite: _Crescent/Objects/Weapons/Guns/halyad.rsi
+    sprite: _Lua/Objects/Weapons/Guns/halyad.rsi
     state: icon
   product: CratePangtaiHalyad
   cost: 35000
@@ -121,7 +121,7 @@
 - type: cargoProduct
   id: SpearPangtai
   icon:
-    sprite: _Crescent/Objects/Weapons/Guns/spear.rsi
+    sprite: _Lua/Objects/Weapons/Guns/spear.rsi
     state: icon
   product: CratePangtaiSpear
   cost: 45000
@@ -131,7 +131,7 @@
 - type: cargoProduct
   id: GustavPangtai
   icon:
-    sprite: _Crescent/Objects/Weapons/Guns/gustav.rsi
+    sprite: _Lua/Objects/Weapons/Guns/gustav.rsi
     state: icon
   product: CratePangtaiGustaf
   cost: 20000
@@ -141,7 +141,7 @@
 - type: cargoProduct
   id: CommandoPangtai
   icon:
-    sprite: _Crescent/Objects/Weapons/Guns/commando.rsi
+    sprite: _Lua/Objects/Weapons/Guns/commando.rsi
     state: icon
   product: CratePangtaiCommando
   cost: 20000
@@ -151,7 +151,7 @@
 - type: cargoProduct
   id: CheshyrePangtai
   icon:
-    sprite: _Crescent/Objects/Weapons/Guns/cheshyre.rsi
+    sprite: _Lua/Objects/Weapons/Guns/cheshyre.rsi
     state: icon
   product: CratePangtaiCheshyre
   cost: 12500
@@ -161,7 +161,7 @@
 - type: cargoProduct
   id: DrozdPangtai
   icon:
-    sprite: _Crescent/Objects/Weapons/Guns/drozd.rsi
+    sprite: _Lua/Objects/Weapons/Guns/drozd.rsi
     state: icon
   product: CratePangtaiDrozd
   cost: 15000
@@ -171,7 +171,7 @@
 - type: cargoProduct
   id: RongyuPangtai
   icon:
-    sprite: _Crescent/Objects/Weapons/Guns/rongyu.rsi
+    sprite: _Lua/Objects/Weapons/Guns/rongyu.rsi
     state: icon
   product: CratePangtaiRongyu
   cost: 2500
@@ -181,7 +181,7 @@
 - type: cargoProduct
   id: ViperPangtai
   icon:
-    sprite: _Crescent/Objects/Weapons/Guns/viper.rsi
+    sprite: _Lua/Objects/Weapons/Guns/viper.rsi
     state: icon
   product: CratePangtaiViper
   cost: 5000
@@ -221,7 +221,7 @@
 - type: cargoProduct
   id: ImpactGrenadePangTai
   icon:
-    sprite: _Crescent/Objects/Weapons/Grenades/pta_impact.rsi
+    sprite: _Lua/Objects/Weapons/Grenades/pta_impact.rsi
     state: base
   product: CratePangtaiImpactGrenade
   cost: 8000
@@ -231,7 +231,7 @@
 - type: cargoProduct
   id: WPSmokeGrenadePangTai
   icon:
-    sprite: _Crescent/Objects/Weapons/Grenades/pta_wp.rsi
+    sprite: _Lua/Objects/Weapons/Grenades/pta_wp.rsi
     state: base
   product: CratePangtaiWPSmokeGrenade
   cost: 8000
@@ -241,7 +241,7 @@
 - type: cargoProduct
   id: ChinalakePangTai
   icon:
-    sprite: _Crescent/Objects/Weapons/Guns/chinalake.rsi
+    sprite: _Lua/Objects/Weapons/Guns/chinalake.rsi
     state: base
   product: CratePangtaiChinalake
   cost: 20000
@@ -251,7 +251,7 @@
 - type: cargoProduct
   id: ChargeRiflePangTai
   icon:
-    sprite: _Crescent/Objects/Weapons/Guns/charge_rifle.rsi
+    sprite: _Lua/Objects/Weapons/Guns/charge_rifle.rsi
     state: base
   product: CratePangtaiChargeRifle
   cost: 35000

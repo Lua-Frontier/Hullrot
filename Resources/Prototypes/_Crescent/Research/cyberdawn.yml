@@ -37,7 +37,7 @@
   id: CyberdawnBasicBallistics
   name: research-technology-cyberdawn-basicballistics
   icon:
-    sprite: _Crescent/Objects/Weapons/Guns/akms.rsi
+    sprite: _Lua/Objects/Weapons/Guns/akms.rsi
     state: base
   discipline: Cyberdawn
   tier: 1
@@ -108,7 +108,7 @@
   id: CyberdawnAdvancedBallistics
   name: research-technology-cyberdawn-advancedballistics
   icon:
-    sprite: _Crescent/Objects/Weapons/Guns/mayflower.rsi
+    sprite: _Lua/Objects/Weapons/Guns/mayflower.rsi
     state: base
   discipline: Cyberdawn
   tier: 2
@@ -268,7 +268,7 @@
   id: CyberdawnAdvancedLaunchers
   name: research-technology-cyberdawn-advancedlaunchers
   icon:
-    sprite: _Crescent/Objects/Weapons/Guns/rpg2.rsi
+    sprite: _Lua/Objects/Weapons/Guns/rpg2.rsi
     state: base
   discipline: Cyberdawn
   tier: 3

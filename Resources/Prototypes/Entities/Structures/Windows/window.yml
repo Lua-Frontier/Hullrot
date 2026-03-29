@@ -21,9 +21,9 @@
       - WeldbotFixableStructure
   - type: Sprite
     drawdepth: WallTops
-    sprite: _Crescent/Structures/newWindow.rsi
+    sprite: _Lua/Structures/newWindow.rsi
   - type: Icon
-    sprite: _Crescent/Structures/newWindow.rsi
+    sprite: _Lua/Structures/newWindow.rsi
     state: windowfull
   - type: Physics
     bodyType: Static

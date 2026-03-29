@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "license": "CC-BY-3.0",
+  "copyright": "Created by kyres1 (discord), modified by Avalon-Proto",
+  "size": {
+    "x": 48,
+    "y": 48
+  },
+  "states": [
+    {
+      "name": "syndie_off"
+    },
+    {
+      "name": "syndie_lethal"
+    },
+    {
+      "name": "syndie_broken"
+    },
+    {
+      "name": "syndie_stun"
+    }
+  ]
+}

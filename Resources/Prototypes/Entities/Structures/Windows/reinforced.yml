@@ -5,9 +5,9 @@
   components:
   - type: Sprite
     drawdepth: WallTops
-    sprite: _Crescent/Structures/newReinfWindow.rsi
+    sprite: _Lua/Structures/newReinfWindow.rsi
   - type: Icon
-    sprite: _Crescent/Structures/newReinfWindow.rsi
+    sprite: _Lua/Structures/newReinfWindow.rsi
     state: windowfull
   - type: Repairable
     fuelCost: 10
@@ -65,9 +65,9 @@
   components:
   - type: Sprite
     drawdepth: WallTops
-    sprite: _Crescent/Structures/newReinfWindow.rsi
+    sprite: _Lua/Structures/newReinfWindow.rsi
   - type: Icon
-    sprite: _Crescent/Structures/newReinfWindow.rsi
+    sprite: _Lua/Structures/newReinfWindow.rsi
     state: windowfull
   - type: Repairable
     fuelCost: 10

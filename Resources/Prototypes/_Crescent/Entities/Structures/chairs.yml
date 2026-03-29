@@ -5,5 +5,5 @@
   description: An ornate seat of power made for the highest power in this System.
   components:
   - type: Sprite
-    sprite: _Crescent/Structures/imperialthrone.rsi
+    sprite: _Lua/Structures/imperialthrone.rsi
     state: throne

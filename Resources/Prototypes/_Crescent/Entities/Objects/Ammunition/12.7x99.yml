@@ -6,7 +6,7 @@
   - type: BallisticAmmoProvider
     proto: CartridgeHeavyRifle
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Ammunition/Magazine/12.7mm_mag.rsi
+    sprite: _Lua/Objects/Weapons/Ammunition/Magazine/12.7mm_mag.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
@@ -64,7 +64,7 @@
     containers:
       ballistic-ammo: !type:Container
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Ammunition/Magazine/12.7mm_box.rsi
+    sprite: _Lua/Objects/Weapons/Ammunition/Magazine/12.7mm_box.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
@@ -180,7 +180,7 @@
     proto: CartridgeHeavyRifle
     capacity: 6
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Ammunition/Magazine/12.7mm_pistol.rsi
+    sprite: _Lua/Objects/Weapons/Ammunition/Magazine/12.7mm_pistol.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]

@@ -24,7 +24,7 @@
   weight: 8
   enabled: true
   icon:
-    sprite: /Textures/_Crescent/faction_icons.rsi
+    sprite: /Textures/_Lua/faction_icons.rsi
     state: dsm
 
 - type: faction
@@ -52,7 +52,7 @@
   weight: 7
   enabled: true
   icon:
-    sprite: /Textures/_Crescent/faction_icons.rsi
+    sprite: /Textures/_Lua/faction_icons.rsi
     state: ncwl
 
 - type: faction
@@ -82,7 +82,7 @@
   weight: 6
   enabled: true
   icon:
-    sprite: /Textures/_Crescent/faction_icons.rsi
+    sprite: /Textures/_Lua/faction_icons.rsi
     state: shi
 
 - type: faction
@@ -111,7 +111,7 @@
   weight: 5
   enabled: true
   icon:
-    sprite: /Textures/_Crescent/faction_icons.rsi
+    sprite: /Textures/_Lua/faction_icons.rsi
     state: tfsc
 
 - type: faction
@@ -133,7 +133,7 @@
   weight: 4
   enabled: false
   icon:
-    sprite: /Textures/_Crescent/faction_icons.rsi
+    sprite: /Textures/_Lua/faction_icons.rsi
     state: fourfamilies
 
 - type: faction
@@ -154,7 +154,7 @@
   weight: 3
   enabled: false
   icon:
-    sprite: /Textures/_Crescent/faction_icons.rsi
+    sprite: /Textures/_Lua/faction_icons.rsi
     state: srm
 
 - type: faction
@@ -185,7 +185,7 @@
   weight: 2
   enabled: false
   icon:
-    sprite: /Textures/_Crescent/faction_icons.rsi
+    sprite: /Textures/_Lua/faction_icons.rsi
     state: csa
 
 - type: faction
@@ -201,5 +201,5 @@
   weight: 1
   enabled: false
   icon:
-    sprite: /Textures/_Crescent/faction_icons.rsi
+    sprite: /Textures/_Lua/faction_icons.rsi
     state: tsp

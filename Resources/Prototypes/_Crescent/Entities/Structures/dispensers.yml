@@ -485,7 +485,7 @@
       TradeGoodOldCyber: SpaceCash15000
       TradeGoodOldParts: SpaceCash15000
   - type: Sprite
-    sprite: _Crescent/Structures/onionchute.rsi
+    sprite: _Lua/Structures/onionchute.rsi
     layers:
     - state: "icon"
   - type: PointLight

@@ -72,9 +72,9 @@
   - type: BreathMask
   - type: EyeProtection
   - type: Sprite
-    sprite: _Crescent/Clothing/Empire/Head/clarizianworker.rsi
+    sprite: _Lua/Clothing/Empire/Head/clarizianworker.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/Empire/Head/clarizianworker.rsi
+    sprite: _Lua/Clothing/Empire/Head/clarizianworker.rsi
   - type: PointLight
     radius: 6
     color: "#c3fffa"
@@ -101,9 +101,9 @@
   components:
   - type: BreathMask
   - type: Sprite
-    sprite: _Crescent/Clothing/Empire/Head/clarizian.rsi
+    sprite: _Lua/Clothing/Empire/Head/clarizian.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/Empire/Head/clarizian.rsi
+    sprite: _Lua/Clothing/Empire/Head/clarizian.rsi
   - type: PointLight
     radius: 6
     color: "#c3fffa"
@@ -193,9 +193,9 @@
   components:
   - type: BreathMask
   - type: Sprite
-    sprite: _Crescent/Clothing/Empire/Head/mandateknight.rsi
+    sprite: _Lua/Clothing/Empire/Head/mandateknight.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/Empire/Head/mandateknight.rsi
+    sprite: _Lua/Clothing/Empire/Head/mandateknight.rsi
   - type: PointLight
     radius: 6
     color: "#ffffed"
@@ -222,9 +222,9 @@
   components:
   - type: BreathMask
   - type: Sprite
-    sprite: _Crescent/Clothing/Empire/Head/mandatejuggernauthelmet.rsi
+    sprite: _Lua/Clothing/Empire/Head/mandatejuggernauthelmet.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/Empire/Head/mandatejuggernauthelmet.rsi
+    sprite: _Lua/Clothing/Empire/Head/mandatejuggernauthelmet.rsi
   - type: PointLight
     radius: 6
     color: "#ffffed"
@@ -249,9 +249,9 @@
   name: imperial coronet hardsuit helmet
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/Empire/Head/mandatecoronet.rsi
+    sprite: _Lua/Clothing/Empire/Head/mandatecoronet.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/Empire/Head/mandatecoronet.rsi
+    sprite: _Lua/Clothing/Empire/Head/mandatecoronet.rsi
 
 - type: entity
   parent: ClothingHeadBase
@@ -260,9 +260,9 @@
   description: A flamboyant, feathered beret with Royal livery.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/Empire/Head/clarizeberet.rsi
+    sprite: _Lua/Clothing/Empire/Head/clarizeberet.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/Empire/Head/clarizeberet.rsi
+    sprite: _Lua/Clothing/Empire/Head/clarizeberet.rsi
   - type: Tag
     tags:
     - ClothMade
@@ -382,9 +382,9 @@
   description: A sturdy helmet to enforce the Queen's will.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/Empire/Head/clarizianhelmet.rsi
+    sprite: _Lua/Clothing/Empire/Head/clarizianhelmet.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/Empire/Head/clarizianhelmet.rsi
+    sprite: _Lua/Clothing/Empire/Head/clarizianhelmet.rsi
   - type: Armor
     modifiers:
       coefficients:
@@ -585,9 +585,9 @@
   components:
   - type: BreathMask
   - type: Sprite
-    sprite: _Crescent/Clothing/Empire/Head/mandatenullweavepsion.rsi
+    sprite: _Lua/Clothing/Empire/Head/mandatenullweavepsion.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/Empire/Head/mandatenullweavepsion.rsi
+    sprite: _Lua/Clothing/Empire/Head/mandatenullweavepsion.rsi
   - type: PointLight
     radius: 6
     color: "#e5d7ac"

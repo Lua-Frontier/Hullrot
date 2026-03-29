@@ -5,9 +5,9 @@
   description: An officer's suit and pants. The name and rank decorations inform you that this belongs to the Kommandant of the 43rd Battlegroup.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/ATH/Uniform/kommandant.rsi
+    sprite: _Lua/Clothing/ATH/Uniform/kommandant.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/ATH/Uniform/kommandant.rsi
+    sprite: _Lua/Clothing/ATH/Uniform/kommandant.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -16,9 +16,9 @@
   description: An officer's suit and pants. The name and rank decorations inform you that this belongs to the Logistitat Marshal of the fortress.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/ATH/Uniform/logistitat.rsi
+    sprite: _Lua/Clothing/ATH/Uniform/logistitat.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/ATH/Uniform/logistitat.rsi
+    sprite: _Lua/Clothing/ATH/Uniform/logistitat.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -27,9 +27,9 @@
   description: An officer's suit and pants. The name and rank decorations inform you that this belongs to the First Steward of the 43rd Battlegroup.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/ATH/Uniform/steward.rsi
+    sprite: _Lua/Clothing/ATH/Uniform/steward.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/ATH/Uniform/steward.rsi
+    sprite: _Lua/Clothing/ATH/Uniform/steward.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -38,9 +38,9 @@
   description: A medical officer's jumpsuit, the coloring and rank insignias belonging to the Oberartz of the 43rd Battlegroup.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/ATH/Uniform/oberartz.rsi
+    sprite: _Lua/Clothing/ATH/Uniform/oberartz.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/ATH/Uniform/oberartz.rsi
+    sprite: _Lua/Clothing/ATH/Uniform/oberartz.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -49,9 +49,9 @@
   description: Pressed military fatigues belonging to a ranking officer.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/ATH/Uniform/leutnant.rsi
+    sprite: _Lua/Clothing/ATH/Uniform/leutnant.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/ATH/Uniform/leutnant.rsi
+    sprite: _Lua/Clothing/ATH/Uniform/leutnant.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -60,9 +60,9 @@
   description: Pressed military fatigues belonging to a combat technician.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/ATH/Uniform/kanoneer.rsi
+    sprite: _Lua/Clothing/ATH/Uniform/kanoneer.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/ATH/Uniform/kanoneer.rsi
+    sprite: _Lua/Clothing/ATH/Uniform/kanoneer.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -71,9 +71,9 @@
   description: Pressed military fatigues belonging to a combat medic.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/ATH/Uniform/sanitat.rsi
+    sprite: _Lua/Clothing/ATH/Uniform/sanitat.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/ATH/Uniform/sanitat.rsi
+    sprite: _Lua/Clothing/ATH/Uniform/sanitat.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -82,9 +82,9 @@
   description: Pressed military fatigues belonging to an infanteer.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/ATH/Uniform/soldat.rsi
+    sprite: _Lua/Clothing/ATH/Uniform/soldat.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/ATH/Uniform/soldat.rsi
+    sprite: _Lua/Clothing/ATH/Uniform/soldat.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -93,9 +93,9 @@
   description: A neat and tidy jumpsuit, sterilized and ready for science.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/ATH/Uniform/chirurgeon.rsi
+    sprite: _Lua/Clothing/ATH/Uniform/chirurgeon.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/ATH/Uniform/chirurgeon.rsi
+    sprite: _Lua/Clothing/ATH/Uniform/chirurgeon.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -104,9 +104,9 @@
   description: A neat and tidy jumpsuit, sterilized and ready for science.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/ATH/Uniform/forscher.rsi
+    sprite: _Lua/Clothing/ATH/Uniform/forscher.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/ATH/Uniform/forscher.rsi
+    sprite: _Lua/Clothing/ATH/Uniform/forscher.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -115,9 +115,9 @@
   description: A neat and tidy suit belonging to a common peddler.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/ATH/Uniform/handels.rsi
+    sprite: _Lua/Clothing/ATH/Uniform/handels.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/ATH/Uniform/handels.rsi
+    sprite: _Lua/Clothing/ATH/Uniform/handels.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -126,9 +126,9 @@
   description: A heavy worker's suit belonging to the foreman of a worker gang.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/ATH/Uniform/vorarbeiter.rsi
+    sprite: _Lua/Clothing/ATH/Uniform/vorarbeiter.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/ATH/Uniform/vorarbeiter.rsi
+    sprite: _Lua/Clothing/ATH/Uniform/vorarbeiter.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -137,6 +137,6 @@
   description: A heavy worker's suit belonging to the common man.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/ATH/Uniform/arbeiter.rsi
+    sprite: _Lua/Clothing/ATH/Uniform/arbeiter.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/ATH/Uniform/arbeiter.rsi
+    sprite: _Lua/Clothing/ATH/Uniform/arbeiter.rsi

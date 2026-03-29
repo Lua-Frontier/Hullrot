@@ -3,28 +3,28 @@
 - type: stack
   id: SteelScrapOre
   name: low-grade metal shards
-  icon: { sprite: /Textures/_Crescent/Objects/Materials/ore.rsi, state: icon-scrap }
+  icon: { sprite: /Textures/_Lua/Objects/Materials/ore.rsi, state: icon-scrap }
   spawn: SteelScrap1
   maxCount: 30
 
 - type: stack
   id: TitaniumScrapOre
   name: high-grade metal shards
-  icon: { sprite: /Textures/_Crescent/Objects/Materials/ore.rsi, state: icon-titaniumscrap }
+  icon: { sprite: /Textures/_Lua/Objects/Materials/ore.rsi, state: icon-titaniumscrap }
   spawn: TitaniumScrap1
   maxCount: 30
 
 - type: stack
   id: RefinedSteelScrapOre
   name: refined steel scrap
-  icon: { sprite: /Textures/_Crescent/Objects/Materials/ore.rsi, state: icon-refinedscrap }
+  icon: { sprite: /Textures/_Lua/Objects/Materials/ore.rsi, state: icon-refinedscrap }
   spawn: RefinedSteelScrap1
   maxCount: 30
 
 - type: stack
   id: RefinedTitaniumScrapOre
   name: refined titanium scrap
-  icon: { sprite: /Textures/_Crescent/Objects/Materials/ore.rsi, state: icon-titta }
+  icon: { sprite: /Textures/_Lua/Objects/Materials/ore.rsi, state: icon-titta }
   spawn: RefinedTitaniumScrap1
   maxCount: 30
 
@@ -54,14 +54,14 @@
 - type: stack
   id: GarbageOre
   name: industrial garbage
-  icon: { sprite: /Textures/_Crescent/Objects/Materials/ore.rsi, state: garbage }
+  icon: { sprite: /Textures/_Lua/Objects/Materials/ore.rsi, state: garbage }
   spawn: GarbageOre1
   maxCount: 30
 
 - type: stack
   id: RefinedGarbageOre
   name: compacted industrial trash
-  icon: { sprite: /Textures/_Crescent/Objects/Materials/ore.rsi, state: refinedgarbage }
+  icon: { sprite: /Textures/_Lua/Objects/Materials/ore.rsi, state: refinedgarbage }
   spawn: RefinedGarbageOre1
   maxCount: 30
 
@@ -70,27 +70,27 @@
 - type: stack
   id: PlasmaIsotope
   name: plasma-9 isotope
-  icon: { sprite: /Textures/_Crescent/Objects/Materials/ore.rsi, state: plasma }
+  icon: { sprite: /Textures/_Lua/Objects/Materials/ore.rsi, state: plasma }
   spawn: PlasmaIsotope1
   maxCount: 30
 
 - type: stack
   id: MechaniteCanister
   name: mechanites
-  icon: { sprite: /Textures/_Crescent/Objects/Materials/ore.rsi, state: mechanites }
+  icon: { sprite: /Textures/_Lua/Objects/Materials/ore.rsi, state: mechanites }
   spawn: MechaniteCanister1
   maxCount: 30
 
 - type: stack
   id: GalineCanister
   name: galine
-  icon: { sprite: /Textures/_Crescent/Objects/Materials/ore.rsi, state: galine5 }
+  icon: { sprite: /Textures/_Lua/Objects/Materials/ore.rsi, state: galine5 }
   spawn: GalineCanister1
   maxCount: 30
 
 - type: stack
   id: PhoronBottle
   name: phoron
-  icon: { sprite: /Textures/_Crescent/Objects/Materials/ore.rsi, state: deactivatedphoron }
+  icon: { sprite: /Textures/_Lua/Objects/Materials/ore.rsi, state: deactivatedphoron }
   spawn: DeactivatedPhoronBottle1
   maxCount: 30

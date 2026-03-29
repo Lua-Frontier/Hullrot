@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "license": "CC-BY-SA-3.0",
+  "copyright": "sprites by kyres1, modified by Avalon-Proto",
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "syndie_off",
+      "directions": 8
+    },
+    {
+      "name": "syndie_lethal"
+    },
+    {
+      "name": "syndie_broken"
+    },
+    {
+      "name": "syndie_stun",
+      "directions": 8
+    }
+  ]
+}

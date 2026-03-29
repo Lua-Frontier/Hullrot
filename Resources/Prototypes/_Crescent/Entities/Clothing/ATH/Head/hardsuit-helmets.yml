@@ -7,9 +7,9 @@
   components:
   - type: BreathMask
   - type: Sprite
-    sprite: _Crescent/Clothing/ATH/Head/panzer.rsi
+    sprite: _Lua/Clothing/ATH/Head/panzer.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/ATH/Head/panzer.rsi
+    sprite: _Lua/Clothing/ATH/Head/panzer.rsi
   - type: PointLight
     radius: 6
     color: "#993232"

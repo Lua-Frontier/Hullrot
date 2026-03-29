@@ -5,6 +5,6 @@
   description: A 'Suzerain' brand sateen capelet. Uncharacteristically posh for a communard officer - until you read the unremovable tag on the inside that reads 'CONFISCATED - EVIDENCE'.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/NCWL/Neck/admincape.rsi
+    sprite: _Lua/Clothing/NCWL/Neck/admincape.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/NCWL/Neck/admincape.rsi
+    sprite: _Lua/Clothing/NCWL/Neck/admincape.rsi

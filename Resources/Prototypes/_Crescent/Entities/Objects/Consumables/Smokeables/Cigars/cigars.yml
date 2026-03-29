@@ -5,7 +5,7 @@
   description: A hand rolled Chengridz cigar, pure leaf and pure status, each draw worth more than most men’s wages.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Consumables/Smokeables/Cigars/importcigar.rsi
+    sprite: _Lua/Objects/Consumables/Smokeables/Cigars/importcigar.rsi
     state: unlit-icon
   - type: Tag
     tags:
@@ -19,7 +19,7 @@
         - ReagentId: Nicotine
           Quantity: 25
   - type: Clothing
-    sprite: _Crescent/Objects/Consumables/Smokeables/Cigars/importcigar.rsi
+    sprite: _Lua/Objects/Consumables/Smokeables/Cigars/importcigar.rsi
     slots: [ mask ]
     equippedPrefix: unlit
   - type: Item
@@ -51,7 +51,7 @@
   description: A cigar fit for the upper crust of Taypan's true natives.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Consumables/Smokeables/Cigars/royalcigar.rsi
+    sprite: _Lua/Objects/Consumables/Smokeables/Cigars/royalcigar.rsi
     state: unlit-icon
   - type: Tag
     tags:
@@ -65,7 +65,7 @@
         - ReagentId: Nicotine
           Quantity: 25
   - type: Clothing
-    sprite: _Crescent/Objects/Consumables/Smokeables/Cigars/royalcigar.rsi
+    sprite: _Lua/Objects/Consumables/Smokeables/Cigars/royalcigar.rsi
     slots: [ mask ]
     equippedPrefix: unlit
   - type: Item
@@ -97,7 +97,7 @@
   description: A black roll of high quality tobacco and... whatever else could be found.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Consumables/Smokeables/Cigars/freeportcigar.rsi
+    sprite: _Lua/Objects/Consumables/Smokeables/Cigars/freeportcigar.rsi
     state: unlit-icon
   - type: Tag
     tags:
@@ -111,7 +111,7 @@
         - ReagentId: Nicotine
           Quantity: 25
   - type: Clothing
-    sprite: _Crescent/Objects/Consumables/Smokeables/Cigars/freeportcigar.rsi
+    sprite: _Lua/Objects/Consumables/Smokeables/Cigars/freeportcigar.rsi
     slots: [ mask ]
     equippedPrefix: unlit
   - type: Item

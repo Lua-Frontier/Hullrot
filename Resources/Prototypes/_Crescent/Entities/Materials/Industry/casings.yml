@@ -1,6 +1,7 @@
 - type: entity
   id: BaseCasing
   parent: BaseItem
+  abstract: true
   name: basecasing
   description: base casing
   components:
@@ -31,7 +32,7 @@
   suffix: Casings
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Industry.rsi
+    sprite: _Lua/Objects/Industry.rsi
     layers:
     - state: infantrybox
   - type: PhysicalComposition
@@ -46,7 +47,7 @@
   suffix: Casings
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Industry.rsi
+    sprite: _Lua/Objects/Industry.rsi
     layers:
     - state: autocannonbox
   - type: PhysicalComposition
@@ -61,7 +62,7 @@
   suffix: Casings
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Industry.rsi
+    sprite: _Lua/Objects/Industry.rsi
     layers:
     - state: artillerybox
   - type: PhysicalComposition
@@ -76,7 +77,7 @@
   suffix: Casings
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Industry.rsi
+    sprite: _Lua/Objects/Industry.rsi
     layers:
     - state: missilebox
   - type: PhysicalComposition

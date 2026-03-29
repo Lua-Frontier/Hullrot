@@ -5,7 +5,7 @@
   abstract: true
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Ammunition/Magazine/.327_mag.rsi
+    sprite: _Lua/Objects/Weapons/Ammunition/Magazine/.327_mag.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]

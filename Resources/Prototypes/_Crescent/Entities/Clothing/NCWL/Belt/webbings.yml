@@ -31,9 +31,9 @@
   description: A simple double holster belt.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/NCWL/Belt/ncwl_double_holster.rsi
+    sprite: _Lua/Clothing/NCWL/Belt/ncwl_double_holster.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/NCWL/Belt/ncwl_double_holster.rsi
+    sprite: _Lua/Clothing/NCWL/Belt/ncwl_double_holster.rsi
   - type: ExplosionResistance
     damageCoefficient: 0.1
 
@@ -44,10 +44,10 @@
   description: A sheath made of synthetic leather meant to hold a Jaeger-design vibro-kukri, decorated in communard colors.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/NCWL/Belt/ncwl_kukri_sheath.rsi
+    sprite: _Lua/Clothing/NCWL/Belt/ncwl_kukri_sheath.rsi
     state: sheath
   - type: Clothing
-    sprite: _Crescent/Clothing/NCWL/Belt/ncwl_kukri_sheath.rsi
+    sprite: _Lua/Clothing/NCWL/Belt/ncwl_kukri_sheath.rsi
   - type: Item
     size: Ginormous
   - type: ItemSlots

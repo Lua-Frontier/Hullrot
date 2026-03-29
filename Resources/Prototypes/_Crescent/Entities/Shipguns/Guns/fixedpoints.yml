@@ -12,7 +12,7 @@
   - type: StaticPrice
     price: 3500
   - type: Sprite
-    sprite: _Crescent/Objects/ShuttleWeapons/lasersmall.rsi
+    sprite: _Lua/Objects/ShuttleWeapons/lasersmall.rsi
     layers:
     - state: lse-400c
     - state: mag-unshaded-9
@@ -146,7 +146,7 @@
   - type: StaticPrice
     price: 3000
   - type: Sprite
-    sprite: _Crescent/Objects/ShuttleWeapons/torpedo.rsi
+    sprite: _Lua/Objects/ShuttleWeapons/torpedo.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
@@ -231,7 +231,7 @@
   - type: StaticPrice
     price: 3000
   - type: Sprite
-    sprite: _Crescent/Objects/ShuttleWeapons/cheapmissile.rsi
+    sprite: _Lua/Objects/ShuttleWeapons/cheapmissile.rsi
     layers:
     - state: rocket
     - state: mag-7
@@ -314,7 +314,7 @@
   - type: StaticPrice
     price: 4500
   - type: Sprite
-    sprite: _Crescent/Objects/ShuttleWeapons/missile.rsi
+    sprite: _Lua/Objects/ShuttleWeapons/missile.rsi
     layers:
     - state: rocket
     - state: mag-7
@@ -407,7 +407,7 @@
   - type: StaticPrice
     price: 8000
   - type: Sprite
-    sprite: _Crescent/Objects/ShuttleWeapons/50cal.rsi
+    sprite: _Lua/Objects/ShuttleWeapons/50cal.rsi
     layers:
     - state: space_artillery
   - type: Machine
@@ -500,7 +500,7 @@
   - type: StaticPrice
     price: 10000
   - type: Sprite
-    sprite: _Crescent/Objects/ShuttleWeapons/bigfuckinglaser.rsi
+    sprite: _Lua/Objects/ShuttleWeapons/bigfuckinglaser.rsi
     layers:
     - state: space_artillery
   - type: Machine
@@ -582,7 +582,7 @@
   - type: StaticPrice
     price: 7500
   - type: Sprite
-    sprite: _Crescent/Objects/ShuttleWeapons/artillery.rsi
+    sprite: _Lua/Objects/ShuttleWeapons/artillery.rsi
     layers:
     - state: artillery
   - type: Machine
@@ -751,7 +751,7 @@
   - type: StaticPrice
     price: 2500
   - type: Sprite
-    sprite: _Crescent/Objects/ShuttleWeapons/vulcan.rsi
+    sprite: _Lua/Objects/ShuttleWeapons/vulcan.rsi
     layers:
     - state: space_artillery
   - type: Machine
@@ -850,7 +850,7 @@
   - type: StaticPrice
     price: 8000
   - type: Sprite
-    sprite: _Crescent/Objects/ShuttleWeapons/gatling.rsi
+    sprite: _Lua/Objects/ShuttleWeapons/gatling.rsi
     layers:
     - state: space_artillery
   - type: Machine
@@ -951,7 +951,7 @@
   - type: StaticPrice
     price: 8000
   - type: Sprite
-    sprite: _Crescent/Objects/ShuttleWeapons/wasp.rsi
+    sprite: _Lua/Objects/ShuttleWeapons/wasp.rsi
     layers:
     - state: base
   - type: Machine

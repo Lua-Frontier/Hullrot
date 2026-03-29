@@ -31,7 +31,7 @@
   id: StoreListing20mmcannon
   name: 20mm 'Screamer' light carbine repeater cannon flatpack
   description: An repeater cannon for small ballistic hardpoint.
-  icon: { sprite: _Crescent/Objects/Turrets/Projectile/machinegun.rsi, state: machinegun }
+  icon: { sprite: _Lua/Objects/Turrets/Projectile/machinegun.rsi, state: machinegun }
   productEntity: WeaponTurretSmallMachinegunFlatpack
   cost:
     ScrapSAW: 15
@@ -42,7 +42,7 @@
   id: StoreListingscoutcannon
   name: 35mm 'Scout' rotary cannon flatpack
   description: An rotary cannon for small ballistic hardpoint.
-  icon: { sprite: _Crescent/Objects/Turrets/Projectile/minigun.rsi, state: minigun }
+  icon: { sprite: _Lua/Objects/Turrets/Projectile/minigun.rsi, state: minigun }
   productEntity: WeaponTurretMediumMachinegunFlatpack
   cost:
     ScrapSAW: 20
@@ -53,7 +53,7 @@
   id: StoreListing50mmautocannon
   name: 50mm 'Striker' light autocannon flatpack
   description: An artillery for medium ballistic hardpoint.
-  icon: { sprite: _Crescent/Objects/Turrets/Projectile/autocannon.rsi, state: autocannon }
+  icon: { sprite: _Lua/Objects/Turrets/Projectile/autocannon.rsi, state: autocannon }
   productEntity: WeaponTurretSmallArtilleryFlatpack
   cost:
     ScrapSAW: 30
@@ -64,7 +64,7 @@
   id: StoreListing120mmcannon
   name: 120mm 'Anvil' mono-barreled artillery cannon flatpack
   description: A artillery for medium ballistic hardpoints
-  icon: { sprite: _Crescent/Objects/Turrets/Projectile/medium_auto.rsi, state: medium_auto}
+  icon: { sprite: _Lua/Objects/Turrets/Projectile/medium_auto.rsi, state: medium_auto}
   productEntity: WeaponTurretMediumArtilleryFlatpack
   cost:
     ScrapSAW: 45
@@ -75,7 +75,7 @@
   id: StoreListing90mmcannon
   name: 90mm 'Resolute' tri-barreled repeater cannon flatpack (DO NOT WORK, SORRY)
   description: A large machine gun for large hardpoints.
-  icon: { sprite: _Crescent/Objects/Turrets/Projectile/repeater.rsi, state: repeater }
+  icon: { sprite: _Lua/Objects/Turrets/Projectile/repeater.rsi, state: repeater }
   productEntity: WeaponTurretLargeMachinegunFlatpack
   cost:
     ScrapSAW: 80
@@ -86,7 +86,7 @@
   id: StoreListing300mmbattery
   name: 300mm 'Leviathan' dual-barreled subnuclear battery flatpack
   description: A large artillery cannon for large hardpoints.
-  icon: { sprite: _Crescent/Objects/Turrets/Projectile/howitzer.rsi, state: howitzer }
+  icon: { sprite: _Lua/Objects/Turrets/Projectile/howitzer.rsi, state: howitzer }
   productEntity: WeaponTurretLargeArtilleryFlatpack
   cost:
     ScrapSAW: 100
@@ -97,7 +97,7 @@
   id: StoreListingSRMMissile
   name: 48mm 'Shortbow' SRM rocket system flatpack
   description: A missile launcher for small missile hardpoints.
-  icon: { sprite: _Crescent/Objects/Turrets/Missile/shortbow.rsi, state: shortbow }
+  icon: { sprite: _Lua/Objects/Turrets/Missile/shortbow.rsi, state: shortbow }
   productEntity: BaseWeaponTurretShortbowFlatpack
   cost:
     ScrapSAW: 25
@@ -108,7 +108,7 @@
   id: StoreListingLMLMissile
   name: 60mm 'Azimuth' rapid-fire LML system flatpack
   description: A missile launcher for small missile hardpoints.
-  icon: { sprite: _Crescent/Objects/Turrets/Missile/azimuth.rsi, state: azimuth }
+  icon: { sprite: _Lua/Objects/Turrets/Missile/azimuth.rsi, state: azimuth }
   productEntity: BaseWeaponTurretAzimuthFlatpack
   cost:
     ScrapSAW: 35
@@ -119,7 +119,7 @@
   id: StoreListingMRMMissile
   name: 95mm 'Arbalest' heavy assault MRM platform flatpack
   description: A missile launcher for Medium missile hardpoints.
-  icon: { sprite: _Crescent/Objects/Turrets/Missile/arbalest.rsi, state: arbalest }
+  icon: { sprite: _Lua/Objects/Turrets/Missile/arbalest.rsi, state: arbalest }
   productEntity: BaseWeaponTurretArbalestFlatpack
   cost:
     ScrapSAW: 40
@@ -187,7 +187,7 @@
   id: StoreListingSAWPlasmaCutter
   name: SAW Plasma Cutter
   description: This compact cutter fires bolts of ionized plasma that cut easily through most surfaces, making it a cheap but versatile mining tool. This one has been haphazardly modified to work as a self defense tool.
-  icon: { sprite: /Textures/_Crescent/Objects/Weapons/plasmacutter.rsi, state: icon }
+  icon: { sprite: /Textures/_Lua/Objects/Weapons/plasmacutter.rsi, state: icon }
   productEntity: WeaponDonorPlasmaCutter
   cost:
     ScrapSAW: 30
@@ -222,7 +222,7 @@
   id: StoreListingSAWHardpointMissileLarge
   name: Salvaged large missile hardpoint
   description: A large missile hardpoint fit for turrets.
-  icon: { sprite: _Crescent/Structures/hardpoints.rsi, state: Large }
+  icon: { sprite: _Lua/Structures/hardpoints.rsi, state: Large }
   productEntity: LargeMissileHardpointFlatpack
   cost:
     ScrapSAW: 44
@@ -233,7 +233,7 @@
   id: StoreListingSAWHardpointBallisticLarge
   name: Salvaged large ballistic hardpoint
   description: A large ballistic hardpoint fit for turrets.
-  icon: { sprite: _Crescent/Structures/hardpoints.rsi, state: Large }
+  icon: { sprite: _Lua/Structures/hardpoints.rsi, state: Large }
   productEntity: LargeBallisticHardpointFlatpack
   cost:
     ScrapSAW: 44
@@ -244,7 +244,7 @@
   id: StoreListingSAWHardpointMissileMedium
   name: Salvaged medium missile hardpoint
   description: A medium missile hardpoint fit for turrets.
-  icon: { sprite: _Crescent/Structures/hardpoints.rsi, state: Medium }
+  icon: { sprite: _Lua/Structures/hardpoints.rsi, state: Medium }
   productEntity: MediumMissileHardpointFlatpack
   cost:
     ScrapSAW: 21
@@ -255,7 +255,7 @@
   id: StoreListingSAWHardpointBallisticMedium
   name: Salvaged medium ballistic hardpoint
   description: A medium ballistic hardpoint fit for turrets.
-  icon: { sprite: _Crescent/Structures/hardpoints.rsi, state: Medium }
+  icon: { sprite: _Lua/Structures/hardpoints.rsi, state: Medium }
   productEntity: MediumBallisticHardpointFlatpack
   cost:
     ScrapSAW: 21
@@ -266,7 +266,7 @@
   id: StoreListingSAWHardpointMissileSmall
   name: Salvaged small missile hardpoint
   description: A small missile hardpoint fit for lower-caliber ship weapons.
-  icon: { sprite: _Crescent/Structures/hardpoints.rsi, state: Small }
+  icon: { sprite: _Lua/Structures/hardpoints.rsi, state: Small }
   productEntity: SmallMissileHardpointFlatpack
   cost:
     ScrapSAW: 12
@@ -277,7 +277,7 @@
   id: StoreListingSAWHardpointBallisticSmall
   name: Salvaged small ballistic hardpoint
   description: A small ballistic hardpoint fit for low-caliber ship weapons such as point-defenses.
-  icon: { sprite: _Crescent/Structures/hardpoints.rsi, state: Small }
+  icon: { sprite: _Lua/Structures/hardpoints.rsi, state: Small }
   productEntity: SmallBallisticHardpointFlatpack
   cost:
     ScrapSAW: 12
@@ -343,7 +343,7 @@
   id: StoreListingSAWHardpoint
   name: Salvaged fixed hardpoint
   description: A true desire of every shipbreaker, provided for you from all the salvaged ships which were hauled to Dochenskaya over the years.
-  icon: { sprite: _Crescent/Structures/fixedHardpoint.rsi, state: large }
+  icon: { sprite: _Lua/Structures/fixedHardpoint.rsi, state: large }
   productEntity: FixedHardpointFlatpack
   cost:
     ScrapSAW: 30

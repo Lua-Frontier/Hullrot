@@ -5,7 +5,7 @@
   description: A compact LMG designed sacrificing damage for size. Made by Cyberdawn for Cyberdawn.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/compakt.rsi
+    sprite: _Lua/Objects/Weapons/Guns/compakt.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
@@ -86,7 +86,7 @@
     soundEmpty:
       path: /Audio/Weapons/Guns/Empty/lmg_empty.ogg
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/compakt.rsi
+    sprite: _Lua/Objects/Weapons/Guns/compakt.rsi
     layers:
     - state: base
       map: [ "enum.GunVisualLayers.Base" ]
@@ -115,12 +115,12 @@
   description: A ripped out .50 cal PDT gun adapted to be fired from the hip. Heavy as shit and innacurate as shit but it turns people into a fine red mist.
   components:
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/conscript.rsi
+    sprite: _Lua/Objects/Weapons/Guns/conscript.rsi
     quickEquip: false
     slots:
     - Back
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/conscript.rsi
+    sprite: _Lua/Objects/Weapons/Guns/conscript.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
@@ -147,7 +147,7 @@
   - type: MultiHandedItem
   - type: AmmoCounter
   - type: Item
-    sprite: _Crescent/Objects/Weapons/Guns/conscript.rsi
+    sprite: _Lua/Objects/Weapons/Guns/conscript.rsi
     size: Ginormous
   - type: ClothingSpeedModifier
     walkModifier: 0.9
@@ -223,7 +223,7 @@
     walkModifier: 0.65
     sprintModifier: 0.65
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/rpd.rsi
+    sprite: _Lua/Objects/Weapons/Guns/rpd.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
@@ -268,7 +268,7 @@
   description: A Imperial LMG with a quick 6 shot burst, chambered in 5.56x45mm Imperial.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/dominion.rsi
+    sprite: _Lua/Objects/Weapons/Guns/dominion.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
@@ -329,7 +329,7 @@
   description: The Großes Maschinengewehr. A long and bulky machinegun made from ancient schematics. Notorious for its high RPM. Chambered in 7.62x51mm.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/mg42.rsi
+    sprite: _Lua/Objects/Weapons/Guns/mg42.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
@@ -382,14 +382,14 @@
   description: The Neo Großes Maschinengewehr. A machinegun revived from ancient schematics and modified for modern combat. Notorious for its high RPM. Chambered in 7.62x51mm.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/koneruusu.rsi
+    sprite: _Lua/Objects/Weapons/Guns/koneruusu.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
     - state: mag-0
       map: ["enum.GunVisualLayers.Mag"]
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/koneruusu.rsi
+    sprite: _Lua/Objects/Weapons/Guns/koneruusu.rsi
     quickEquip: false
     slots:
     - Back
@@ -448,14 +448,14 @@
   description: The next generation weapon system light machine gun produced by Kane & Knox. Packaged with a suppressor. Chambered in 7.62x51mm.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/xm250.rsi
+    sprite: _Lua/Objects/Weapons/Guns/xm250.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
     - state: mag-0
       map: ["enum.GunVisualLayers.Mag"]
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/xm250.rsi
+    sprite: _Lua/Objects/Weapons/Guns/xm250.rsi
     quickEquip: false
     slots:
     - Back

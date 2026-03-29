@@ -1,7 +1,7 @@
 - type: cargoProduct
   id: ShinoharaStationNonLethalGrenade
   icon:
-    sprite: _Crescent/Objects/Weapons/Grenades/shi_flash.rsi
+    sprite: _Lua/Objects/Weapons/Grenades/shi_flash.rsi
     state: base
   product: CrateShinoharaNonLethalGrenade
   cost: 2000
@@ -11,7 +11,7 @@
 - type: cargoProduct
   id: ShinoharaStationMiniGrenade
   icon:
-    sprite: _Crescent/Objects/Weapons/Grenades/shi_mini.rsi
+    sprite: _Lua/Objects/Weapons/Grenades/shi_mini.rsi
     state: base
   product: CrateShinoharaMiniGrenade
   cost: 8000
@@ -21,7 +21,7 @@
 - type: cargoProduct
   id: ShinoharaStationEmpGrenade
   icon:
-    sprite: _Crescent/Objects/Weapons/Grenades/shi_emp.rsi
+    sprite: _Lua/Objects/Weapons/Grenades/shi_emp.rsi
     state: base
   product: CrateShinoharaEmpGrenade
   cost: 4000
@@ -31,7 +31,7 @@
 - type: cargoProduct
   id: ShinoharaStationSmartGrenade
   icon:
-    sprite: _Crescent/Objects/Weapons/Grenades/shi_smart.rsi
+    sprite: _Lua/Objects/Weapons/Grenades/shi_smart.rsi
     state: base
   product: CrateShinoharaSmartGrenade
   cost: 4000

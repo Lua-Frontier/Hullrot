@@ -11,7 +11,7 @@
 # - type: cargoProduct
 #   id: ShuttleIdnaAmmoFreeport
 #   icon:
-#     sprite: _Crescent/Objects/ShuttleWeapons/torpedop.rsi
+#     sprite: _Lua/Objects/ShuttleWeapons/torpedop.rsi
 #     state: base
 #   product: CrateIdnaAmmo
 #   cost: 7500
@@ -81,7 +81,7 @@
 # - type: cargoProduct
 #   id: ShuttleGargoyleFreeport
 #   icon:
-#     sprite: _Crescent/Objects/ShuttleWeapons/torp.rsi
+#     sprite: _Lua/Objects/ShuttleWeapons/torp.rsi
 #     state: base
 #   product: CrateGargoyleAmmo
 #   cost: 7500

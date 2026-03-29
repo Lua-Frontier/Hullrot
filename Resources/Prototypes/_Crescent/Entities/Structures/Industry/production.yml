@@ -5,7 +5,7 @@
   description: An industrial additive manufacturing unit capable of printing magazines, tools, and other small equipment.
   components:
   - type: Sprite
-    sprite: _Crescent/Structures/Industry/additiveworkshop.rsi
+    sprite: _Lua/Structures/Industry/additiveworkshop.rsi
     layers:
     - state: printerinactive
       map: ["enum.LatheVisualLayers.IsRunning"]
@@ -52,7 +52,7 @@
   description: A heavy rotating drum used to grind and incorporate energetic materials into usable propellant.
   components:
   - type: Sprite
-    sprite: _Crescent/Structures/Industry/energeticsmill.rsi
+    sprite: _Lua/Structures/Industry/energeticsmill.rsi
     layers:
     - state: energeticmillinactive
       map: ["enum.LatheVisualLayers.IsRunning"]
@@ -80,7 +80,7 @@
   description: an electrically powered machine that uses electromagnetic induction to generate intense, rapid heat directly within conductive materials, melting them without direct contact.
   components:
   - type: Sprite
-    sprite: _Crescent/Structures/Industry/alloyfurnace.rsi
+    sprite: _Lua/Structures/Industry/alloyfurnace.rsi
     layers:
     - state: alloyfurnaceinactive
       map: ["enum.LatheVisualLayers.IsRunning"]
@@ -112,7 +112,7 @@
   description:
   components:
   - type: Sprite
-    sprite: _Crescent/Structures/Industry/casingpress.rsi
+    sprite: _Lua/Structures/Industry/casingpress.rsi
     layers:
     - state: casingpressinactive
       map: ["enum.LatheVisualLayers.IsRunning"]
@@ -142,7 +142,7 @@
   description: placeholder
   components:
   - type: Sprite
-    sprite: _Crescent/Structures/Industry/heavypress.rsi
+    sprite: _Lua/Structures/Industry/heavypress.rsi
     layers:
     - state: heavypressinactive
       map: ["enum.LatheVisualLayers.IsRunning"]
@@ -171,7 +171,7 @@
   description: placeholder
   components:
   - type: Sprite
-    sprite: _Crescent/Structures/Industry/ammosmall.rsi
+    sprite: _Lua/Structures/Industry/ammosmall.rsi
     layers:
     - state: ammosmallinactive
       map: ["enum.LatheVisualLayers.IsRunning"]
@@ -216,7 +216,7 @@
   description: placeholder
   components:
   - type: Sprite
-    sprite: _Crescent/Structures/Industry/ammolarge.rsi
+    sprite: _Lua/Structures/Industry/ammolarge.rsi
     layers:
     - state: ammolargeinactive
       map: ["enum.LatheVisualLayers.IsRunning"]
@@ -256,7 +256,7 @@
   description: placeholder
   components:
   - type: Sprite
-    sprite: _Crescent/Structures/Industry/ordnancebench.rsi
+    sprite: _Lua/Structures/Industry/ordnancebench.rsi
     layers:
     - state: ordnanceworkbench
       map: ["enum.LatheVisualLayers.IsRunning"]

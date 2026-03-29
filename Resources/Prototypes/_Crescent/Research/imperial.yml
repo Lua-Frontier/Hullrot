@@ -76,7 +76,7 @@
   id: ImperialPsionicAttunement
   name: research-technology-imperial-psionicattunement
   icon:
-    sprite: _Crescent/Clothing/Empire/OuterClothing/mandatenullweavepsion.rsi
+    sprite: _Lua/Clothing/Empire/OuterClothing/mandatenullweavepsion.rsi
     state: icon
   discipline: Imperial
   tier: 1
@@ -89,7 +89,7 @@
   id: BasicImperialRifling
   name: research-technology-imperial-basicrifling
   icon:
-    sprite: _Crescent/Objects/Weapons/Guns/miller.rsi
+    sprite: _Lua/Objects/Weapons/Guns/miller.rsi
     state: icon
   discipline: Imperial
   tier: 1
@@ -105,7 +105,7 @@
   id: SurplusImperialRifling
   name: research-technology-imperial-surplusrifling
   icon:
-    sprite: _Crescent/Objects/Weapons/Guns/hunter.rsi
+    sprite: _Lua/Objects/Weapons/Guns/hunter.rsi
     state: icon
   discipline: Imperial
   tier: 1
@@ -219,7 +219,7 @@
   id: ImperialNobleWeapons
   name: research-technology-imperial-nobleweapons
   icon:
-    sprite: _Crescent/Objects/Weapons/Melee/noble_rapier.rsi
+    sprite: _Lua/Objects/Weapons/Melee/noble_rapier.rsi
     state: icon
   discipline: Imperial
   tier: 2
@@ -291,7 +291,7 @@
   id: ImperialAdvancedRifling
   name: research-technology-imperial-advancedrifling
   icon:
-    sprite: _Crescent/Objects/Weapons/Guns/legionnaire.rsi
+    sprite: _Lua/Objects/Weapons/Guns/legionnaire.rsi
     state: icon
   discipline: Imperial
   tier: 2
@@ -320,7 +320,7 @@
   id: ImperialPlasmaGuns
   name: research-technology-imperial-plasmaguns
   icon:
-    sprite: _Crescent/Objects/Weapons/Guns/seethe.rsi
+    sprite: _Lua/Objects/Weapons/Guns/seethe.rsi
     state: icon
   discipline: Imperial
   tier: 2
@@ -332,7 +332,7 @@
   id: ImperialJuggernaut
   name: research-technology-imperial-juggernautarmor
   icon:
-    sprite: _Crescent/Clothing/Empire/OuterClothing/mandatejuggernaut.rsi
+    sprite: _Lua/Clothing/Empire/OuterClothing/mandatejuggernaut.rsi
     state: icon
   discipline: Imperial
   tier: 3
@@ -344,7 +344,7 @@
   id: ImperialBomb
   name: research-technology-imperial-bomblauncher
   icon:
-    sprite: _Crescent/Objects/Weapons/Guns/m320.rsi
+    sprite: _Lua/Objects/Weapons/Guns/m320.rsi
     state: icon
   discipline: Imperial
   tier: 3

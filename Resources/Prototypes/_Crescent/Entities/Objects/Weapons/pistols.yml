@@ -5,7 +5,7 @@
   description: A fancy 11mm auto pistol with elongated iron sights and a supressor. Made by Cyberdawn for Cyberdawn.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/ansem.rsi
+    sprite: _Lua/Objects/Weapons/Guns/ansem.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
@@ -57,7 +57,7 @@
   description: An integrally suppressed 11mm pistol, commonly used in ethical contract termination procedures. Incredibly quiet, the only sound anyone might hear is the manual cycling of the action.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/liquidator.rsi
+    sprite: _Lua/Objects/Weapons/Guns/liquidator.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
@@ -103,7 +103,7 @@
   description: A cheap, mass-produced pistol produced for the common communard. Chambered in 9x19mm PSTF.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/comrade.rsi
+    sprite: _Lua/Objects/Weapons/Guns/comrade.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
@@ -129,7 +129,7 @@
   description: A cheap, mass-produced pistol originally produced from antiquated NanoTrasen designs.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/lockwell.rsi
+    sprite: _Lua/Objects/Weapons/Guns/lockwell.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
@@ -152,7 +152,7 @@
   description: A Desert eagle milled out of pure gold, as if a steel one wasnt heavy enough. A true sidearm of a warlord. Chambered in .327 Imperial.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/deagle.rsi
+    sprite: _Lua/Objects/Weapons/Guns/deagle.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
@@ -229,7 +229,7 @@
   description: A semi-automatic communard solution to self-defense issues amidst officers and heavyhitters. Ironically chambered in .327 Imperial.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/quasar.rsi
+    sprite: _Lua/Objects/Weapons/Guns/quasar.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
@@ -280,7 +280,7 @@
   description: A domestic firearm produced for the Shinoahara internal market. Often seen in the hands of CSEC operatives - and sometimes independent mercenaries. Chambered in 9x19mm PSTF.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/himehabu.rsi
+    sprite: _Lua/Objects/Weapons/Guns/himehabu.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
@@ -303,7 +303,7 @@
   description: A standard-issue Imperial sidearm with a laser-engraved "OLYWIR ARMAMENTS" print. Full of useless flair and polish, yet performs the same as other firearms on the market. Chambered in 9x19mm.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/compliance.rsi
+    sprite: _Lua/Objects/Weapons/Guns/compliance.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
@@ -330,7 +330,7 @@
   description: A robust little thing from the SHI development team. Chambered in custom-made 12mm depleted uranium-tip rounds - packs a punch and is capable of full auto. Chambered in heavy 12mm.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/shinobi.rsi
+    sprite: _Lua/Objects/Weapons/Guns/shinobi.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
@@ -440,7 +440,7 @@
   description: A mass-produced, 3D printed sidearm. Unable to be reloaded after use. Just twist the plastic key on top to rack the first round, and blast away.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/blastpop_red.rsi
+    sprite: _Lua/Objects/Weapons/Guns/blastpop_red.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
@@ -456,7 +456,7 @@
   description: A mass-produced, 3D printed sidearm. Unable to be reloaded after use. Just twist the plastic key on top to rack the first round, and blast away.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/blastpop_purple.rsi
+    sprite: _Lua/Objects/Weapons/Guns/blastpop_purple.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
@@ -472,7 +472,7 @@
   description: A mass-produced, 3D printed sidearm. Unable to be reloaded after use. Just twist the plastic key on top to rack the first round, and blast away.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/blastpop_grey.rsi
+    sprite: _Lua/Objects/Weapons/Guns/blastpop_grey.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
@@ -488,7 +488,7 @@
   description: A mass-produced, 3D printed sidearm. Unable to be reloaded after use. Just twist the plastic key on top to rack the first round, and blast away.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/blastpop_green.rsi
+    sprite: _Lua/Objects/Weapons/Guns/blastpop_green.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
@@ -504,7 +504,7 @@
   description: A mass-produced, 3D printed sidearm. Unable to be reloaded after use. Just twist the plastic key on top to rack the first round, and blast away.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/blastpop_yellow.rsi
+    sprite: _Lua/Objects/Weapons/Guns/blastpop_yellow.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
@@ -520,7 +520,7 @@
   description: A mass-produced, 3D printed sidearm. Unable to be reloaded after use. Just twist the plastic key on top to rack the first round, and blast away.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/blastpop_blue.rsi
+    sprite: _Lua/Objects/Weapons/Guns/blastpop_blue.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
@@ -536,7 +536,7 @@
   description: An antiquated, outdated Imperial sidearm, attributed to ancient Terran designs. Fires .327 rounds.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/tribune.rsi
+    sprite: _Lua/Objects/Weapons/Guns/tribune.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
@@ -590,7 +590,7 @@
   description: A cheap sidearm produced by Pang Tai Arms. Made for the merc on a budget. Chambered in small 6mm rounds.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/rongyu.rsi
+    sprite: _Lua/Objects/Weapons/Guns/rongyu.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
@@ -636,7 +636,7 @@
   description: A small firearm of foreign origin produced for select militias. Chambered in 9x19mm PSTF.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/luger.rsi
+    sprite: _Lua/Objects/Weapons/Guns/luger.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
@@ -659,7 +659,7 @@
   description: The Vihainen Aseperhe 3P. The choice sidearm for subjugators. Fires .327 rounds.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/sivuase.rsi
+    sprite: _Lua/Objects/Weapons/Guns/sivuase.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
@@ -704,7 +704,7 @@
   description: A bulky weapon system produced by Kane & Knox. Fielded with a suppressor and hefty laser aiming module. Chambered in 9x19mm PSTF.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/socom.rsi
+    sprite: _Lua/Objects/Weapons/Guns/socom.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]

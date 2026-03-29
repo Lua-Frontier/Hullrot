@@ -9,14 +9,14 @@
   - type: ExplosionResistance
     damageCoefficient: 0.3
   - type: Sprite
-    sprite: _Crescent/Objects/Tools/ar2case.rsi
+    sprite: _Lua/Objects/Tools/ar2case.rsi
     layers:
     - map: [ base ]
       state: icon
     - state: unshaded
       shader: unshaded
   - type: Item
-    sprite: _Crescent/Objects/Tools/ar2case.rsi
+    sprite: _Lua/Objects/Tools/ar2case.rsi
   - type: GenericVisualizer
     visuals:
       enum.StorageVisuals.Open:
@@ -50,7 +50,7 @@
   - type: ExplosionResistance
     damageCoefficient: 0.9
   - type: Sprite
-    sprite: _Crescent/Objects/Tools/grenadecase.rsi
+    sprite: _Lua/Objects/Tools/grenadecase.rsi
     layers:
     - map: [ base ]
       state: icon
@@ -86,14 +86,14 @@
   - type: ExplosionResistance
     damageCoefficient: 0.3
   - type: Sprite
-    sprite: _Crescent/Objects/Tools/pistolcase.rsi
+    sprite: _Lua/Objects/Tools/pistolcase.rsi
     layers:
     - map: [ base ]
       state: icon
     - state: unshaded
       shader: unshaded
   - type: Item
-    sprite: _Crescent/Objects/Tools/pistolcase.rsi
+    sprite: _Lua/Objects/Tools/pistolcase.rsi
     size: Normal
   - type: GenericVisualizer
     visuals:
@@ -128,14 +128,14 @@
   - type: ExplosionResistance
     damageCoefficient: 0.3
   - type: Sprite
-    sprite: _Crescent/Objects/Tools/ammocase.rsi
+    sprite: _Lua/Objects/Tools/ammocase.rsi
     layers:
     - map: [ base ]
       state: icon
     - state: unshaded
       shader: unshaded
   - type: Item
-    sprite: _Crescent/Objects/Tools/ammocase.rsi
+    sprite: _Lua/Objects/Tools/ammocase.rsi
     size: Normal
   - type: GenericVisualizer
     visuals:
@@ -170,14 +170,14 @@
   - type: ExplosionResistance
     damageCoefficient: 0.3
   - type: Sprite
-    sprite: _Crescent/Objects/Tools/smgcase.rsi
+    sprite: _Lua/Objects/Tools/smgcase.rsi
     layers:
     - map: [ base ]
       state: icon
     - state: unshaded
       shader: unshaded
   - type: Item
-    sprite: _Crescent/Objects/Tools/smgcase.rsi
+    sprite: _Lua/Objects/Tools/smgcase.rsi
     size: Large
   - type: GenericVisualizer
     visuals:
@@ -212,14 +212,14 @@
   - type: ExplosionResistance
     damageCoefficient: 0.3
   - type: Sprite
-    sprite: _Crescent/Objects/Tools/riflecase.rsi
+    sprite: _Lua/Objects/Tools/riflecase.rsi
     layers:
     - map: [ base ]
       state: icon
     - state: unshaded
       shader: unshaded
   - type: Item
-    sprite: _Crescent/Objects/Tools/riflecase.rsi
+    sprite: _Lua/Objects/Tools/riflecase.rsi
   - type: GenericVisualizer
     visuals:
       enum.StorageVisuals.Open:
@@ -253,14 +253,14 @@
   - type: ExplosionResistance
     damageCoefficient: 0.3
   - type: Sprite
-    sprite: _Crescent/Objects/Tools/snipercase.rsi
+    sprite: _Lua/Objects/Tools/snipercase.rsi
     layers:
     - map: [ base ]
       state: icon
     - state: unshaded
       shader: unshaded
   - type: Item
-    sprite: _Crescent/Objects/Tools/snipercase.rsi
+    sprite: _Lua/Objects/Tools/snipercase.rsi
   - type: GenericVisualizer
     visuals:
       enum.StorageVisuals.Open:
@@ -294,14 +294,14 @@
   - type: ExplosionResistance
     damageCoefficient: 0.3
   - type: Sprite
-    sprite: _Crescent/Objects/Tools/rpgcase.rsi
+    sprite: _Lua/Objects/Tools/rpgcase.rsi
     layers:
     - map: [ base ]
       state: icon
     - state: unshaded
       shader: unshaded
   - type: Item
-    sprite: _Crescent/Objects/Tools/rpgcase.rsi
+    sprite: _Lua/Objects/Tools/rpgcase.rsi
   - type: GenericVisualizer
     visuals:
       enum.StorageVisuals.Open:
@@ -335,14 +335,14 @@
   - type: ExplosionResistance
     damageCoefficient: 0.3
   - type: Sprite
-    sprite: _Crescent/Objects/Tools/lmgcase.rsi
+    sprite: _Lua/Objects/Tools/lmgcase.rsi
     layers:
     - map: [ base ]
       state: icon
     - state: unshaded
       shader: unshaded
   - type: Item
-    sprite: _Crescent/Objects/Tools/lmgcase.rsi
+    sprite: _Lua/Objects/Tools/lmgcase.rsi
   - type: GenericVisualizer
     visuals:
       enum.StorageVisuals.Open:
@@ -376,14 +376,14 @@
   - type: ExplosionResistance
     damageCoefficient: 0.3
   - type: Sprite
-    sprite: _Crescent/Objects/Tools/railguncase.rsi
+    sprite: _Lua/Objects/Tools/railguncase.rsi
     layers:
     - map: [ base ]
       state: icon
     - state: unshaded
       shader: unshaded
   - type: Item
-    sprite: _Crescent/Objects/Tools/railguncase.rsi
+    sprite: _Lua/Objects/Tools/railguncase.rsi
   - type: GenericVisualizer
     visuals:
       enum.StorageVisuals.Open:
@@ -417,14 +417,14 @@
   - type: ExplosionResistance
     damageCoefficient: 0.3
   - type: Sprite
-    sprite: _Crescent/Objects/Tools/shotguncase.rsi
+    sprite: _Lua/Objects/Tools/shotguncase.rsi
     layers:
     - map: [ base ]
       state: icon
     - state: unshaded
       shader: unshaded
   - type: Item
-    sprite: _Crescent/Objects/Tools/shotguncase.rsi
+    sprite: _Lua/Objects/Tools/shotguncase.rsi
   - type: GenericVisualizer
     visuals:
       enum.StorageVisuals.Open:
@@ -458,14 +458,14 @@
   - type: ExplosionResistance
     damageCoefficient: 0.3
   - type: Sprite
-    sprite: _Crescent/Objects/Tools/glcase.rsi
+    sprite: _Lua/Objects/Tools/glcase.rsi
     layers:
     - map: [ base ]
       state: icon
     - state: unshaded
       shader: unshaded
   - type: Item
-    sprite: _Crescent/Objects/Tools/glcase.rsi
+    sprite: _Lua/Objects/Tools/glcase.rsi
   - type: GenericVisualizer
     visuals:
       enum.StorageVisuals.Open:
@@ -500,14 +500,14 @@
   - type: ExplosionResistance
     damageCoefficient: 0.3
   - type: Sprite
-    sprite: _Crescent/Objects/Tools/kingpincase.rsi
+    sprite: _Lua/Objects/Tools/kingpincase.rsi
     layers:
     - map: [ base ]
       state: icon
     - state: unshaded
       shader: unshaded
   - type: Item
-    sprite: _Crescent/Objects/Tools/kingpincase.rsi
+    sprite: _Lua/Objects/Tools/kingpincase.rsi
   - type: GenericVisualizer
     visuals:
       enum.StorageVisuals.Open:
@@ -533,14 +533,14 @@
   - type: ExplosionResistance
     damageCoefficient: 0.3
   - type: Sprite
-    sprite: _Crescent/Objects/Tools/chargeriflecase.rsi
+    sprite: _Lua/Objects/Tools/chargeriflecase.rsi
     layers:
     - map: [ base ]
       state: icon
     - state: unshaded
       shader: unshaded
   - type: Item
-    sprite: _Crescent/Objects/Tools/chargeriflecase.rsi
+    sprite: _Lua/Objects/Tools/chargeriflecase.rsi
   - type: GenericVisualizer
     visuals:
       enum.StorageVisuals.Open:
@@ -575,14 +575,14 @@
   - type: ExplosionResistance
     damageCoefficient: 0.3
   - type: Sprite
-    sprite: _Crescent/Objects/Tools/porodshokcase.rsi
+    sprite: _Lua/Objects/Tools/porodshokcase.rsi
     layers:
     - map: [ base ]
       state: icon
     - state: unshaded
       shader: unshaded
   - type: Item
-    sprite: _Crescent/Objects/Tools/porodshokcase.rsi
+    sprite: _Lua/Objects/Tools/porodshokcase.rsi
   - type: GenericVisualizer
     visuals:
       enum.StorageVisuals.Open:
@@ -617,14 +617,14 @@
   - type: ExplosionResistance
     damageCoefficient: 0.3
   - type: Sprite
-    sprite: _Crescent/Objects/Tools/zodumcase.rsi
+    sprite: _Lua/Objects/Tools/zodumcase.rsi
     layers:
     - map: [ base ]
       state: icon
     - state: unshaded
       shader: unshaded
   - type: Item
-    sprite: _Crescent/Objects/Tools/zodumcase.rsi
+    sprite: _Lua/Objects/Tools/zodumcase.rsi
   - type: GenericVisualizer
     visuals:
       enum.StorageVisuals.Open:
@@ -659,12 +659,12 @@
   - type: ExplosionResistance
     damageCoefficient: 0.3
   - type: Sprite
-    sprite: _Crescent/Objects/Tools/madrugadacase.rsi
+    sprite: _Lua/Objects/Tools/madrugadacase.rsi
     layers:
     - map: [ base ]
       state: icon
   - type: Item
-    sprite: _Crescent/Objects/Tools/madrugadacase.rsi
+    sprite: _Lua/Objects/Tools/madrugadacase.rsi
   - type: GenericVisualizer
     visuals:
       enum.StorageVisuals.Open:

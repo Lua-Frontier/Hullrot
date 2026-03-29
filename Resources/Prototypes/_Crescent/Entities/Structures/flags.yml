@@ -7,7 +7,7 @@
     arc: 360
   - type: Sprite
     drawdepth: WallTops
-    sprite: _Crescent/Structures/flagssrm.rsi
+    sprite: _Lua/Structures/flagssrm.rsi
 
 - type: entity
   parent: BaseFlagSRM
@@ -74,7 +74,7 @@
     arc: 360
   - type: Sprite
     drawdepth: WallTops
-    sprite: _Crescent/Structures/churchglass.rsi
+    sprite: _Lua/Structures/churchglass.rsi
 
 - type: entity
   parent: BaseWindowSRM
@@ -94,7 +94,7 @@
     arc: 360
   - type: Sprite
     drawdepth: WallTops
-    sprite: _Crescent/Structures/taprug.rsi
+    sprite: _Lua/Structures/taprug.rsi
 
 - type: entity
   parent: BaseTAPRug
@@ -115,7 +115,7 @@
     arc: 360
   - type: Sprite
     drawdepth: WallTops
-    sprite: _Crescent/Structures/rot.rsi
+    sprite: _Lua/Structures/rot.rsi
     state: meatthin
 
 - type: entity
@@ -128,7 +128,7 @@
     arc: 360
   - type: Sprite
     drawdepth: WallTops
-    sprite: _Crescent/Structures/rot.rsi
+    sprite: _Lua/Structures/rot.rsi
     state: meatlayer
 
 - type: entity
@@ -141,7 +141,7 @@
     arc: 360
   - type: Sprite
     drawdepth: WallTops
-    sprite: _Crescent/Structures/rot.rsi
+    sprite: _Lua/Structures/rot.rsi
     state: pustule
 
 - type: entity

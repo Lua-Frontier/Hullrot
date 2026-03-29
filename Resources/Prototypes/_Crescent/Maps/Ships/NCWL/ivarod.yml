@@ -21,7 +21,7 @@
       components:
         - type: VesselIcon
           iffIcon:
-            sprite: _Crescent/ShipIcons/ifficons.rsi
+            sprite: _Lua/ShipIcons/ifficons.rsi
             state: cruiser
         - type: StationNameSetup
           mapNameTemplate: 'NCWL Ivarod {1}'

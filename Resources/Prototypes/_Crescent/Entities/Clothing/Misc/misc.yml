@@ -5,9 +5,9 @@
   description: a crude yet effective tool for relocating prisoners to remote locations.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/Misc/burlap_sack.rsi
+    sprite: _Lua/Clothing/Misc/burlap_sack.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/Misc/burlap_sack.rsi
+    sprite: _Lua/Clothing/Misc/burlap_sack.rsi
   - type: Blindfold
 
 - type: entity
@@ -17,7 +17,7 @@
   description: a commander's eyes on the battlefield.
   components:
     - type: Sprite
-      sprite: _Crescent/Clothing/Misc/pir.rsi
+      sprite: _Lua/Clothing/Misc/pir.rsi
     - type: DeviceNetwork
       deviceNetId: Wireless
       receiveFrequencyId: SurveillanceCameraSecurity

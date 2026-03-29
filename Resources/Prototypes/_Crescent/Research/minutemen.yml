@@ -12,7 +12,7 @@
   id: MinutemenBoltRifle
   name: research-technology-minutemen-light-guns
   icon:
-    sprite: _Crescent/Objects/Weapons/Guns/nimrod.rsi
+    sprite: _Lua/Objects/Weapons/Guns/nimrod.rsi
     state: icon
   discipline: Minutemen
   tier: 1
@@ -68,7 +68,7 @@
   id: MinutemenHardsuit
   name: research-technology-minutemen-hardsuit
   icon:
-    sprite: _Crescent/Clothing/CMM/OuterClothing/ensign.rsi
+    sprite: _Lua/Clothing/CMM/OuterClothing/ensign.rsi
     state: icon
   discipline: Minutemen
   tier: 2

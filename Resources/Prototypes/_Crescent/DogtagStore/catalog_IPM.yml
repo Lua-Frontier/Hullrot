@@ -148,7 +148,7 @@
   id: StoreListingIPMEquipmentHardsuit
   name: Interdyne traumasec hardsuit
   description: A modular hardsuit produced by Shinohara Heavy Industries, made for Interdyne TraumaSec officers.
-  icon: { sprite: /Textures/_Crescent/Clothing/Syndicate/OuterClothing/trauma_suit.rsi, state: icon }
+  icon: { sprite: /Textures/_Lua/Clothing/Syndicate/OuterClothing/trauma_suit.rsi, state: icon }
   productEntity: ClothingOuterHardsuitTraumasec
   cost:
     SampleIPM: 15

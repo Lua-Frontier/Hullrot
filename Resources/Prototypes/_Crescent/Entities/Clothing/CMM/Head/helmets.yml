@@ -6,9 +6,9 @@
   description: A plastic hardhat for an ammo-bearer.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/CMM/Head/ammobearerhelmet.rsi
+    sprite: _Lua/Clothing/CMM/Head/ammobearerhelmet.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/CMM/Head/ammobearerhelmet.rsi
+    sprite: _Lua/Clothing/CMM/Head/ammobearerhelmet.rsi
 
 
 - type: entity
@@ -18,9 +18,9 @@
   description: A plastic hardhat for working machinists.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/CMM/Head/enginemanhelmet.rsi
+    sprite: _Lua/Clothing/CMM/Head/enginemanhelmet.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/CMM/Head/enginemanhelmet.rsi
+    sprite: _Lua/Clothing/CMM/Head/enginemanhelmet.rsi
 
 #midshipman helm
 
@@ -33,9 +33,9 @@
   components:
   - type: BreathMask
   - type: Sprite
-    sprite: _Crescent/Clothing/CMM/Head/midshipman.rsi
+    sprite: _Lua/Clothing/CMM/Head/midshipman.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/CMM/Head/midshipman.rsi
+    sprite: _Lua/Clothing/CMM/Head/midshipman.rsi
   - type: PointLight
     radius: 6
     color: "#add8e6"
@@ -63,9 +63,9 @@
   components:
   - type: BreathMask
   - type: Sprite
-    sprite: _Crescent/Clothing/CMM/Head/patrol.rsi
+    sprite: _Lua/Clothing/CMM/Head/patrol.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/CMM/Head/patrol.rsi
+    sprite: _Lua/Clothing/CMM/Head/patrol.rsi
   - type: PointLight
     radius: 6
     color: "#add8e6"
@@ -91,9 +91,9 @@
   components:
   - type: BreathMask
   - type: Sprite
-    sprite: _Crescent/Clothing/CMM/Head/ensign.rsi
+    sprite: _Lua/Clothing/CMM/Head/ensign.rsi
   - type: Clothing
-    sprite: _Crescent/Clothing/CMM/Head/ensign.rsi
+    sprite: _Lua/Clothing/CMM/Head/ensign.rsi
   - type: PointLight
     radius: 6
     color: "#add8e6"

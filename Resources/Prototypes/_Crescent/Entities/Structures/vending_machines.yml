@@ -340,7 +340,7 @@
     pack: OnionGoodbyes
   - type: Speech
   - type: Sprite
-    sprite: _Crescent/Structures/onion.rsi
+    sprite: _Lua/Structures/onion.rsi
     layers:
     - state: "off"
       map: ["enum.VendingMachineVisualLayers.Base"]

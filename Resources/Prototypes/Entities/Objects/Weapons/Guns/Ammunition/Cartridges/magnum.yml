@@ -11,7 +11,7 @@
   - type: CartridgeAmmo
     proto: BulletMagnum
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Ammunition/Casings/pistol.rsi
+    sprite: _Lua/Objects/Weapons/Ammunition/Casings/pistol.rsi
     layers:
     - state: base
       map: ["enum.AmmoVisualLayers.Base"]

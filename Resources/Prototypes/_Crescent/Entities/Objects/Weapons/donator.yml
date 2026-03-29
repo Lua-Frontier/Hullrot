@@ -6,7 +6,7 @@
   description: A custom hand-cannon from the SHI development team that was never meant to be released. Chambered in heavy 12.7x99mm.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/zodum.rsi
+    sprite: _Lua/Objects/Weapons/Guns/zodum.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
@@ -68,14 +68,14 @@
   description: A high-end communard assault rifle, manufactured in small numbers for liquidator forces. These rifles are built with pristine rifling, and the bakelite furniture comes in light grey instead of the standard brown.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/porodshok.rsi
+    sprite: _Lua/Objects/Weapons/Guns/porodshok.rsi
     layers:
       - state: base
         map: ["enum.GunVisualLayers.Base"]
       - state: mag-0
         map: ["enum.GunVisualLayers.Mag"]
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/porodshok.rsi
+    sprite: _Lua/Objects/Weapons/Guns/porodshok.rsi
   - type: Item
     shape:
     - 0,0,4,1
@@ -141,9 +141,9 @@
   description: A experimental rifle developed by Pang Tai Arms. Extremly rare. This one has the serial number M-18. Chambered in 6×24mm.
   components:
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/charge_rifle.rsi
+    sprite: _Lua/Objects/Weapons/Guns/charge_rifle.rsi
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/charge_rifle.rsi
+    sprite: _Lua/Objects/Weapons/Guns/charge_rifle.rsi
     layers:
       - state: base
         map: ["enum.GunVisualLayers.Base"]
@@ -213,15 +213,15 @@
   description: A heavy, unwieldly and too big to put in a bag what more could you ask not to have. has a toggle lock just like the P05 Brenner, Reloaded using 27mmR stripper clips or loose rounds.
   components:
   - type: Item
-    sprite: _Crescent/Objects/Weapons/Guns/kingpin.rsi
+    sprite: _Lua/Objects/Weapons/Guns/kingpin.rsi
     size: Ginormous
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/kingpin.rsi
+    sprite: _Lua/Objects/Weapons/Guns/kingpin.rsi
     quickEquip: false
     slots:
     - Back
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/kingpin.rsi
+    sprite: _Lua/Objects/Weapons/Guns/kingpin.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
@@ -283,7 +283,7 @@
   targetNode: C8XAutocannon
   category: construction-category-tools
   description: "A handcrafted 27mm autocannon."
-  icon: { sprite: _Crescent/Objects/Weapons/Guns/kingpin.rsi, state: icon }
+  icon: { sprite: _Lua/Objects/Weapons/Guns/kingpin.rsi, state: icon }
   objectType: Item
 
 - type: constructionGraph
@@ -296,25 +296,25 @@
         steps:
         - tag: C8XAutocannonPartBarrel
           icon:
-            sprite: _Crescent/Objects/Misc/gun_parts/barrel.rsi
+            sprite: _Lua/Objects/Misc/gun_parts/barrel.rsi
             state: icon
           name: C-8X barrel
           doAfter: 2
         - tag: C8XAutocannonPartMisc
           icon:
-            sprite: _Crescent/Objects/Misc/gun_parts/misc.rsi
+            sprite: _Lua/Objects/Misc/gun_parts/misc.rsi
             state: icon
           name: C-8X miscellaneous parts
           doAfter: 2
         - tag: C8XAutocannonPartReceiver
           icon:
-            sprite: _Crescent/Objects/Misc/gun_parts/reicever.rsi
+            sprite: _Lua/Objects/Misc/gun_parts/reicever.rsi
             state: icon
           name: C-8X receiver
           doAfter: 2
         - tag: C8XAutocannonPartBlueprint
           icon:
-            sprite: _Crescent/Objects/Misc/gun_parts/blueprint.rsi
+            sprite: _Lua/Objects/Misc/gun_parts/blueprint.rsi
             state: icon
           name: C-8X blueprint
           doAfter: 2
@@ -361,9 +361,9 @@
   description: A high quality pulse rifle developed by Wu-Tan Industries, a Shinohara subsidiary. Packs a pounch but lacks penetration, makes a loud clank sound when bolting that some find satisfying. Chambered in .350 PCM.
   components:
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/ar2.rsi
+    sprite: _Lua/Objects/Weapons/Guns/ar2.rsi
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/ar2.rsi
+    sprite: _Lua/Objects/Weapons/Guns/ar2.rsi
     layers:
       - state: base
         map: ["enum.GunVisualLayers.Base"]
@@ -437,14 +437,14 @@
   description: A fancy heat-seeking rocket launcher. Stamped with the Shinohara Heavy Industries logo.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/hammerhead.rsi
+    sprite: _Lua/Objects/Weapons/Guns/hammerhead.rsi
     layers:
       - state: base
         map: ["enum.GunVisualLayers.Base"]
       - state: mag-0
         map: ["enum.GunVisualLayers.Mag"]
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/hammerhead.rsi
+    sprite: _Lua/Objects/Weapons/Guns/hammerhead.rsi
   - type: GunRequiresWield
   - type: Item
     shape:
@@ -488,7 +488,7 @@
   - type: Item
     size: Normal
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/cycler.rsi
+    sprite: _Lua/Objects/Weapons/Guns/cycler.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
@@ -496,7 +496,7 @@
       map: ["enum.GunVisualLayers.MagUnshaded"]
       shader: unshaded
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/cycler.rsi
+    sprite: _Lua/Objects/Weapons/Guns/cycler.rsi
   - type: Gun
     fireRate: 6
     selectedMode: FullAuto
@@ -595,14 +595,14 @@
   components:
   - type: GunRequiresWield
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/corrux.rsi
+    sprite: _Lua/Objects/Weapons/Guns/corrux.rsi
     layers:
       - state: base
         map: ["enum.GunVisualLayers.Base"]
   - type: Item
-    sprite: _Crescent/Objects/Weapons/Guns/corrux.rsi
+    sprite: _Lua/Objects/Weapons/Guns/corrux.rsi
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/corrux.rsi
+    sprite: _Lua/Objects/Weapons/Guns/corrux.rsi
     quickEquip: false
     slots:
     - Back
@@ -621,7 +621,7 @@
   description: This compact cutter fires bolts of ionized plasma that cut easily through most surfaces, making it a cheap but versatile mining tool. This one has been haphazardly modified to work as a self defense tool.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/plasmacutter.rsi
+    sprite: _Lua/Objects/Weapons/plasmacutter.rsi
   - type: RCD
     isScrapper: true
     availablePrototypes:
@@ -649,7 +649,7 @@
     size: Normal
     shape:
       - 0,0,2,1
-    sprite: _Crescent/Objects/Weapons/plasmacutter.rsi
+    sprite: _Lua/Objects/Weapons/plasmacutter.rsi
   - type: ReverseEngineering # Sector Crescent
     difficulty: 3
     recipes:
@@ -728,7 +728,7 @@
   components:
   - type: Sharp
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Melee/plasma_sword.rsi
+    sprite: _Lua/Objects/Weapons/Melee/plasma_sword.rsi
     state: icon
   - type: Tag
     tags:
@@ -752,7 +752,7 @@
     soundHit:
        path: /Audio/Weapons/eblade1.ogg
   - type: Item
-    sprite: _Crescent/Objects/Weapons/Melee/plasma_sword.rsi
+    sprite: _Lua/Objects/Weapons/Melee/plasma_sword.rsi
   - type: Tool
     qualities:
       - Prying
@@ -776,10 +776,10 @@
   description: An old scabbard of unknown make. It still bears scratches and dents, which attest to its long service. But even after all this time, the material holds, probably due in part to the fact that it’s meant to contain raging plasma. The gold trim is engraved with symbols you do not recognise.
   components:
   - type: Sprite
-    sprite: _Crescent/Clothing/Empire/Belt/plasma_sword_sheath.rsi
+    sprite: _Lua/Clothing/Empire/Belt/plasma_sword_sheath.rsi
     state: sheath
   - type: Clothing
-    sprite: _Crescent/Clothing/Empire/Belt/plasma_sword_sheath.rsi
+    sprite: _Lua/Clothing/Empire/Belt/plasma_sword_sheath.rsi
   - type: Item
     size: Ginormous
   - type: ItemSlots
@@ -929,14 +929,14 @@
   description: Handcrafted modification by Libitina of the legendary WT50. With a sapphire coating on the outside and a ruby heart on the right side. Death has never been so rich or so sweet with this weapon.
   components:
   - type: Sprite
-    sprite: _Crescent/Objects/Weapons/Guns/sweet_morningstar.rsi
+    sprite: _Lua/Objects/Weapons/Guns/sweet_morningstar.rsi
     layers:
       - state: base
         map: ["enum.GunVisualLayers.Base"]
       - state: mag-0
         map: ["enum.GunVisualLayers.Mag"]
   - type: Clothing
-    sprite: _Crescent/Objects/Weapons/Guns/sweet_morningstar.rsi
+    sprite: _Lua/Objects/Weapons/Guns/sweet_morningstar.rsi
   - type: ChamberMagazineAmmoProvider
     boltClosed: null
   - type: Gun
