@@ -27,7 +27,7 @@ jobs:
     - name: Get Engine Tag
       run: |
         cd RobustToolbox
-        git fetch --depth=1 origin 268.1patch
+        git fetch --depth=1 origin 268.1patch:268.1patch
         git checkout 268.1patch
 
     - name: Install dependencies
