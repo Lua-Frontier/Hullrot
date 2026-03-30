@@ -2616,7 +2616,7 @@ entities:
       flags: IsPlayerShuttle
     - type: VesselIcon
       iffIcon:
-        sprite: _Crescent/ShipIcons/ifficons.rsi
+        sprite: _Lua/ShipIcons/ifficons.rsi
         state: frigate
     - type: VesselDesignation
       designation: vessel-designation-assault-frigate

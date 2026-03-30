@@ -433,7 +433,7 @@ entities:
       shuttleUid: 1
     - type: VesselIcon
       iffIcon:
-        sprite: _Crescent/ShipIcons/ifficons.rsi
+        sprite: _Lua/ShipIcons/ifficons.rsi
         state: fighter
     - type: BecomesStation
       id: Itch

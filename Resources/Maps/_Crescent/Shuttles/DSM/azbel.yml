@@ -592,7 +592,7 @@ entities:
       flags: IsPlayerShuttle
     - type: VesselIcon
       iffIcon:
-        sprite: _Crescent/ShipIcons/ifficons.rsi
+        sprite: _Lua/ShipIcons/ifficons.rsi
         state: outpost
     - type: ShuttleDeed
       shuttleName: Shuttle MV-927

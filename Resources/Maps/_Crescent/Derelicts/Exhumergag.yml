@@ -928,7 +928,7 @@ entities:
         chunkSize: 4
     - type: VesselIcon
       iffIcon:
-        sprite: _Crescent/ShipIcons/ifficons.rsi
+        sprite: _Lua/ShipIcons/ifficons.rsi
         state: industrial
     - type: GasTileOverlay
     - type: RadiationGridResistance

@@ -3913,7 +3913,7 @@ entities:
       id: Hammerhead
     - type: VesselIcon
       iffIcon:
-        sprite: _Crescent/ShipIcons/ifficons.rsi
+        sprite: _Lua/ShipIcons/ifficons.rsi
         state: large_industrial
     - type: SelfDeleteGrid
 - proto: AAAHardpointFixed

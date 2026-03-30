@@ -44,7 +44,7 @@ entities:
       parent: invalid
     - type: VesselIcon
       iffIcon:
-        sprite: _Crescent/ShipIcons/ifficons.rsi
+        sprite: _Lua/ShipIcons/ifficons.rsi
         state: frigate
     - type: BecomesStation
       id: Duchess

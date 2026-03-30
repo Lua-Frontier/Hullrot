@@ -66668,7 +66668,7 @@ entities:
     - type: GasTileOverlay
     - type: VesselIcon
       iffIcon:
-        sprite: _Crescent/ShipIcons/ifficons.rsi
+        sprite: _Lua/ShipIcons/ifficons.rsi
         state: capital
     - type: RadiationGridResistance
     - type: BecomesStation
